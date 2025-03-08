@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hugo.robertvesco.com/about/</loc>
+    <lastmod>2025-03-06T11:41:40+01:00</lastmod>
+  </url><url>
+    <loc>https://hugo.robertvesco.com/</loc>
+    <lastmod>2025-03-06T11:41:40+01:00</lastmod>
+  </url><url>
+    <loc>https://hugo.robertvesco.com/posts/my-first-post/</loc>
+    <lastmod>2025-03-06T09:37:22+01:00</lastmod>
+  </url><url>
+    <loc>https://hugo.robertvesco.com/posts/</loc>
+    <lastmod>2025-03-06T09:37:22+01:00</lastmod>
+  </url><url>
+    <loc>https://hugo.robertvesco.com/tags/</loc>
+    <lastmod>2025-03-06T09:37:22+01:00</lastmod>
+  </url><url>
+    <loc>https://hugo.robertvesco.com/tags/test/</loc>
+    <lastmod>2025-03-06T09:37:22+01:00</lastmod>
+  </url><url>
+    <loc>https://hugo.robertvesco.com/tags/test2/</loc>
+    <lastmod>2025-03-06T09:37:22+01:00</lastmod>
+  </url><url>
+    <loc>https://hugo.robertvesco.com/categories/</loc>
+  </url>
+</urlset>
