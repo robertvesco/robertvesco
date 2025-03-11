@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Analysis on Robert Vesco</title>
+    <link>https://hugo.robertvesco.com/tags/network-analysis/</link>
+    <description>Recent content in Network Analysis on Robert Vesco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://hugo.robertvesco.com/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topic Models Network Analysis</title>
+      <link>https://hugo.robertvesco.com/posts/topic-models-network-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.robertvesco.com/posts/topic-models-network-analysis/</guid>
+      <description>&lt;p&gt;In preparation for a workshop at this year’s Academy of Management
+conference my colleague &lt;a href=&#34;https://telfer.uottawa.ca/en/directory/tim-hannigan/&#34;&gt;Tim Hannigan&lt;/a&gt; and I gathered data on all the
+sessions and workshops. We then processed them using R’s topic models
+package to extract “themes” from the abstracts.The purpose was to
+identify what the divisions at Academy were discussing and to look at
+the overlap between them. The image below is one result from this work&lt;/p&gt;</description>
+      <content>&lt;p&gt;In preparation for a workshop at this year’s Academy of Management
+conference my colleague &lt;a href=&#34;https://telfer.uottawa.ca/en/directory/tim-hannigan/&#34;&gt;Tim Hannigan&lt;/a&gt; and I gathered data on all the
+sessions and workshops. We then processed them using R’s topic models
+package to extract “themes” from the abstracts.The purpose was to
+identify what the divisions at Academy were discussing and to look at
+the overlap between them. The image below is one result from this work&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/old/topic-models/Screenshot-from-2014-07-29-215955.png&#34;  alt=&#34;Mapping the relation between topics and Academy of Management Divisions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Mapping the relation between topics and Academy of Management Divisions&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;What you see is a bipartite graph
+which is essentially a network graph with two types of entities. In
+this case our entities are AOM divisions (in black text encased in the
+red blob) and topics (in blue text). The theme for this year’s
+conference is the “Power of Words”. Thus, it’s fortunate that the
+“Power Words” topic we identified from abstracts is squarely in the
+center of the red blob. This means it’s a central theme relative to
+the divisions. Thus, the divisions have done a good job of
+incorporating the theme. Another interesting feature is that there are
+divisions, such as HR/OB, TIM, OMT, that are central to topics. That
+means that they are diverse with respect to themes.&lt;/p&gt;
+&lt;p&gt;Outliers are located in complement of the intersection of the colored
+blobs. Thus, divisions such OM (Operations Management) could be
+considered outlying, and among topics, supply chain would be as
+well. In this case, supply chain is the theme most linked to OM.  In
+contrast, there are outlying themes, such as FirmPerformance, that are
+strongly tied to central divisions. In this case, those divisions are
+TIM, OMT and BPS — but not much else.&lt;/p&gt;
+&lt;p&gt;Anyway, topic analysis is a cool way to identify themes in text and
+opens up a lot of exciting possibilities. For instance, one neat thing
+to do would be to look at how themes within Academy have changed over
+the years.&lt;/p&gt;</content>
+    </item>
+    
+  </channel>
+</rss>

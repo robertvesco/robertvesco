@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media on Robert Vesco</title>
+    <link>https://hugo.robertvesco.com/tags/media/</link>
+    <description>Recent content in Media on Robert Vesco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://hugo.robertvesco.com/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Impact of Media on Entrepreneurship and Startups</title>
+      <link>https://hugo.robertvesco.com/posts/media-entrepreneurship-across-countries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.robertvesco.com/posts/media-entrepreneurship-across-countries/</guid>
+      <description>&lt;p&gt;So there has been a lot talk about how the media hype machine is
+setting entrepreneurs up for failure. That is, it’s
+encouraging folks who may not be serious to try their hand at starting
+a business when they probably shouldn’t. Below are some charts on the
+relationship between media, legitimacy and entrepreneurship that
+attempt to understand media’s impact.&lt;/p&gt;</description>
+      <content>&lt;p&gt;So there has been a lot talk about how the media hype machine is
+setting entrepreneurs up for failure. That is, it’s
+encouraging folks who may not be serious to try their hand at starting
+a business when they probably shouldn’t. Below are some charts on the
+relationship between media, legitimacy and entrepreneurship that
+attempt to understand media’s impact.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;On the Data:&lt;/p&gt;
+&lt;p&gt;The data come from the Global Entrepreneurship Monitor‘s individual level surveys for years 2006-2008 where they survey folks from over 100 countries. Prior years did not have questions about media. There are about 250,000 individual level observations from nearly 50 countries in this particular analysis.&lt;/p&gt;
+&lt;p&gt;Intentions = Folks who are thinking about starting a business (i.e. business plan phase, talking about it)
+Entry = Not just talk. They have either made some profits in the last 12 months or paid employees for at least 3.
+Media = Have you seen success stories of new ventures in the public media?
+Legitimacy = Is entrepreneurship a desirable career choice in your country?&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Below are some descriptive statistics at the the country-level. The
+countries are sorted by the percentage of individuals (using a random
+sample) who saw success stories of new ventures in the public media. I
+break it down by high and middle income countries as defined by the
+World Bank. Eyeballing it, it appears there might be some sort of
+relationship between media and intentions in middle income
+countries. Again, this is just descriptive and it doesn’t control for
+any other factors.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/old/entrepreneurship/CountryEntrybyMedia.png&#34;  alt=&#34;Entry by Country&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Figure 1: Intention, Entry and Media&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Below is the interaction effect between the level of legitimacy of
+entrepreneurship in a country and the media success stories of
+entrepreneurship. I look at their joint impact on an individual’s
+likelihood to have entrepreneurial intentions and entry into the
+market. In this analysis, I control for as many relevant individual
+and country-level factors as I can such as: age, education, wealth,
+GDP, competitive pressure, property rights, and much more. The red and
+blue colored symbols show where the effects are significant at the 95%
+level.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/old/entrepreneurship/intgph_intention_entry_MediaXLegit_1SD_final.png&#34;  alt=&#34;Interaction Effects&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Figure 2: Interactions&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;In effect I am asking this question:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If we increase media by 1 standard deviation from the mean, how
+might this affect an individuals’ intentions and entry contingent
+on how cool entrepreneurship already is in their country?&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;One possible interpretation is that in countries where
+entrepreneurship is not cool, media boosts entry more than intentions
+on a relative basis. I say relative because in absolute terms the
+number of people with entrepreneurial intentions is always greater
+than those who actually succeed in entering the market and this
+analysis looks at % not absolute numbers. Obviously, many people drop
+out of entrepreneurship once reality hits them.&lt;/p&gt;
+&lt;p&gt;In contrast, in countries where entrepreneurship is already cool, or
+at least very acceptable, increasing media probably contributes to the
+hype machine so intentions will increase more relative to entry.&lt;/p&gt;
+&lt;p&gt;So again, it may be that the media success stories of entrepreneurs
+helps entrepreneurs in countries where entrepreneurship is not very
+accepted, but less so in countries where it is already accepted.&lt;/p&gt;
+&lt;p&gt;One other thing to note is that media increases both intentions and
+entry no matter what. So one might argue that who cares if media
+creates hype that causes more people to have intentions than they
+should. It also increases entry. So maybe that gal who was going to
+join a hedge fund or consulting firm instead started her own business
+and was successful… though success in this case is NOT in performance,
+but simply in entry so I can’t say much about how successful they
+truly were – only that they reached one particularly important
+milestone. This is a limitation of the data.&lt;/p&gt;</content>
+    </item>
+    
+  </channel>
+</rss>

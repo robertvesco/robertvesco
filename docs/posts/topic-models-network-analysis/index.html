@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Topic Models Network Analysis :: Robert Vesco</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="In preparation for a workshop at this year’s Academy of Management conference my colleague Tim Hannigan and I gathered data on all the sessions and workshops. We then processed them using R’s topic models package to extract “themes” from the abstracts.The purpose was to identify what the divisions at Academy were discussing and to look at the overlap between them. The image below is one result from this work
+" />
+<meta name="keywords" content="topics models, network analysis, academy of management, AOM, data sciences, AI, text analysis" />
+
+  <meta name="robots" content="noodp" />
+
+<link rel="canonical" href="https://hugo.robertvesco.com/posts/topic-models-network-analysis/" />
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://hugo.robertvesco.com/styles.css">
+
+
+
+
+
+
+
+  <link rel="shortcut icon" href="https://hugo.robertvesco.com/img/theme-colors/orange.png">
+  <link rel="apple-touch-icon" href="https://hugo.robertvesco.com/img/theme-colors/orange.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+  
+    <meta name="twitter:site" content="" />
+  
+    <meta name="twitter:creator" content="" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Topic Models Network Analysis">
+<meta property="og:description" content="In preparation for a workshop at this year’s Academy of Management conference my colleague Tim Hannigan and I gathered data on all the sessions and workshops. We then processed them using R’s topic models package to extract “themes” from the abstracts.The purpose was to identify what the divisions at Academy were discussing and to look at the overlap between them. The image below is one result from this work
+" />
+<meta property="og:url" content="https://hugo.robertvesco.com/posts/topic-models-network-analysis/" />
+<meta property="og:site_name" content="Robert Vesco" />
+
+  
+    <meta property="og:image" content="https://hugo.robertvesco.com/img/favicon/orange.png">
+  
+
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+     
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['\\[', '\\]'], ['$$', '$$']],  
+      inlineMath: [['\\(', '\\)']]                  
+    },
+    loader:{
+      load: ['ui/safe']
+    },
+  };
+</script>
+
+  
+
+</head>
+<body class="orange">
+
+
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    Robert Vesco
+  </div>
+</a>
+
+    </div>
+    
+      <ul class="menu menu--mobile">
+  <li class="menu__trigger">Menu&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="/tags">Tags</a></li>
+        
+      
+      
+    </ul>
+  </li>
+</ul>
+
+    
+    
+  </div>
+  
+    <nav class="navigation-menu">
+  <ul class="navigation-menu__inner menu--desktop">
+    
+      
+      
+        
+          <li><a href="/about" >About</a></li>
+        
+      
+        
+          <li><a href="/tags" >Tags</a></li>
+        
+      
+      
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<article class="post">
+  <h1 class="post-title">
+    <a href="https://hugo.robertvesco.com/posts/topic-models-network-analysis/">Topic Models Network Analysis</a>
+  </h1>
+  <div class="post-meta">
+    
+</div>
+
+  
+    <span class="post-tags">
+      
+      #<a href="https://hugo.robertvesco.com/tags/topic-models/">topic models</a>&nbsp;
+      
+      #<a href="https://hugo.robertvesco.com/tags/network-analysis/">network analysis</a>&nbsp;
+      
+      #<a href="https://hugo.robertvesco.com/tags/academia/">academia</a>&nbsp;
+      
+    </span>
+  
+  
+
+
+
+  
+
+  <div class="post-content"><div>
+        <p>In preparation for a workshop at this year’s Academy of Management
+conference my colleague <a href="https://telfer.uottawa.ca/en/directory/tim-hannigan/">Tim Hannigan</a> and I gathered data on all the
+sessions and workshops. We then processed them using R’s topic models
+package to extract “themes” from the abstracts.The purpose was to
+identify what the divisions at Academy were discussing and to look at
+the overlap between them. The image below is one result from this work</p>
+
+  <figure class="center" >
+    <img src="/img/old/topic-models/Screenshot-from-2014-07-29-215955.png"  alt="Mapping the relation between topics and Academy of Management Divisions"   style="max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;"  />
+    
+      <figcaption class="left"  style="color: black;" >Mapping the relation between topics and Academy of Management Divisions</figcaption>
+    
+  </figure>
+
+
+<p>What you see is a bipartite graph
+which is essentially a network graph with two types of entities. In
+this case our entities are AOM divisions (in black text encased in the
+red blob) and topics (in blue text). The theme for this year’s
+conference is the “Power of Words”. Thus, it’s fortunate that the
+“Power Words” topic we identified from abstracts is squarely in the
+center of the red blob. This means it’s a central theme relative to
+the divisions. Thus, the divisions have done a good job of
+incorporating the theme. Another interesting feature is that there are
+divisions, such as HR/OB, TIM, OMT, that are central to topics. That
+means that they are diverse with respect to themes.</p>
+<p>Outliers are located in complement of the intersection of the colored
+blobs. Thus, divisions such OM (Operations Management) could be
+considered outlying, and among topics, supply chain would be as
+well. In this case, supply chain is the theme most linked to OM.  In
+contrast, there are outlying themes, such as FirmPerformance, that are
+strongly tied to central divisions. In this case, those divisions are
+TIM, OMT and BPS — but not much else.</p>
+<p>Anyway, topic analysis is a cool way to identify themes in text and
+opens up a lot of exciting possibilities. For instance, one neat thing
+to do would be to look at how themes within Academy have changed over
+the years.</p>
+      </div></div>
+
+  
+    
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h">Read other posts</span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        <span class="button previous">
+            <a href="https://hugo.robertvesco.com/posts/media-entrepreneurship-across-countries/">
+                <span class="button__icon">←</span>
+                <span class="button__text">The Impact of Media on Entrepreneurship and Startups</span>
+            </a>
+        </span>
+        
+        
+        <span class="button next">
+            <a href="https://hugo.robertvesco.com/posts/was-teece-precient/">
+                <span class="button__text">Was Teece Precient</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+    
+
+  
+</article>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2025 Powered by <a href="https://gohugo.io">Hugo</a></span>
+    
+      <span>:: <a href="https://github.com/mirus-ua/hugo-theme-re-terminal" target="_blank">Theme</a> made by <a href="https://github.com/mirus-ua" target="_blank">Mirus</a></span>
+      </div>
+  </div>
+</footer>
+
+
+
+
+
+
+<script type="text/javascript" src="/bundle.min.js"></script>
+
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

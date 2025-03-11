@@ -5,24 +5,93 @@
     <link>https://hugo.robertvesco.com/tags/</link>
     <description>Recent content in Tags on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 06 Mar 2025 09:37:22 +0100</lastBuildDate><atom:link href="https://hugo.robertvesco.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://hugo.robertvesco.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://hugo.robertvesco.com/tags/test/</link>
-      <pubDate>Thu, 06 Mar 2025 09:37:22 +0100</pubDate>
+      <title>Academia</title>
+      <link>https://hugo.robertvesco.com/tags/academia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.robertvesco.com/tags/test/</guid>
+      <guid>https://hugo.robertvesco.com/tags/academia/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
-      <title>Test2</title>
-      <link>https://hugo.robertvesco.com/tags/test2/</link>
-      <pubDate>Thu, 06 Mar 2025 09:37:22 +0100</pubDate>
+      <title>Data Science</title>
+      <link>https://hugo.robertvesco.com/tags/data-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.robertvesco.com/tags/test2/</guid>
+      <guid>https://hugo.robertvesco.com/tags/data-science/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Development Policy</title>
+      <link>https://hugo.robertvesco.com/tags/development-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.robertvesco.com/tags/development-policy/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>https://hugo.robertvesco.com/tags/emacs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.robertvesco.com/tags/emacs/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Entrepreneurship</title>
+      <link>https://hugo.robertvesco.com/tags/entrepreneurship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.robertvesco.com/tags/entrepreneurship/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Innovation</title>
+      <link>https://hugo.robertvesco.com/tags/innovation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.robertvesco.com/tags/innovation/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>https://hugo.robertvesco.com/tags/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.robertvesco.com/tags/media/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Network Analysis</title>
+      <link>https://hugo.robertvesco.com/tags/network-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.robertvesco.com/tags/network-analysis/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Topic Models</title>
+      <link>https://hugo.robertvesco.com/tags/topic-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.robertvesco.com/tags/topic-models/</guid>
       <description></description>
       <content></content>
     </item>

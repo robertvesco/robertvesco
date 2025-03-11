@@ -8,45 +8,449 @@
     <language>en</language>
     <lastBuildDate>Thu, 06 Mar 2025 09:37:22 +0100</lastBuildDate><atom:link href="https://hugo.robertvesco.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://hugo.robertvesco.com/posts/my-first-post/</link>
-      <pubDate>Thu, 06 Mar 2025 09:37:22 +0100</pubDate>
+      <title>Emacs for Data Science</title>
+      <link>https://hugo.robertvesco.com/posts/emacs-for-data-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.robertvesco.com/posts/my-first-post/</guid>
-      <description>&lt;p&gt;This is a test post. I want to be able to have one post that encapsulates most of the things that I want to have. On gihub now.&lt;/p&gt;</description>
-      <content>&lt;p&gt;This is a test post. I want to be able to have one post that encapsulates most of the things that I want to have. On gihub now.&lt;/p&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
-\[
-\begin{aligned}
-KL(\hat{y} || y) &amp;= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\
-JS(\hat{y} || y) &amp;= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2}))
-\end{aligned}
-\]&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &amp;lt; &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt; {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Value of i:&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;images--figures&#34;&gt;images / figures&lt;/h2&gt;
-&lt;p&gt;Image2&lt;/p&gt;
-
-&lt;img src=&#34;../img/emacs_sqlite.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;    /&gt;
-
-
-&lt;p&gt;Figure2&lt;/p&gt;
+      <guid>https://hugo.robertvesco.com/posts/emacs-for-data-science/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;tl;dr:
+If you want an editor that works with R, python, SAS, Stata, SQL and
+almost any other data science language. If you want an editor with
+IDE-like features. If you want an editor that works on any platform and
+as well as on the terminal. If you&amp;rsquo;re a fan of literate
+programming. If you want an editor that is highly customizable and
+will be around after most editors have come and gone, then you&amp;rsquo;d be
+hard pressed to find anything better than emacs.&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content>&lt;blockquote&gt;
+&lt;p&gt;tl;dr:
+If you want an editor that works with R, python, SAS, Stata, SQL and
+almost any other data science language. If you want an editor with
+IDE-like features. If you want an editor that works on any platform and
+as well as on the terminal. If you&amp;rsquo;re a fan of literate
+programming. If you want an editor that is highly customizable and
+will be around after most editors have come and gone, then you&amp;rsquo;d be
+hard pressed to find anything better than emacs.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;If you work in exclusively in R, you might want to work in&lt;a href=&#34;http://www.rstudio.com&#34;&gt;Rstudio&lt;/a&gt; . If
+you work in python, you might be tempted by &lt;a href=&#34;https://code.google.com/p/spyderlib/&#34;&gt;Spyder&lt;/a&gt;. Chances are there
+is a specialized IDE for whatever language you typically work in. But
+that&amp;rsquo;s the rub. What if you want to work in another language? Or
+combine languages? You end up using several IDEs, but not knowing them
+well. Plus, once they fall out of favor or stop being updated, your
+hard-gained knowledge is lost. At the other end of the spectrum there
+are text editors like notepad++ and sublime. These work with just
+about any language you can imagine and with some add-ons you can get
+additional features, but they tend to be limited to certain platforms
+and customization is often non-trivial.&lt;/p&gt;
+&lt;p&gt;A modern data scientist often has to work on multiple platforms with
+multiple languages. Some projects may be in R others in Python. Or
+perhaps you have to work on a cluster with no gui. Or maybe you need to
+write papers with latex. You can do all that with Emacs and customize
+it to do whatever you like. I won&amp;rsquo;t lie though. The learning curve can
+be steep, but I think the investment is worth it.&lt;/p&gt;
+&lt;p&gt;Below are some key features that I think make Emacs an excellent
+editor for any data scientist.&lt;/p&gt;
+&lt;h1 id=&#34;ide-like-features&#34;&gt;IDE-like features&lt;/h1&gt;
+&lt;p&gt;For most programming languages, you get out-of-the-box syntax
+highlighting. Packages like &lt;a href=&#34;http://ess.r-project.org/Manual/ess.html&#34;&gt;ESS&lt;/a&gt; and &lt;a href=&#34;https://github.com/jorgenschaefer/elpy&#34;&gt;Elpy&lt;/a&gt; provide additional features
+like autocompletion, documentation and debugging capabilities. The
+number of IDE features available will vary by language, but at minimum
+there is probably syntax highlighting and some form of autocompletion.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;../img/emacs_sqlite.png&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_autocomplete.png&#34;  alt=&#34;autocomplete in emacs&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
-      &lt;figcaption class=&#34;right&#34;  style=&#34;color: red;&#34; &gt;Hello Friend!&lt;/figcaption&gt;
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;autocomplete in emacs&lt;/figcaption&gt;
     
-  &lt;/figure&gt;</content>
+  &lt;/figure&gt;
+
+
+&lt;p&gt;One of the things that I enjoy is easy access to help and function
+parameters &amp;hellip; which often also come with autocomplete.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/blog_R_help_syntax.png&#34;  alt=&#34;help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;help for functions&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_parameter_help.png&#34;  alt=&#34;parameter help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;parameter help for functions&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Enough with the print statements already and debug that R and python code!&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_debug.png&#34;  alt=&#34;Interactive debugging with conditional breakpoint&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Interactive debugging with conditional breakpoint&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;One of the features that first sold me on Emacs was interactive
+commands. With a keyboard short cut you can send a buffer, function,
+paragraph or line to the interpreter. Let me be clear &amp;ndash; you don&amp;rsquo;t
+even have to highlight the code. This saves you a ton of time when you&amp;rsquo;re
+doing statistical analysis[fn:: Like many other features this will
+depend on the package you install. That said, it&amp;rsquo;s easy to
+implement this feature for your favorite language].&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_interactive.gif&#34;  alt=&#34;interactive&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Interactive Commands&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;sql-too&#34;&gt;SQL too&lt;/h1&gt;
+&lt;p&gt;Do you work with databases? Many of the same benefits mentioned above
+also apply to sql. Work with sqlite, postgresql, mysql and other databases
+interactively. Do you have a long SQL statement you are debugging? No
+problem. Iterate quickly.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_sqlite.png&#34;  alt=&#34;Interactive SQL&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Interactive SQL&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;org-mode--literate-programming&#34;&gt;Org mode / Literate Programming&lt;/h1&gt;
+&lt;p&gt;Do you write publications? Do you want to keep your code and paper
+together? You a believer in reproducible research? With emacs you can
+put any language you want in your document. While Rstudio allows this
+also, you&amp;rsquo;re limited to just R and latex.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_literate.png&#34;  alt=&#34;Literate Programming&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Literate Programming&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;do you need latex? No problem.&lt;/p&gt;
+&lt;p&gt;\frac{3}{4}&lt;/p&gt;
+&lt;p&gt;They key to this magic is a monster package called &lt;a href=&#34;http://orgmode.org/features.html&#34;&gt;org mode&lt;/a&gt;. It is one of
+emac&amp;rsquo;s killer features. You can also use this to organize your code
+&amp;hellip; or your life.&lt;/p&gt;
+$$\frac{3}{4}$$&lt;h1 id=&#34;terminalremote-editing&#34;&gt;Terminal/remote editing&lt;/h1&gt;
+&lt;p&gt;Sometime you need to remote into a server. Or perhaps you are working on a
+cluster with no gui and you need to interactively debug your scripts.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_terminal.png&#34;  alt=&#34;Emacs works in the terminal&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Emacs works in the terminal&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;interacting-with-the-shell&#34;&gt;Interacting with the shell&lt;/h1&gt;
+&lt;p&gt;Is there are terminal command you wish you could run? In emacs you can
+run terminal commands easily. But what makes this feature super cool
+is that it can operate on your text. You can select a region of code,
+send it to a terminal command and have that stdout replace the text in
+your buffer!&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_shell.png&#34;  alt=&#34;Using SED to find and replace text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Use terminal commands to operate on text&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;rectangle-editing&#34;&gt;Rectangle editing&lt;/h1&gt;
+&lt;p&gt;Data scientists often work with tabular data. Sometimes you may want
+to delete or move a column around. Or perhaps there is a block of
+white space you need to change.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_rectangle.gif&#34;  alt=&#34;Using rectangle mode to alter blocks of text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Using rectangle mode to alter blocks of text&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;everything-at-your-finger-tips&#34;&gt;Everything at your finger tips&lt;/h1&gt;
+&lt;p&gt;Emacs has numerous packages that allow you to search and find files,
+functions and anything else that you can imagine. But by far the best
+is helm. With just a few keys you can instantly find what you are
+looking for. I couldn&amp;rsquo;t do it justice, but this demo gives you a taste
+for the amazing things it can do.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://tuhdo.github.io/helm-intro.html&#34;&gt;http://tuhdo.github.io/helm-intro.html&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Any feature you want&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Perhaps you&amp;rsquo;re wedded to sublime&amp;rsquo;s multiple cursors? You can get it:
+&lt;a href=&#34;http://emacsrocks.com/&#34;&gt;http://emacsrocks.com/&lt;/a&gt;. Or perhaps you&amp;rsquo;re a long time vim user? Evil Mode
+gives you the editing power of Vim with the utility of emacs. If you&amp;rsquo;re
+a git user, Emac&amp;rsquo;s has magit which make working with git a joy. If there
+is something that it doesn&amp;rsquo;t have, check for pacakges, else emacs is the most customizable
+editor you will find. Almost everything about it can be made to work
+your particular work flow.&lt;/p&gt;
+&lt;h1 id=&#34;30-years-old-and-a-large-user-base&#34;&gt;30+ years old and a large user base&lt;/h1&gt;
+&lt;p&gt;Emacs has been around a long time. Code that was written a decade ago
+mostly still work. And every year it&amp;rsquo;s getting better. However, emacs
+24 is amazing. If you tried emacs years ago, you should give it
+another try. It now has package management built in, so you can easily
+add testing packages. Importantly, there is no sign that emacs is
+going away anytime soon and it&amp;rsquo;s free. It will likely be around for at
+least another decade if not more.&lt;/p&gt;
+&lt;h1 id=&#34;so-what-are-the-downsides&#34;&gt;So what are the downsides?&lt;/h1&gt;
+&lt;h2 id=&#34;legacy-code-on-the-intertubes-confuses-people&#34;&gt;Legacy code on the intertubes confuses people&lt;/h2&gt;
+&lt;p&gt;Emacs has been around a long time. Emacs 24 was a huge improvement,
+but it also broke a lot of things. Same goes for Org-mode between
+versions 7 and 8. A lot of stuff on the intertubes will lead you
+astray and frustrated if you&amp;rsquo;re not aware.&lt;/p&gt;
+&lt;h2 id=&#34;emacs-lisp-for-customization&#34;&gt;Emacs-lisp for customization&lt;/h2&gt;
+&lt;p&gt;I actually enjoy working with lisp because it is so different from
+other languages I work with. However, many others would prefer using a
+language like python.&lt;/p&gt;
+&lt;h2 id=&#34;not-noob-friendly&#34;&gt;Not noob friendly&lt;/h2&gt;
+&lt;p&gt;Emacs is not like the cheerful, always smiling bro with the
+abercrombie face. First encounters can be painful and awkward. It&amp;rsquo;s
+not sublime. That said, there are several starter packages to enable
+useful features out-of-the-box. For scientists, Kieran Healy&amp;rsquo;s starter
+package might be useful:
+&lt;a href=&#34;http://kieranhealy.org/resources/emacs-starter-kit/&#34;&gt;http://kieranhealy.org/resources/emacs-starter-kit/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Another useful package is prelude: &lt;a href=&#34;https://github.com/bbatsov/prelude&#34;&gt;https://github.com/bbatsov/prelude&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re on a Mac, I&amp;rsquo;ve heard aquamacs will keep you warm and comfy:
+&lt;a href=&#34;http://aquamacs.org/&#34;&gt;http://aquamacs.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Most of these will give you the power of emacs, quickly. Personally, I
+prefer to build my emacs up by scratch so it does what I want it to do
+and no more. But these packages are great ways to get a feel for it&amp;rsquo;s
+power.&lt;/p&gt;
+&lt;h2 id=&#34;multiple-packages&#34;&gt;Multiple packages&lt;/h2&gt;
+&lt;p&gt;If you decide you want to work with python be prepared to experiment
+with lots of different python packages. While emacs has basic python
+support, you probably want linting, refactoring or other useful
+features. Many packages have tried to implement these features, some
+better than others. Personally, I like Elpy, but it&amp;rsquo;s not perfect. The
+downside of options is that you have to wade through them. It can be
+painful sometimes.&lt;/p&gt;
+&lt;h1 id=&#34;what-am-i-missing&#34;&gt;What am I missing?&lt;/h1&gt;
+&lt;p&gt;While I tried to include most of the features that I think would
+appeal to data scientists, let me know if I missed any killer
+feature and I&amp;rsquo;ll try to include it here.
+&lt;a href=&#34;https://twitter.com/robertvesco&#34;&gt;https://twitter.com/robertvesco&lt;/a&gt;&lt;/p&gt;</content>
+    </item>
+    
+    <item>
+      <title>The Impact of Media on Entrepreneurship and Startups</title>
+      <link>https://hugo.robertvesco.com/posts/media-entrepreneurship-across-countries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.robertvesco.com/posts/media-entrepreneurship-across-countries/</guid>
+      <description>&lt;p&gt;So there has been a lot talk about how the media hype machine is
+setting entrepreneurs up for failure. That is, it’s
+encouraging folks who may not be serious to try their hand at starting
+a business when they probably shouldn’t. Below are some charts on the
+relationship between media, legitimacy and entrepreneurship that
+attempt to understand media’s impact.&lt;/p&gt;</description>
+      <content>&lt;p&gt;So there has been a lot talk about how the media hype machine is
+setting entrepreneurs up for failure. That is, it’s
+encouraging folks who may not be serious to try their hand at starting
+a business when they probably shouldn’t. Below are some charts on the
+relationship between media, legitimacy and entrepreneurship that
+attempt to understand media’s impact.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;On the Data:&lt;/p&gt;
+&lt;p&gt;The data come from the Global Entrepreneurship Monitor‘s individual level surveys for years 2006-2008 where they survey folks from over 100 countries. Prior years did not have questions about media. There are about 250,000 individual level observations from nearly 50 countries in this particular analysis.&lt;/p&gt;
+&lt;p&gt;Intentions = Folks who are thinking about starting a business (i.e. business plan phase, talking about it)
+Entry = Not just talk. They have either made some profits in the last 12 months or paid employees for at least 3.
+Media = Have you seen success stories of new ventures in the public media?
+Legitimacy = Is entrepreneurship a desirable career choice in your country?&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Below are some descriptive statistics at the the country-level. The
+countries are sorted by the percentage of individuals (using a random
+sample) who saw success stories of new ventures in the public media. I
+break it down by high and middle income countries as defined by the
+World Bank. Eyeballing it, it appears there might be some sort of
+relationship between media and intentions in middle income
+countries. Again, this is just descriptive and it doesn’t control for
+any other factors.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/old/entrepreneurship/CountryEntrybyMedia.png&#34;  alt=&#34;Entry by Country&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Figure 1: Intention, Entry and Media&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Below is the interaction effect between the level of legitimacy of
+entrepreneurship in a country and the media success stories of
+entrepreneurship. I look at their joint impact on an individual’s
+likelihood to have entrepreneurial intentions and entry into the
+market. In this analysis, I control for as many relevant individual
+and country-level factors as I can such as: age, education, wealth,
+GDP, competitive pressure, property rights, and much more. The red and
+blue colored symbols show where the effects are significant at the 95%
+level.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/old/entrepreneurship/intgph_intention_entry_MediaXLegit_1SD_final.png&#34;  alt=&#34;Interaction Effects&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Figure 2: Interactions&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;In effect I am asking this question:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If we increase media by 1 standard deviation from the mean, how
+might this affect an individuals’ intentions and entry contingent
+on how cool entrepreneurship already is in their country?&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;One possible interpretation is that in countries where
+entrepreneurship is not cool, media boosts entry more than intentions
+on a relative basis. I say relative because in absolute terms the
+number of people with entrepreneurial intentions is always greater
+than those who actually succeed in entering the market and this
+analysis looks at % not absolute numbers. Obviously, many people drop
+out of entrepreneurship once reality hits them.&lt;/p&gt;
+&lt;p&gt;In contrast, in countries where entrepreneurship is already cool, or
+at least very acceptable, increasing media probably contributes to the
+hype machine so intentions will increase more relative to entry.&lt;/p&gt;
+&lt;p&gt;So again, it may be that the media success stories of entrepreneurs
+helps entrepreneurs in countries where entrepreneurship is not very
+accepted, but less so in countries where it is already accepted.&lt;/p&gt;
+&lt;p&gt;One other thing to note is that media increases both intentions and
+entry no matter what. So one might argue that who cares if media
+creates hype that causes more people to have intentions than they
+should. It also increases entry. So maybe that gal who was going to
+join a hedge fund or consulting firm instead started her own business
+and was successful… though success in this case is NOT in performance,
+but simply in entry so I can’t say much about how successful they
+truly were – only that they reached one particularly important
+milestone. This is a limitation of the data.&lt;/p&gt;</content>
+    </item>
+    
+    <item>
+      <title>Topic Models Network Analysis</title>
+      <link>https://hugo.robertvesco.com/posts/topic-models-network-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.robertvesco.com/posts/topic-models-network-analysis/</guid>
+      <description>&lt;p&gt;In preparation for a workshop at this year’s Academy of Management
+conference my colleague &lt;a href=&#34;https://telfer.uottawa.ca/en/directory/tim-hannigan/&#34;&gt;Tim Hannigan&lt;/a&gt; and I gathered data on all the
+sessions and workshops. We then processed them using R’s topic models
+package to extract “themes” from the abstracts.The purpose was to
+identify what the divisions at Academy were discussing and to look at
+the overlap between them. The image below is one result from this work&lt;/p&gt;</description>
+      <content>&lt;p&gt;In preparation for a workshop at this year’s Academy of Management
+conference my colleague &lt;a href=&#34;https://telfer.uottawa.ca/en/directory/tim-hannigan/&#34;&gt;Tim Hannigan&lt;/a&gt; and I gathered data on all the
+sessions and workshops. We then processed them using R’s topic models
+package to extract “themes” from the abstracts.The purpose was to
+identify what the divisions at Academy were discussing and to look at
+the overlap between them. The image below is one result from this work&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://hugo.robertvesco.com/img/old/topic-models/Screenshot-from-2014-07-29-215955.png&#34;  alt=&#34;Mapping the relation between topics and Academy of Management Divisions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Mapping the relation between topics and Academy of Management Divisions&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;What you see is a bipartite graph
+which is essentially a network graph with two types of entities. In
+this case our entities are AOM divisions (in black text encased in the
+red blob) and topics (in blue text). The theme for this year’s
+conference is the “Power of Words”. Thus, it’s fortunate that the
+“Power Words” topic we identified from abstracts is squarely in the
+center of the red blob. This means it’s a central theme relative to
+the divisions. Thus, the divisions have done a good job of
+incorporating the theme. Another interesting feature is that there are
+divisions, such as HR/OB, TIM, OMT, that are central to topics. That
+means that they are diverse with respect to themes.&lt;/p&gt;
+&lt;p&gt;Outliers are located in complement of the intersection of the colored
+blobs. Thus, divisions such OM (Operations Management) could be
+considered outlying, and among topics, supply chain would be as
+well. In this case, supply chain is the theme most linked to OM.  In
+contrast, there are outlying themes, such as FirmPerformance, that are
+strongly tied to central divisions. In this case, those divisions are
+TIM, OMT and BPS — but not much else.&lt;/p&gt;
+&lt;p&gt;Anyway, topic analysis is a cool way to identify themes in text and
+opens up a lot of exciting possibilities. For instance, one neat thing
+to do would be to look at how themes within Academy have changed over
+the years.&lt;/p&gt;</content>
+    </item>
+    
+    <item>
+      <title>Was Teece Precient</title>
+      <link>https://hugo.robertvesco.com/posts/was-teece-precient/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.robertvesco.com/posts/was-teece-precient/</guid>
+      <description>&lt;p&gt;Teece&amp;rsquo;s 1986 piece on profiting from innovation makes the following
+claim:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The trend in international business towards what Miles and
+Snow call &amp;ldquo;dynamic networks&amp;rdquo; – characterized by vertical
+disintegration and contracting – ought thus be viewed with
+concern. (Business Week, March 3, 1986, has referred to the same
+phenomenon as the Hollow Corporation.) &amp;ldquo;Dynamic networks&amp;rdquo; may not
+so much reflect innovative organizational forms, but the
+disassembly of the modern corporation because of deterioration in
+national capacities, manufacturing in particular, which are
+complementary to technological innovation.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Teece&amp;rsquo;s 1986 piece on profiting from innovation makes the following
+claim:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The trend in international business towards what Miles and
+Snow call &amp;ldquo;dynamic networks&amp;rdquo; – characterized by vertical
+disintegration and contracting – ought thus be viewed with
+concern. (Business Week, March 3, 1986, has referred to the same
+phenomenon as the Hollow Corporation.) &amp;ldquo;Dynamic networks&amp;rdquo; may not
+so much reflect innovative organizational forms, but the
+disassembly of the modern corporation because of deterioration in
+national capacities, manufacturing in particular, which are
+complementary to technological innovation.&lt;/p&gt;
+&lt;p&gt;Dynamic networks may therefore signal not so much the rejuvenation
+of American enterprise, but its piecemeal demise.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Over 20 years later, Andy Grove, co-founder and former Intel CEO, makes the following claim in a piece about how to bring jobs back to America.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I believe the answer has to do with a general undervaluing of
+manufacturing—the idea that as long as &amp;ldquo;knowledge work&amp;rdquo; stays in
+the U.S., it doesn&amp;rsquo;t matter what happens to factory jobs. It&amp;rsquo;s not
+just newspaper commentators who spread this idea. Consider this
+passage by Princeton University economist Alan S. Blinder: “The TV
+manufacturing industry really started here, and at one point
+employed many workers. But as TV sets became &amp;lsquo;just a commodity,&amp;rsquo;
+their production moved offshore to locations with much lower
+wages. And nowadays the number of television sets manufactured in
+the U.S. is zero. A failure? No, a success.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;I disagree. Not only did we lose an untold number of jobs, we
+broke the chain of experience that is so important in
+technological evolution. As happened with batteries, abandoning
+today’s &amp;ldquo;commodity&amp;rdquo; manufacturing can lock you out of tomorrow&amp;rsquo;s
+emerging industry.&amp;quot;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;CITES&lt;/p&gt;
+&lt;p&gt;Teece, D. J. (1986). Profiting from Technological Innovation:
+Implications for Integration, Collaboration, Licensing and Public
+Policy. Research Policy, 15(6), 285–305. doi:16/0048-7333(86)90027-2&lt;/p&gt;
+&lt;p&gt;Grove, A. (2010, July 1). Andy Grove: How America Can Create
+Jobs. BusinessWeek: Magazine. Retrieved from
+&lt;a href=&#34;http://www.businessweek.com/magazine/content/10_28/b4186048358596.htm&#34;&gt;http://www.businessweek.com/magazine/content/10_28/b4186048358596.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dwoskin, E. (2012, October 18). How to Sell an Airplane in
+China. BusinessWeek: Politics_and_policy. Retrieved from
+&lt;a href=&#34;http://www.businessweek.com/articles/2012-10-18/how-to-sell-an-airplane-in-china&#34;&gt;http://www.businessweek.com/articles/2012-10-18/how-to-sell-an-airplane-in-china&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Fishman, C. (2012, December). The Insourcing Boom. The
+Atlantic. Retrieved from
+&lt;a href=&#34;http://www.theatlantic.com/magazine/print/2012/12/the-insourcing-boom/309166/&#34;&gt;http://www.theatlantic.com/magazine/print/2012/12/the-insourcing-boom/309166/&lt;/a&gt;&lt;/p&gt;
+</content>
     </item>
     
   </channel>

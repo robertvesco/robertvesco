@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test2 on Robert Vesco</title>
-    <link>https://hugo.robertvesco.com/tags/test2/</link>
+    <link>http://localhost:1313/tags/test2/</link>
     <description>Recent content in Test2 on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Mar 2025 09:37:22 +0100</lastBuildDate><atom:link href="https://hugo.robertvesco.com/tags/test2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Mar 2025 09:37:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/test2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://hugo.robertvesco.com/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 06 Mar 2025 09:37:22 +0100</pubDate>
       
-      <guid>https://hugo.robertvesco.com/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;This is a test post. I want to be able to have one post that encapsulates most of the things that I want to have. On gihub now.&lt;/p&gt;</description>
       <content>&lt;p&gt;This is a test post. I want to be able to have one post that encapsulates most of the things that I want to have. On gihub now.&lt;/p&gt;
 &lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
@@ -36,13 +36,13 @@ JS(\hat{y} || y) &amp;= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\fr
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;images--figures&#34;&gt;images / figures&lt;/h2&gt;
 &lt;p&gt;Image2&lt;/p&gt;
 
-&lt;img src=&#34;../img/emacs_sqlite.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;    /&gt;
+&lt;img src=&#34;http://localhost:1313/img/emacs_sqlite.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;    /&gt;
 
 
 &lt;p&gt;Figure2&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;../img/emacs_sqlite.png&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/emacs_sqlite.png&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;right&#34;  style=&#34;color: red;&#34; &gt;Hello Friend!&lt;/figcaption&gt;
     

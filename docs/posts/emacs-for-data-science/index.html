@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Emacs for Data Science :: Robert Vesco</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content=" tl;dr: If you want an editor that works with R, python, SAS, Stata, SQL and almost any other data science language. If you want an editor with IDE-like features. If you want an editor that works on any platform and as well as on the terminal. If you&rsquo;re a fan of literate programming. If you want an editor that is highly customizable and will be around after most editors have come and gone, then you&rsquo;d be hard pressed to find anything better than emacs.
+" />
+<meta name="keywords" content="emacs, data science, literate programming" />
+
+  <meta name="robots" content="noodp" />
+
+<link rel="canonical" href="https://hugo.robertvesco.com/posts/emacs-for-data-science/" />
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://hugo.robertvesco.com/styles.css">
+
+
+
+
+
+
+
+  <link rel="shortcut icon" href="https://hugo.robertvesco.com/img/theme-colors/orange.png">
+  <link rel="apple-touch-icon" href="https://hugo.robertvesco.com/img/theme-colors/orange.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+  
+    <meta name="twitter:site" content="" />
+  
+    <meta name="twitter:creator" content="" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Emacs for Data Science">
+<meta property="og:description" content=" tl;dr: If you want an editor that works with R, python, SAS, Stata, SQL and almost any other data science language. If you want an editor with IDE-like features. If you want an editor that works on any platform and as well as on the terminal. If you&rsquo;re a fan of literate programming. If you want an editor that is highly customizable and will be around after most editors have come and gone, then you&rsquo;d be hard pressed to find anything better than emacs.
+" />
+<meta property="og:url" content="https://hugo.robertvesco.com/posts/emacs-for-data-science/" />
+<meta property="og:site_name" content="Robert Vesco" />
+
+  
+  
+  <meta property="og:image" content="https://hugo.robertvesco.com/">
+
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+     
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['\\[', '\\]'], ['$$', '$$']],  
+      inlineMath: [['\\(', '\\)']]                  
+    },
+    loader:{
+      load: ['ui/safe']
+    },
+  };
+</script>
+
+  
+
+</head>
+<body class="orange">
+
+
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    Robert Vesco
+  </div>
+</a>
+
+    </div>
+    
+      <ul class="menu menu--mobile">
+  <li class="menu__trigger">Menu&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="/tags">Tags</a></li>
+        
+      
+      
+    </ul>
+  </li>
+</ul>
+
+    
+    
+  </div>
+  
+    <nav class="navigation-menu">
+  <ul class="navigation-menu__inner menu--desktop">
+    
+      
+      
+        
+          <li><a href="/about" >About</a></li>
+        
+      
+        
+          <li><a href="/tags" >Tags</a></li>
+        
+      
+      
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<article class="post">
+  <h1 class="post-title">
+    <a href="https://hugo.robertvesco.com/posts/emacs-for-data-science/">Emacs for Data Science</a>
+  </h1>
+  <div class="post-meta">
+    
+</div>
+
+  
+    <span class="post-tags">
+      
+      #<a href="https://hugo.robertvesco.com/tags/emacs/">emacs</a>&nbsp;
+      
+      #<a href="https://hugo.robertvesco.com/tags/data-science/">data science</a>&nbsp;
+      
+    </span>
+  
+  
+
+
+
+  
+
+  <div class="post-content"><div>
+        <blockquote>
+<p>tl;dr:
+If you want an editor that works with R, python, SAS, Stata, SQL and
+almost any other data science language. If you want an editor with
+IDE-like features. If you want an editor that works on any platform and
+as well as on the terminal. If you&rsquo;re a fan of literate
+programming. If you want an editor that is highly customizable and
+will be around after most editors have come and gone, then you&rsquo;d be
+hard pressed to find anything better than emacs.</p></blockquote>
+<p>If you work in exclusively in R, you might want to work in<a href="http://www.rstudio.com">Rstudio</a> . If
+you work in python, you might be tempted by <a href="https://code.google.com/p/spyderlib/">Spyder</a>. Chances are there
+is a specialized IDE for whatever language you typically work in. But
+that&rsquo;s the rub. What if you want to work in another language? Or
+combine languages? You end up using several IDEs, but not knowing them
+well. Plus, once they fall out of favor or stop being updated, your
+hard-gained knowledge is lost. At the other end of the spectrum there
+are text editors like notepad++ and sublime. These work with just
+about any language you can imagine and with some add-ons you can get
+additional features, but they tend to be limited to certain platforms
+and customization is often non-trivial.</p>
+<p>A modern data scientist often has to work on multiple platforms with
+multiple languages. Some projects may be in R others in Python. Or
+perhaps you have to work on a cluster with no gui. Or maybe you need to
+write papers with latex. You can do all that with Emacs and customize
+it to do whatever you like. I won&rsquo;t lie though. The learning curve can
+be steep, but I think the investment is worth it.</p>
+<p>Below are some key features that I think make Emacs an excellent
+editor for any data scientist.</p>
+<h1 id="ide-like-features">IDE-like features<a href="#ide-like-features" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<p>For most programming languages, you get out-of-the-box syntax
+highlighting. Packages like <a href="http://ess.r-project.org/Manual/ess.html">ESS</a> and <a href="https://github.com/jorgenschaefer/elpy">Elpy</a> provide additional features
+like autocompletion, documentation and debugging capabilities. The
+number of IDE features available will vary by language, but at minimum
+there is probably syntax highlighting and some form of autocompletion.</p>
+
+  <figure class="center" >
+    <img src="/img/emacs_autocomplete.png"  alt="autocomplete in emacs"   style="max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;"  />
+    
+      <figcaption class="left"  style="color: black;" >autocomplete in emacs</figcaption>
+    
+  </figure>
+
+
+<p>One of the things that I enjoy is easy access to help and function
+parameters &hellip; which often also come with autocomplete.</p>
+
+  <figure class="center" >
+    <img src="/img/blog_R_help_syntax.png"  alt="help for functions"   style="max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;"  />
+    
+      <figcaption class="left"  style="color: black;" >help for functions</figcaption>
+    
+  </figure>
+
+
+
+  <figure class="center" >
+    <img src="/img/emacs_parameter_help.png"  alt="parameter help for functions"   style="max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;"  />
+    
+      <figcaption class="left"  style="color: black;" >parameter help for functions</figcaption>
+    
+  </figure>
+
+
+<p>Enough with the print statements already and debug that R and python code!</p>
+
+  <figure class="center" >
+    <img src="/img/emacs_debug.png"  alt="Interactive debugging with conditional breakpoint"   style="max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;"  />
+    
+      <figcaption class="left"  style="color: black;" >Interactive debugging with conditional breakpoint</figcaption>
+    
+  </figure>
+
+
+<p>One of the features that first sold me on Emacs was interactive
+commands. With a keyboard short cut you can send a buffer, function,
+paragraph or line to the interpreter. Let me be clear &ndash; you don&rsquo;t
+even have to highlight the code. This saves you a ton of time when you&rsquo;re
+doing statistical analysis[fn:: Like many other features this will
+depend on the package you install. That said, it&rsquo;s easy to
+implement this feature for your favorite language].</p>
+
+  <figure class="center" >
+    <img src="/img/emacs_interactive.gif"  alt="interactive"   style="max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;"  />
+    
+      <figcaption class="left"  style="color: black;" >Interactive Commands</figcaption>
+    
+  </figure>
+
+
+<h1 id="sql-too">SQL too<a href="#sql-too" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<p>Do you work with databases? Many of the same benefits mentioned above
+also apply to sql. Work with sqlite, postgresql, mysql and other databases
+interactively. Do you have a long SQL statement you are debugging? No
+problem. Iterate quickly.</p>
+
+  <figure class="center" >
+    <img src="/img/emacs_sqlite.png"  alt="Interactive SQL"   style="max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;"  />
+    
+      <figcaption class="left"  style="color: black;" >Interactive SQL</figcaption>
+    
+  </figure>
+
+
+<h1 id="org-mode--literate-programming">Org mode / Literate Programming<a href="#org-mode--literate-programming" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<p>Do you write publications? Do you want to keep your code and paper
+together? You a believer in reproducible research? With emacs you can
+put any language you want in your document. While Rstudio allows this
+also, you&rsquo;re limited to just R and latex.</p>
+
+  <figure class="center" >
+    <img src="/img/emacs_literate.png"  alt="Literate Programming"   style="max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;"  />
+    
+      <figcaption class="left"  style="color: black;" >Literate Programming</figcaption>
+    
+  </figure>
+
+
+<p>do you need latex? No problem.</p>
+<p>\frac{3}{4}</p>
+<p>They key to this magic is a monster package called <a href="http://orgmode.org/features.html">org mode</a>. It is one of
+emac&rsquo;s killer features. You can also use this to organize your code
+&hellip; or your life.</p>
+$$\frac{3}{4}$$<h1 id="terminalremote-editing">Terminal/remote editing<a href="#terminalremote-editing" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<p>Sometime you need to remote into a server. Or perhaps you are working on a
+cluster with no gui and you need to interactively debug your scripts.</p>
+
+  <figure class="center" >
+    <img src="/img/emacs_terminal.png"  alt="Emacs works in the terminal"   style="max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;"  />
+    
+      <figcaption class="left"  style="color: black;" >Emacs works in the terminal</figcaption>
+    
+  </figure>
+
+
+<h1 id="interacting-with-the-shell">Interacting with the shell<a href="#interacting-with-the-shell" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<p>Is there are terminal command you wish you could run? In emacs you can
+run terminal commands easily. But what makes this feature super cool
+is that it can operate on your text. You can select a region of code,
+send it to a terminal command and have that stdout replace the text in
+your buffer!</p>
+
+  <figure class="center" >
+    <img src="/img/emacs_shell.png"  alt="Using SED to find and replace text"   style="max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;"  />
+    
+      <figcaption class="left"  style="color: black;" >Use terminal commands to operate on text</figcaption>
+    
+  </figure>
+
+
+<h1 id="rectangle-editing">Rectangle editing<a href="#rectangle-editing" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<p>Data scientists often work with tabular data. Sometimes you may want
+to delete or move a column around. Or perhaps there is a block of
+white space you need to change.</p>
+
+  <figure class="center" >
+    <img src="/img/emacs_rectangle.gif"  alt="Using rectangle mode to alter blocks of text"   style="max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;"  />
+    
+      <figcaption class="left"  style="color: black;" >Using rectangle mode to alter blocks of text</figcaption>
+    
+  </figure>
+
+
+<h1 id="everything-at-your-finger-tips">Everything at your finger tips<a href="#everything-at-your-finger-tips" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<p>Emacs has numerous packages that allow you to search and find files,
+functions and anything else that you can imagine. But by far the best
+is helm. With just a few keys you can instantly find what you are
+looking for. I couldn&rsquo;t do it justice, but this demo gives you a taste
+for the amazing things it can do.</p>
+<p><a href="http://tuhdo.github.io/helm-intro.html">http://tuhdo.github.io/helm-intro.html</a></p>
+<ul>
+<li>Any feature you want</li>
+</ul>
+<p>Perhaps you&rsquo;re wedded to sublime&rsquo;s multiple cursors? You can get it:
+<a href="http://emacsrocks.com/">http://emacsrocks.com/</a>. Or perhaps you&rsquo;re a long time vim user? Evil Mode
+gives you the editing power of Vim with the utility of emacs. If you&rsquo;re
+a git user, Emac&rsquo;s has magit which make working with git a joy. If there
+is something that it doesn&rsquo;t have, check for pacakges, else emacs is the most customizable
+editor you will find. Almost everything about it can be made to work
+your particular work flow.</p>
+<h1 id="30-years-old-and-a-large-user-base">30+ years old and a large user base<a href="#30-years-old-and-a-large-user-base" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<p>Emacs has been around a long time. Code that was written a decade ago
+mostly still work. And every year it&rsquo;s getting better. However, emacs
+24 is amazing. If you tried emacs years ago, you should give it
+another try. It now has package management built in, so you can easily
+add testing packages. Importantly, there is no sign that emacs is
+going away anytime soon and it&rsquo;s free. It will likely be around for at
+least another decade if not more.</p>
+<h1 id="so-what-are-the-downsides">So what are the downsides?<a href="#so-what-are-the-downsides" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<h2 id="legacy-code-on-the-intertubes-confuses-people">Legacy code on the intertubes confuses people<a href="#legacy-code-on-the-intertubes-confuses-people" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>Emacs has been around a long time. Emacs 24 was a huge improvement,
+but it also broke a lot of things. Same goes for Org-mode between
+versions 7 and 8. A lot of stuff on the intertubes will lead you
+astray and frustrated if you&rsquo;re not aware.</p>
+<h2 id="emacs-lisp-for-customization">Emacs-lisp for customization<a href="#emacs-lisp-for-customization" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>I actually enjoy working with lisp because it is so different from
+other languages I work with. However, many others would prefer using a
+language like python.</p>
+<h2 id="not-noob-friendly">Not noob friendly<a href="#not-noob-friendly" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>Emacs is not like the cheerful, always smiling bro with the
+abercrombie face. First encounters can be painful and awkward. It&rsquo;s
+not sublime. That said, there are several starter packages to enable
+useful features out-of-the-box. For scientists, Kieran Healy&rsquo;s starter
+package might be useful:
+<a href="http://kieranhealy.org/resources/emacs-starter-kit/">http://kieranhealy.org/resources/emacs-starter-kit/</a></p>
+<p>Another useful package is prelude: <a href="https://github.com/bbatsov/prelude">https://github.com/bbatsov/prelude</a></p>
+<p>If you&rsquo;re on a Mac, I&rsquo;ve heard aquamacs will keep you warm and comfy:
+<a href="http://aquamacs.org/">http://aquamacs.org/</a></p>
+<p>Most of these will give you the power of emacs, quickly. Personally, I
+prefer to build my emacs up by scratch so it does what I want it to do
+and no more. But these packages are great ways to get a feel for it&rsquo;s
+power.</p>
+<h2 id="multiple-packages">Multiple packages<a href="#multiple-packages" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>If you decide you want to work with python be prepared to experiment
+with lots of different python packages. While emacs has basic python
+support, you probably want linting, refactoring or other useful
+features. Many packages have tried to implement these features, some
+better than others. Personally, I like Elpy, but it&rsquo;s not perfect. The
+downside of options is that you have to wade through them. It can be
+painful sometimes.</p>
+<h1 id="what-am-i-missing">What am I missing?<a href="#what-am-i-missing" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<p>While I tried to include most of the features that I think would
+appeal to data scientists, let me know if I missed any killer
+feature and I&rsquo;ll try to include it here.
+<a href="https://twitter.com/robertvesco">https://twitter.com/robertvesco</a></p>
+      </div></div>
+
+  
+    
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h">Read other posts</span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        
+        <span class="button next">
+            <a href="https://hugo.robertvesco.com/posts/media-entrepreneurship-across-countries/">
+                <span class="button__text">The Impact of Media on Entrepreneurship and Startups</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+    
+
+  
+</article>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2025 Powered by <a href="https://gohugo.io">Hugo</a></span>
+    
+      <span>:: <a href="https://github.com/mirus-ua/hugo-theme-re-terminal" target="_blank">Theme</a> made by <a href="https://github.com/mirus-ua" target="_blank">Mirus</a></span>
+      </div>
+  </div>
+</footer>
+
+
+
+
+
+
+<script type="text/javascript" src="/bundle.min.js"></script>
+
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>
