@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Robert Vesco</title>
-    <link>https://hugo.robertvesco.com/posts/</link>
+    <link>https://www.robertvesco.com/posts/</link>
     <description>Recent content in Posts on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Mar 2025 09:37:22 +0100</lastBuildDate><atom:link href="https://hugo.robertvesco.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Mar 2025 09:37:22 +0100</lastBuildDate><atom:link href="https://www.robertvesco.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emacs for Data Science</title>
-      <link>https://hugo.robertvesco.com/posts/emacs-for-data-science/</link>
+      <link>https://www.robertvesco.com/posts/emacs-for-data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.robertvesco.com/posts/emacs-for-data-science/</guid>
+      <guid>https://www.robertvesco.com/posts/emacs-for-data-science/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;tl;dr:
 If you want an editor that works with R, python, SAS, Stata, SQL and
@@ -58,7 +58,7 @@ number of IDE features available will vary by language, but at minimum
 there is probably syntax highlighting and some form of autocompletion.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_autocomplete.png&#34;  alt=&#34;autocomplete in emacs&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_autocomplete.png&#34;  alt=&#34;autocomplete in emacs&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;autocomplete in emacs&lt;/figcaption&gt;
     
@@ -69,7 +69,7 @@ there is probably syntax highlighting and some form of autocompletion.&lt;/p&gt;
 parameters &amp;hellip; which often also come with autocomplete.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/blog_R_help_syntax.png&#34;  alt=&#34;help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/blog_R_help_syntax.png&#34;  alt=&#34;help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;help for functions&lt;/figcaption&gt;
     
@@ -78,7 +78,7 @@ parameters &amp;hellip; which often also come with autocomplete.&lt;/p&gt;
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_parameter_help.png&#34;  alt=&#34;parameter help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_parameter_help.png&#34;  alt=&#34;parameter help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;parameter help for functions&lt;/figcaption&gt;
     
@@ -88,7 +88,7 @@ parameters &amp;hellip; which often also come with autocomplete.&lt;/p&gt;
 &lt;p&gt;Enough with the print statements already and debug that R and python code!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_debug.png&#34;  alt=&#34;Interactive debugging with conditional breakpoint&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_debug.png&#34;  alt=&#34;Interactive debugging with conditional breakpoint&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Interactive debugging with conditional breakpoint&lt;/figcaption&gt;
     
@@ -104,7 +104,7 @@ depend on the package you install. That said, it&amp;rsquo;s easy to
 implement this feature for your favorite language].&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_interactive.gif&#34;  alt=&#34;interactive&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_interactive.gif&#34;  alt=&#34;interactive&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Interactive Commands&lt;/figcaption&gt;
     
@@ -118,7 +118,7 @@ interactively. Do you have a long SQL statement you are debugging? No
 problem. Iterate quickly.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_sqlite.png&#34;  alt=&#34;Interactive SQL&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_sqlite.png&#34;  alt=&#34;Interactive SQL&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Interactive SQL&lt;/figcaption&gt;
     
@@ -132,7 +132,7 @@ put any language you want in your document. While Rstudio allows this
 also, you&amp;rsquo;re limited to just R and latex.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_literate.png&#34;  alt=&#34;Literate Programming&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_literate.png&#34;  alt=&#34;Literate Programming&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Literate Programming&lt;/figcaption&gt;
     
@@ -149,7 +149,7 @@ $$\frac{3}{4}$$&lt;h1 id=&#34;terminalremote-editing&#34;&gt;Terminal/remote edi
 cluster with no gui and you need to interactively debug your scripts.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_terminal.png&#34;  alt=&#34;Emacs works in the terminal&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_terminal.png&#34;  alt=&#34;Emacs works in the terminal&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Emacs works in the terminal&lt;/figcaption&gt;
     
@@ -164,7 +164,7 @@ send it to a terminal command and have that stdout replace the text in
 your buffer!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_shell.png&#34;  alt=&#34;Using SED to find and replace text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_shell.png&#34;  alt=&#34;Using SED to find and replace text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Use terminal commands to operate on text&lt;/figcaption&gt;
     
@@ -177,7 +177,7 @@ to delete or move a column around. Or perhaps there is a block of
 white space you need to change.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/emacs_rectangle.gif&#34;  alt=&#34;Using rectangle mode to alter blocks of text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_rectangle.gif&#34;  alt=&#34;Using rectangle mode to alter blocks of text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Using rectangle mode to alter blocks of text&lt;/figcaption&gt;
     
@@ -250,10 +250,10 @@ feature and I&amp;rsquo;ll try to include it here.
     
     <item>
       <title>The Impact of Media on Entrepreneurship and Startups</title>
-      <link>https://hugo.robertvesco.com/posts/media-entrepreneurship-across-countries/</link>
+      <link>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.robertvesco.com/posts/media-entrepreneurship-across-countries/</guid>
+      <guid>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</guid>
       <description>&lt;p&gt;So there has been a lot talk about how the media hype machine is
 setting entrepreneurs up for failure. That is, it’s
 encouraging folks who may not be serious to try their hand at starting
@@ -283,7 +283,7 @@ countries. Again, this is just descriptive and it doesn’t control for
 any other factors.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/old/entrepreneurship/CountryEntrybyMedia.png&#34;  alt=&#34;Entry by Country&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/old/entrepreneurship/CountryEntrybyMedia.png&#34;  alt=&#34;Entry by Country&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Figure 1: Intention, Entry and Media&lt;/figcaption&gt;
     
@@ -301,7 +301,7 @@ blue colored symbols show where the effects are significant at the 95%
 level.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/old/entrepreneurship/intgph_intention_entry_MediaXLegit_1SD_final.png&#34;  alt=&#34;Interaction Effects&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/old/entrepreneurship/intgph_intention_entry_MediaXLegit_1SD_final.png&#34;  alt=&#34;Interaction Effects&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Figure 2: Interactions&lt;/figcaption&gt;
     
@@ -339,10 +339,10 @@ milestone. This is a limitation of the data.&lt;/p&gt;</content>
     
     <item>
       <title>Topic Models Network Analysis</title>
-      <link>https://hugo.robertvesco.com/posts/topic-models-network-analysis/</link>
+      <link>https://www.robertvesco.com/posts/topic-models-network-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.robertvesco.com/posts/topic-models-network-analysis/</guid>
+      <guid>https://www.robertvesco.com/posts/topic-models-network-analysis/</guid>
       <description>&lt;p&gt;In preparation for a workshop at this year’s Academy of Management
 conference my colleague &lt;a href=&#34;https://telfer.uottawa.ca/en/directory/tim-hannigan/&#34;&gt;Tim Hannigan&lt;/a&gt; and I gathered data on all the
 sessions and workshops. We then processed them using R’s topic models
@@ -357,7 +357,7 @@ identify what the divisions at Academy were discussing and to look at
 the overlap between them. The image below is one result from this work&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://hugo.robertvesco.com/img/old/topic-models/Screenshot-from-2014-07-29-215955.png&#34;  alt=&#34;Mapping the relation between topics and Academy of Management Divisions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/old/topic-models/Screenshot-from-2014-07-29-215955.png&#34;  alt=&#34;Mapping the relation between topics and Academy of Management Divisions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Mapping the relation between topics and Academy of Management Divisions&lt;/figcaption&gt;
     
@@ -390,10 +390,10 @@ the years.&lt;/p&gt;</content>
     
     <item>
       <title>Was Teece Precient</title>
-      <link>https://hugo.robertvesco.com/posts/was-teece-precient/</link>
+      <link>https://www.robertvesco.com/posts/was-teece-precient/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.robertvesco.com/posts/was-teece-precient/</guid>
+      <guid>https://www.robertvesco.com/posts/was-teece-precient/</guid>
       <description>&lt;p&gt;Teece&amp;rsquo;s 1986 piece on profiting from innovation makes the following
 claim:&lt;/p&gt;
 &lt;blockquote&gt;
