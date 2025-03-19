@@ -2,18 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.robertvesco.com/about/</loc>
-    <lastmod>2025-03-06T11:41:40+01:00</lastmod>
+    <loc>https://www.robertvesco.com/tags/ai/</loc>
+    <lastmod>2025-03-18T07:27:36+01:00</lastmod>
   </url><url>
-    <loc>https://www.robertvesco.com/</loc>
-    <lastmod>2025-03-06T11:41:40+01:00</lastmod>
+    <loc>https://www.robertvesco.com/posts/ai-should-put-itself-out-of-a-job/</loc>
+    <lastmod>2025-03-18T07:27:36+01:00</lastmod>
   </url><url>
     <loc>https://www.robertvesco.com/posts/</loc>
-    <lastmod>2025-03-06T09:37:22+01:00</lastmod>
+    <lastmod>2025-03-18T07:27:36+01:00</lastmod>
+  </url><url>
+    <loc>https://www.robertvesco.com/tags/rant/</loc>
+    <lastmod>2025-03-18T07:27:36+01:00</lastmod>
+  </url><url>
+    <loc>https://www.robertvesco.com/</loc>
+    <lastmod>2025-03-18T07:27:36+01:00</lastmod>
+  </url><url>
+    <loc>https://www.robertvesco.com/tags/</loc>
+    <lastmod>2025-03-18T07:27:36+01:00</lastmod>
+  </url><url>
+    <loc>https://www.robertvesco.com/about/</loc>
+    <lastmod>2025-03-06T11:41:40+01:00</lastmod>
   </url><url>
     <loc>https://www.robertvesco.com/tags/academia/</loc>
   </url><url>
     <loc>https://www.robertvesco.com/categories/</loc>
+  </url><url>
+    <loc>https://www.robertvesco.com/posts/drivers-license-for-internet/</loc>
   </url><url>
     <loc>https://www.robertvesco.com/tags/data-science/</loc>
   </url><url>
@@ -25,20 +39,26 @@
   </url><url>
     <loc>https://www.robertvesco.com/tags/entrepreneurship/</loc>
   </url><url>
+    <loc>https://www.robertvesco.com/posts/was-teece-prescient/</loc>
+  </url><url>
     <loc>https://www.robertvesco.com/tags/innovation/</loc>
+  </url><url>
+    <loc>https://www.robertvesco.com/tags/internet/</loc>
   </url><url>
     <loc>https://www.robertvesco.com/tags/media/</loc>
   </url><url>
     <loc>https://www.robertvesco.com/tags/network-analysis/</loc>
   </url><url>
-    <loc>https://www.robertvesco.com/tags/</loc>
+    <loc>https://www.robertvesco.com/tags/policy/</loc>
+  </url><url>
+    <loc>https://www.robertvesco.com/tags/privacy/</loc>
+  </url><url>
+    <loc>https://www.robertvesco.com/tags/technology/</loc>
   </url><url>
     <loc>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</loc>
   </url><url>
     <loc>https://www.robertvesco.com/tags/topic-models/</loc>
   </url><url>
     <loc>https://www.robertvesco.com/posts/topic-models-network-analysis/</loc>
-  </url><url>
-    <loc>https://www.robertvesco.com/posts/was-teece-prescient/</loc>
   </url>
 </urlset>
