@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Robert Vesco</title>
-    <link>https://www.robertvesco.com/tags/technology/</link>
+    <link>http://localhost:1313/tags/technology/</link>
     <description>Recent content in Technology on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.robertvesco.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Could a Driver&#39;s License for the Internet Save Humanity?</title>
-      <link>https://www.robertvesco.com/posts/drivers-license-for-internet/</link>
+      <link>http://localhost:1313/posts/drivers-license-for-internet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.robertvesco.com/posts/drivers-license-for-internet/</guid>
+      <guid>http://localhost:1313/posts/drivers-license-for-internet/</guid>
       <description>&lt;p&gt;The internet is destroying our civilization. And AI, with its ability to create fake content and exploit human weakness at scale, will only accelerate the the problem. However, there is an opportunity to turn this around if we use the motivation to get online to our advantage. In fact, harnessing this motivation has the capacity to do more for humanity than most schools. But first we need to treat the internet with the respect it deserves which means creating a something akin to a drivers license.&lt;/p&gt;</description>
       <content>&lt;p&gt;The internet is destroying our civilization. And AI, with its ability to create fake content and exploit human weakness at scale, will only accelerate the the problem. However, there is an opportunity to turn this around if we use the motivation to get online to our advantage. In fact, harnessing this motivation has the capacity to do more for humanity than most schools. But first we need to treat the internet with the respect it deserves which means creating a something akin to a drivers license.&lt;/p&gt;
 &lt;p&gt;Creating a driver&amp;rsquo;s license for the internet is not a new idea, but most of the proposals involve age and identity verification schemes.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; While these concepts are indeed important for protecting children and consumers, they don&amp;rsquo;t solve other types of problems and they create new ones.&lt;/p&gt;

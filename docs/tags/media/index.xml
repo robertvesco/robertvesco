@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Media on Robert Vesco</title>
-    <link>https://www.robertvesco.com/tags/media/</link>
+    <link>http://localhost:1313/tags/media/</link>
     <description>Recent content in Media on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.robertvesco.com/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/tags/media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Impact of Media on Entrepreneurship and Startups</title>
-      <link>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</link>
+      <link>http://localhost:1313/posts/media-entrepreneurship-across-countries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</guid>
+      <guid>http://localhost:1313/posts/media-entrepreneurship-across-countries/</guid>
       <description>&lt;p&gt;So there has been a lot talk about how the media hype machine is
 setting entrepreneurs up for failure. That is, it’s
 encouraging folks who may not be serious to try their hand at starting
@@ -41,7 +41,7 @@ countries. Again, this is just descriptive and it doesn’t control for
 any other factors.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/old/entrepreneurship/CountryEntrybyMedia.png&#34;  alt=&#34;Entry by Country&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/old/entrepreneurship/CountryEntrybyMedia.png&#34;  alt=&#34;Entry by Country&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Figure 1: Intention, Entry and Media&lt;/figcaption&gt;
     
@@ -59,7 +59,7 @@ blue colored symbols show where the effects are significant at the 95%
 level.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/old/entrepreneurship/intgph_intention_entry_MediaXLegit_1SD_final.png&#34;  alt=&#34;Interaction Effects&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/old/entrepreneurship/intgph_intention_entry_MediaXLegit_1SD_final.png&#34;  alt=&#34;Interaction Effects&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Figure 2: Interactions&lt;/figcaption&gt;
     
