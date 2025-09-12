@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academia on Robert Vesco</title>
-    <link>http://localhost:1313/tags/academia/</link>
+    <link>https://www.robertvesco.com/tags/academia/</link>
     <description>Recent content in Academia on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/tags/academia/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.robertvesco.com/tags/academia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Topic Models Network Analysis</title>
-      <link>http://localhost:1313/posts/topic-models-network-analysis/</link>
+      <link>https://www.robertvesco.com/posts/topic-models-network-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/topic-models-network-analysis/</guid>
+      <guid>https://www.robertvesco.com/posts/topic-models-network-analysis/</guid>
       <description>&lt;p&gt;In preparation for a workshop at this year’s Academy of Management
 conference my colleague &lt;a href=&#34;https://telfer.uottawa.ca/en/directory/tim-hannigan/&#34;&gt;Tim Hannigan&lt;/a&gt; and I gathered data on all the
 sessions and workshops. We then processed them using R’s topic models
@@ -26,7 +26,7 @@ identify what the divisions at Academy were discussing and to look at
 the overlap between them. The image below is one result from this work&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/old/topic-models/Screenshot-from-2014-07-29-215955.png&#34;  alt=&#34;Mapping the relation between topics and Academy of Management Divisions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/old/topic-models/Screenshot-from-2014-07-29-215955.png&#34;  alt=&#34;Mapping the relation between topics and Academy of Management Divisions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Mapping the relation between topics and Academy of Management Divisions&lt;/figcaption&gt;
     

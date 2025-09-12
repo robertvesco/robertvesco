@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book Reviews on Robert Vesco</title>
-    <link>http://localhost:1313/tags/book-reviews/</link>
+    <link>https://www.robertvesco.com/tags/book-reviews/</link>
     <description>Recent content in Book Reviews on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 May 2025 21:36:35 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/book-reviews/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 May 2025 21:36:35 +0200</lastBuildDate><atom:link href="https://www.robertvesco.com/tags/book-reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Review of Toby Ord&#39;s &#39;The Precipice: Existential Risk and the Future of Humanity&#39;</title>
-      <link>http://localhost:1313/posts/toby-ord-the-precipice-existential-risk-future-humanity/</link>
+      <link>https://www.robertvesco.com/posts/toby-ord-the-precipice-existential-risk-future-humanity/</link>
       <pubDate>Wed, 07 May 2025 21:36:35 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/toby-ord-the-precipice-existential-risk-future-humanity/</guid>
+      <guid>https://www.robertvesco.com/posts/toby-ord-the-precipice-existential-risk-future-humanity/</guid>
       <description>&lt;p&gt;Toby Ord writes a book that any human who cares about the future should read. &lt;em&gt;The Precipice&lt;/em&gt; is about all the things that could end humanity for good.&lt;/p&gt;
 &lt;p&gt;And if you thought we only needed to worry about climate change and nuclear war, you were wrong.&lt;/p&gt;</description>
       <content>&lt;p&gt;Toby Ord writes a book that any human who cares about the future should read. &lt;em&gt;The Precipice&lt;/em&gt; is about all the things that could end humanity for good.&lt;/p&gt;

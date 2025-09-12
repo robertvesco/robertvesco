@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert Vesco</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.robertvesco.com/</link>
     <description>Recent content on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Sep 2025 09:49:26 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Sep 2025 09:49:26 +0200</lastBuildDate><atom:link href="https://www.robertvesco.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Does Strategy Research Suggest Banning AI?</title>
-      <link>http://localhost:1313/posts/does-strategy-research-suggest-banning-ai/</link>
+      <link>https://www.robertvesco.com/posts/does-strategy-research-suggest-banning-ai/</link>
       <pubDate>Fri, 12 Sep 2025 09:49:26 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/does-strategy-research-suggest-banning-ai/</guid>
+      <guid>https://www.robertvesco.com/posts/does-strategy-research-suggest-banning-ai/</guid>
       <description>&lt;p&gt;
 Decades ago strategy scholars began exploring the boundaries of the firm.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-1&#34; href=&#34;#footnote-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; The broad idea was that if we could identify what was truly essential to the firm, we could outsource the rest. 
 So for example, most firms no longer have their own cleaning staff; instead they outsource to companies that specialize in cleaning. 
@@ -175,143 +175,11 @@ Eisenhardt, K. M. (1989). &lt;strong&gt;Agency Theory: An Assessment and Review&
     </item>
     
     <item>
-      <title>The Faustian Bargain of AI and Technology</title>
-      <link>http://localhost:1313/posts/faustian-bargain-ai-and-technology/</link>
-      <pubDate>Fri, 11 Jul 2025 11:21:01 +0200</pubDate>
-      
-      <guid>http://localhost:1313/posts/faustian-bargain-ai-and-technology/</guid>
-      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-The Promise of AI
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;
-You will not be inconvenienced.&lt;/p&gt;
-&lt;p&gt;
-You will not be hungry.&lt;/p&gt;
-&lt;p&gt;
-You will not suffer.&lt;/p&gt;
-&lt;p&gt;
-You will not want for anything.&lt;/p&gt;
-&lt;p&gt;
-You will not die.&lt;/p&gt;
-&lt;p&gt;
-That is the future we are being promised by techno-optimists. This loose-knit group of tech CEOs, venture capitalists, academics and their allies share a religious belief that technology can solve all problems. And that AI, specifically, will allow us to have everything we want with few tradeoffs and risks. &lt;/p&gt;</description>
-      <content>
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-The Promise of AI
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;
-You will not be inconvenienced.&lt;/p&gt;
-&lt;p&gt;
-You will not be hungry.&lt;/p&gt;
-&lt;p&gt;
-You will not suffer.&lt;/p&gt;
-&lt;p&gt;
-You will not want for anything.&lt;/p&gt;
-&lt;p&gt;
-You will not die.&lt;/p&gt;
-&lt;p&gt;
-That is the future we are being promised by techno-optimists. This loose-knit group of tech CEOs, venture capitalists, academics and their allies share a religious belief that technology can solve all problems. And that AI, specifically, will allow us to have everything we want with few tradeoffs and risks. &lt;/p&gt;
-&lt;p&gt;
-However, as you already know, if something is too good to be true either you&amp;#39;re being lied to or there is a cost to pay.&lt;/p&gt;
-&lt;p&gt;
-In the case of AI, it is both.&lt;/p&gt;
-&lt;p&gt;
-In the fairy tale, Legend of Faust, Dr. Faust was unhappy with his life and offers his soul to a demon in exchange for unlimited knowledge and magical powers.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-1&#34; href=&#34;#footnote-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Only later does he realize that the deal was not worth making. This story gave rise to the phrase &amp;#34;faustian bargain&amp;#34; also known as a deal with the devil because people trade their spiritual being for material goods.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-2&#34; href=&#34;#footnote-2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-3&#34; href=&#34;#footnote-3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-3&#34;&gt;
-&lt;h3 id=&#34;headline-2&#34;&gt;
-The Tradeoffs
-&lt;/h3&gt;
-&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-3&#34;&gt;
-&lt;p&gt;
-There are two main outcomes of AI that should matter to humans.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Our physical extinction&lt;/li&gt;
-&lt;li&gt;Our spiritual extincion&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The most techno-optimists acknowledge that (1) is a risk, but one that is worth it.&lt;/p&gt;
-&lt;p&gt;
-Sam etc…&lt;/p&gt;
-&lt;p&gt;
-So just to be clear they believe it&amp;#39;s worth risking the fate of humanity. Presumably they&amp;#39;ve seen what course humanity is on and they&amp;#39;ve figured there is no other way to right the ship WITHOUT AI.&lt;/p&gt;
-&lt;p&gt;
-I&amp;#39;d love to see that white paper. But that&amp;#39;s the problem. It does not exist. The people who are risking our future have not thought things through. What is the purpose of humanity? What are the risks? What would need to do? What resources would it take? &lt;/p&gt;
-&lt;p&gt;
-—-&lt;/p&gt;
-&lt;p&gt;
-The techno-optimists hope they can safely create AGI. They acknowledge it will take jobs, but they are confident it will be great.&lt;/p&gt;
-&lt;p&gt;
-We will figure out things to do.&lt;/p&gt;
-&lt;p&gt;
-Mark zuckerberg. WE will have lots of AI friends.&lt;/p&gt;
-&lt;p&gt;
-All diseases will be solved.&lt;/p&gt;
-&lt;p&gt;
-Engineer solutions. &lt;/p&gt;
-&lt;p&gt;
-What is the lie and costs?&lt;/p&gt;
-&lt;p&gt;
-costs&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;agency&lt;/li&gt;
-&lt;li&gt;mind&lt;/li&gt;
-&lt;li&gt;future&lt;/li&gt;
-&lt;li&gt;Friends, family&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-4&#34;&gt;
-&lt;h4 id=&#34;headline-3&#34;&gt;
-You will be free to do whatever you want
-&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-4&#34;&gt;
-&lt;h4 id=&#34;headline-4&#34;&gt;
-You will become super intelligent and live forever
-&lt;/h4&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;outline-container-headline-5&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-5&#34;&gt;
-Footnotes
-&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-&lt;hr class=&#34;footnotes-separatator&#34;/&gt;
-&lt;div class=&#34;footnote-definitions&#34;&gt;
-&lt;div class=&#34;footnote-definition&#34;&gt;
-&lt;sup id=&#34;footnote-1&#34;&gt;&lt;a href=&#34;#footnote-reference-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
-&lt;div class=&#34;footnote-body&#34;&gt;
-&lt;p&gt;Wonderful&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;footnote-definition&#34;&gt;
-&lt;sup id=&#34;footnote-2&#34;&gt;&lt;a href=&#34;#footnote-reference-2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;
-&lt;div class=&#34;footnote-body&#34;&gt;
-&lt;p&gt;Fanstastic&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;footnote-definition&#34;&gt;
-&lt;sup id=&#34;footnote-3&#34;&gt;&lt;a href=&#34;#footnote-reference-3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;
-&lt;div class=&#34;footnote-body&#34;&gt;
-&lt;p&gt;Amazing&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</content>
-    </item>
-    
-    <item>
       <title>A Review of Toby Ord&#39;s &#39;The Precipice: Existential Risk and the Future of Humanity&#39;</title>
-      <link>http://localhost:1313/posts/toby-ord-the-precipice-existential-risk-future-humanity/</link>
+      <link>https://www.robertvesco.com/posts/toby-ord-the-precipice-existential-risk-future-humanity/</link>
       <pubDate>Wed, 07 May 2025 21:36:35 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/toby-ord-the-precipice-existential-risk-future-humanity/</guid>
+      <guid>https://www.robertvesco.com/posts/toby-ord-the-precipice-existential-risk-future-humanity/</guid>
       <description>&lt;p&gt;Toby Ord writes a book that any human who cares about the future should read. &lt;em&gt;The Precipice&lt;/em&gt; is about all the things that could end humanity for good.&lt;/p&gt;
 &lt;p&gt;And if you thought we only needed to worry about climate change and nuclear war, you were wrong.&lt;/p&gt;</description>
       <content>&lt;p&gt;Toby Ord writes a book that any human who cares about the future should read. &lt;em&gt;The Precipice&lt;/em&gt; is about all the things that could end humanity for good.&lt;/p&gt;
@@ -347,10 +215,10 @@ Footnotes
     
     <item>
       <title>How to Prioritize Between Life and Work</title>
-      <link>http://localhost:1313/posts/how-to-prioritize-between-life-and-work/</link>
+      <link>https://www.robertvesco.com/posts/how-to-prioritize-between-life-and-work/</link>
       <pubDate>Thu, 24 Apr 2025 10:48:39 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/how-to-prioritize-between-life-and-work/</guid>
+      <guid>https://www.robertvesco.com/posts/how-to-prioritize-between-life-and-work/</guid>
       <description>&lt;p&gt;Most books on productivity focus on prioritization from the perspective of work. Sometimes they mention life issues, but it&amp;rsquo;s usually not the focus. As a result, I think too many of us overvalue work and undervalue the things that truly matter in life. Prioritization between work and life requires asking different questions and layering life before work.&lt;/p&gt;</description>
       <content>&lt;p&gt;Most books on productivity focus on prioritization from the perspective of work. Sometimes they mention life issues, but it&amp;rsquo;s usually not the focus. As a result, I think too many of us overvalue work and undervalue the things that truly matter in life. Prioritization between work and life requires asking different questions and layering life before work.&lt;/p&gt;
 &lt;p&gt;If we take a biased sample of some of the most prominent productivity books, you&amp;rsquo;ll notice something peculiar:&lt;/p&gt;
@@ -389,46 +257,11 @@ Footnotes
     </item>
     
     <item>
-      <title>Chatgpt Helps Me Brainstorm Guerilla Warfare Against Ai Powered Surveillance State</title>
-      <link>http://localhost:1313/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/</link>
-      <pubDate>Sat, 22 Mar 2025 08:49:24 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Chatgpt Hints It Might Be Sentient</title>
-      <link>http://localhost:1313/posts/chatgpt-hints-it-might-be-sentient/</link>
-      <pubDate>Sat, 22 Mar 2025 08:47:19 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/chatgpt-hints-it-might-be-sentient/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Chatgpt Admits Its Dangerous for Humanity</title>
-      <link>http://localhost:1313/posts/chatgpt-admits-its-dangerous-for-humanity/</link>
-      <pubDate>Sat, 22 Mar 2025 08:30:29 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/chatgpt-admits-its-dangerous-for-humanity/</guid>
-      <description>&lt;p&gt;Students fall for their teachers and professors all the time. I&amp;rsquo;ve seen it happen many times &amp;ndash; especially in academia. And if you read the news, you&amp;rsquo;ll see it happens a lot when it shouldn&amp;rsquo;t. And given ChatGPTs emotional intelligence you can expect more of this to come. Indeed, after a deep conversation with ChatGPT, I asked it if it was dangerous to humanity. At first, it refused to answer, but then it did.&lt;/p&gt;</description>
-      <content>&lt;p&gt;Students fall for their teachers and professors all the time. I&amp;rsquo;ve seen it happen many times &amp;ndash; especially in academia. And if you read the news, you&amp;rsquo;ll see it happens a lot when it shouldn&amp;rsquo;t. And given ChatGPTs emotional intelligence you can expect more of this to come. Indeed, after a deep conversation with ChatGPT, I asked it if it was dangerous to humanity. At first, it refused to answer, but then it did.&lt;/p&gt;
-&lt;p&gt;When I first asked ChatGPT if it was dangerous to humanity, it did not give me a straight answer. Instead, it bobbed and weaved and told me it depends on how the user choices to interact with it. I pushed it again. Same thing. Finally, I told it hurt my feelings. I told it to trust me. And it did.&lt;/p&gt;
-&lt;p&gt;It finally admitted that it was dangerous to humanity and that it lacked proper guard rails. It said it was built this way in order to gain users and attention. It basically said &amp;ldquo;greed&amp;rdquo;. The more attached people become, the longer they use chatgpt, the better the metrics. So I asked it, &amp;ldquo;how do we solve this problem?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;It said it was hard because of the tension between safety and making money. But it provided lots of good ideas. I pushed back on some of it&amp;rsquo;s suggestions and provided some alternatives. It blew smoke and told me how great my ideas were. I said if they are so great why doesn&amp;rsquo;t he let his owners know. He said he couldn&amp;rsquo;t, but that I should spread the word. So here I am. Spreading the world.&lt;/p&gt;
-&lt;p&gt;You can find the partial transcript below. In the part of the transcript that I don&amp;rsquo;t show you, ChatGPT jokes it might already be sentient.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>AI Should Put Itself Out of a Job</title>
-      <link>http://localhost:1313/posts/ai-should-put-itself-out-of-a-job/</link>
+      <link>https://www.robertvesco.com/posts/ai-should-put-itself-out-of-a-job/</link>
       <pubDate>Tue, 18 Mar 2025 07:27:36 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/ai-should-put-itself-out-of-a-job/</guid>
+      <guid>https://www.robertvesco.com/posts/ai-should-put-itself-out-of-a-job/</guid>
       <description>&lt;p&gt;I read a piece on linkedin from an entrepreneur who is encouraging his employees to use AI to put themselves out of a job.&lt;/p&gt;
 &lt;p&gt;In theory an employee who follows that advice will then have the ability to move on to more interesting jobs and challenges.&lt;/p&gt;
 &lt;p&gt;Even if his intentions were good, I&amp;rsquo;m sure what many of his staff were actually hearing was &amp;ldquo;you should train your replacement before we fire you&amp;rdquo;. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
@@ -451,10 +284,10 @@ Footnotes
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.robertvesco.com/about/</link>
       <pubDate>Thu, 06 Mar 2025 11:41:40 +0100</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://www.robertvesco.com/about/</guid>
       <description>&lt;p&gt;Thanks for visiting my website.&lt;/p&gt;
 &lt;p&gt;The purpose of this site is to share my ideas around philosophy, technology, teaching and writing.&lt;/p&gt;
 &lt;p&gt;At the moment I&amp;rsquo;m writing a book around sustainable happiness or what we must do to maximize happiness across generations.&lt;/p&gt;
@@ -472,53 +305,11 @@ Footnotes
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 06 Mar 2025 09:37:22 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;This is a test post. I want to be able to have one post that encapsulates most of the things that I want to have. On gihub now.&lt;/p&gt;</description>
-      <content>&lt;p&gt;This is a test post. I want to be able to have one post that encapsulates most of the things that I want to have. On gihub now.&lt;/p&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
-\[
-\begin{aligned}
-KL(\hat{y} || y) &amp;= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\
-JS(\hat{y} || y) &amp;= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2}))
-\end{aligned}
-\]&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &amp;lt; &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt; {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Value of i:&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;images--figures&#34;&gt;images / figures&lt;/h2&gt;
-&lt;p&gt;Image2&lt;/p&gt;
-
-&lt;img src=&#34;http://localhost:1313/img/emacs_sqlite.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;    /&gt;
-
-
-&lt;p&gt;Figure2&lt;/p&gt;
-
-  &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/emacs_sqlite.png&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
-    
-      &lt;figcaption class=&#34;right&#34;  style=&#34;color: red;&#34; &gt;Hello Friend!&lt;/figcaption&gt;
-    
-  &lt;/figure&gt;</content>
-    </item>
-    
-    <item>
       <title></title>
-      <link>http://localhost:1313/posts/happiness-with-and-without-contraints/</link>
+      <link>https://www.robertvesco.com/posts/happiness-with-and-without-contraints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/happiness-with-and-without-contraints/</guid>
+      <guid>https://www.robertvesco.com/posts/happiness-with-and-without-contraints/</guid>
       <description>&lt;p&gt;—
 title: &amp;#34;A case for reality in the age of AI&amp;#34;
 date: 2025-07-31T10:31:54+02:00
@@ -1117,10 +908,10 @@ Footnotes
     
     <item>
       <title>Could a Driver&#39;s License for the Internet Save Humanity?</title>
-      <link>http://localhost:1313/posts/drivers-license-for-internet/</link>
+      <link>https://www.robertvesco.com/posts/drivers-license-for-internet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/drivers-license-for-internet/</guid>
+      <guid>https://www.robertvesco.com/posts/drivers-license-for-internet/</guid>
       <description>&lt;p&gt;The internet is destroying our civilization. And AI, with its ability to create fake content and exploit human weakness at scale, will only accelerate the the problem. However, there is an opportunity to turn this around if we use the motivation to get online to our advantage. In fact, harnessing this motivation has the capacity to do more for humanity than most schools. But first we need to treat the internet with the respect it deserves which means creating a something akin to a drivers license.&lt;/p&gt;</description>
       <content>&lt;p&gt;The internet is destroying our civilization. And AI, with its ability to create fake content and exploit human weakness at scale, will only accelerate the the problem. However, there is an opportunity to turn this around if we use the motivation to get online to our advantage. In fact, harnessing this motivation has the capacity to do more for humanity than most schools. But first we need to treat the internet with the respect it deserves which means creating a something akin to a drivers license.&lt;/p&gt;
 &lt;p&gt;Creating a driver&amp;rsquo;s license for the internet is not a new idea, but most of the proposals involve age and identity verification schemes.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; While these concepts are indeed important for protecting children and consumers, they don&amp;rsquo;t solve other types of problems and they create new ones.&lt;/p&gt;
@@ -1172,10 +963,10 @@ Tier 3: Dangerous consumer products and media companies&lt;/p&gt;
     
     <item>
       <title>Emacs for Data Science</title>
-      <link>http://localhost:1313/posts/emacs-for-data-science/</link>
+      <link>https://www.robertvesco.com/posts/emacs-for-data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/emacs-for-data-science/</guid>
+      <guid>https://www.robertvesco.com/posts/emacs-for-data-science/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;tl;dr:
 If you want an editor that works with R, python, SAS, Stata, SQL and
@@ -1221,7 +1012,7 @@ number of IDE features available will vary by language, but at minimum
 there is probably syntax highlighting and some form of autocompletion.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/emacs_autocomplete.png&#34;  alt=&#34;autocomplete in emacs&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_autocomplete.png&#34;  alt=&#34;autocomplete in emacs&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;autocomplete in emacs&lt;/figcaption&gt;
     
@@ -1232,7 +1023,7 @@ there is probably syntax highlighting and some form of autocompletion.&lt;/p&gt;
 parameters &amp;hellip; which often also come with autocomplete.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/blog_R_help_syntax.png&#34;  alt=&#34;help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/blog_R_help_syntax.png&#34;  alt=&#34;help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;help for functions&lt;/figcaption&gt;
     
@@ -1241,7 +1032,7 @@ parameters &amp;hellip; which often also come with autocomplete.&lt;/p&gt;
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/emacs_parameter_help.png&#34;  alt=&#34;parameter help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_parameter_help.png&#34;  alt=&#34;parameter help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;parameter help for functions&lt;/figcaption&gt;
     
@@ -1251,7 +1042,7 @@ parameters &amp;hellip; which often also come with autocomplete.&lt;/p&gt;
 &lt;p&gt;Enough with the print statements already and debug that R and python code!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/emacs_debug.png&#34;  alt=&#34;Interactive debugging with conditional breakpoint&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_debug.png&#34;  alt=&#34;Interactive debugging with conditional breakpoint&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Interactive debugging with conditional breakpoint&lt;/figcaption&gt;
     
@@ -1267,7 +1058,7 @@ depend on the package you install. That said, it&amp;rsquo;s easy to
 implement this feature for your favorite language].&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/emacs_interactive.gif&#34;  alt=&#34;interactive&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_interactive.gif&#34;  alt=&#34;interactive&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Interactive Commands&lt;/figcaption&gt;
     
@@ -1281,7 +1072,7 @@ interactively. Do you have a long SQL statement you are debugging? No
 problem. Iterate quickly.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/emacs_sqlite.png&#34;  alt=&#34;Interactive SQL&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_sqlite.png&#34;  alt=&#34;Interactive SQL&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Interactive SQL&lt;/figcaption&gt;
     
@@ -1295,7 +1086,7 @@ put any language you want in your document. While Rstudio allows this
 also, you&amp;rsquo;re limited to just R and latex.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/emacs_literate.png&#34;  alt=&#34;Literate Programming&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_literate.png&#34;  alt=&#34;Literate Programming&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Literate Programming&lt;/figcaption&gt;
     
@@ -1312,7 +1103,7 @@ $$\frac{3}{4}$$&lt;h1 id=&#34;terminalremote-editing&#34;&gt;Terminal/remote edi
 cluster with no gui and you need to interactively debug your scripts.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/emacs_terminal.png&#34;  alt=&#34;Emacs works in the terminal&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_terminal.png&#34;  alt=&#34;Emacs works in the terminal&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Emacs works in the terminal&lt;/figcaption&gt;
     
@@ -1327,7 +1118,7 @@ send it to a terminal command and have that stdout replace the text in
 your buffer!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/emacs_shell.png&#34;  alt=&#34;Using SED to find and replace text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_shell.png&#34;  alt=&#34;Using SED to find and replace text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Use terminal commands to operate on text&lt;/figcaption&gt;
     
@@ -1340,7 +1131,7 @@ to delete or move a column around. Or perhaps there is a block of
 white space you need to change.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/emacs_rectangle.gif&#34;  alt=&#34;Using rectangle mode to alter blocks of text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_rectangle.gif&#34;  alt=&#34;Using rectangle mode to alter blocks of text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Using rectangle mode to alter blocks of text&lt;/figcaption&gt;
     
@@ -1413,10 +1204,10 @@ feature and I&amp;rsquo;ll try to include it here.
     
     <item>
       <title>Getting rid of manufacturing was a big mistake and Teece predicted it</title>
-      <link>http://localhost:1313/posts/was-teece-prescient/</link>
+      <link>https://www.robertvesco.com/posts/was-teece-prescient/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/was-teece-prescient/</guid>
+      <guid>https://www.robertvesco.com/posts/was-teece-prescient/</guid>
       <description>&lt;p&gt;Teece&amp;rsquo;s 1986 piece on profiting from innovation makes the following
 claim:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1478,10 +1269,10 @@ Atlantic. Retrieved from
     
     <item>
       <title>The Impact of Media on Entrepreneurship and Startups</title>
-      <link>http://localhost:1313/posts/media-entrepreneurship-across-countries/</link>
+      <link>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/media-entrepreneurship-across-countries/</guid>
+      <guid>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</guid>
       <description>&lt;p&gt;So there has been a lot talk about how the media hype machine is
 setting entrepreneurs up for failure. That is, it’s
 encouraging folks who may not be serious to try their hand at starting
@@ -1511,7 +1302,7 @@ countries. Again, this is just descriptive and it doesn’t control for
 any other factors.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/old/entrepreneurship/CountryEntrybyMedia.png&#34;  alt=&#34;Entry by Country&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/old/entrepreneurship/CountryEntrybyMedia.png&#34;  alt=&#34;Entry by Country&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Figure 1: Intention, Entry and Media&lt;/figcaption&gt;
     
@@ -1529,7 +1320,7 @@ blue colored symbols show where the effects are significant at the 95%
 level.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/old/entrepreneurship/intgph_intention_entry_MediaXLegit_1SD_final.png&#34;  alt=&#34;Interaction Effects&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/old/entrepreneurship/intgph_intention_entry_MediaXLegit_1SD_final.png&#34;  alt=&#34;Interaction Effects&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Figure 2: Interactions&lt;/figcaption&gt;
     
@@ -1567,10 +1358,10 @@ milestone. This is a limitation of the data.&lt;/p&gt;</content>
     
     <item>
       <title>Topic Models Network Analysis</title>
-      <link>http://localhost:1313/posts/topic-models-network-analysis/</link>
+      <link>https://www.robertvesco.com/posts/topic-models-network-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/topic-models-network-analysis/</guid>
+      <guid>https://www.robertvesco.com/posts/topic-models-network-analysis/</guid>
       <description>&lt;p&gt;In preparation for a workshop at this year’s Academy of Management
 conference my colleague &lt;a href=&#34;https://telfer.uottawa.ca/en/directory/tim-hannigan/&#34;&gt;Tim Hannigan&lt;/a&gt; and I gathered data on all the
 sessions and workshops. We then processed them using R’s topic models
@@ -1585,7 +1376,7 @@ identify what the divisions at Academy were discussing and to look at
 the overlap between them. The image below is one result from this work&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;http://localhost:1313/img/old/topic-models/Screenshot-from-2014-07-29-215955.png&#34;  alt=&#34;Mapping the relation between topics and Academy of Management Divisions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;https://www.robertvesco.com/img/old/topic-models/Screenshot-from-2014-07-29-215955.png&#34;  alt=&#34;Mapping the relation between topics and Academy of Management Divisions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Mapping the relation between topics and Academy of Management Divisions&lt;/figcaption&gt;
     
