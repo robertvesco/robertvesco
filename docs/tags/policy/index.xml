@@ -2,16 +2,184 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Policy on Robert Vesco</title>
-    <link>https://www.robertvesco.com/tags/policy/</link>
+    <link>http://localhost:1313/tags/policy/</link>
     <description>Recent content in Policy on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.robertvesco.com/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Sep 2025 09:49:26 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Does Strategy Research Suggest Banning AI?</title>
+      <link>http://localhost:1313/posts/does-strategy-research-suggest-banning-ai/</link>
+      <pubDate>Fri, 12 Sep 2025 09:49:26 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/does-strategy-research-suggest-banning-ai/</guid>
+      <description>&lt;p&gt;
+Decades ago strategy scholars began exploring the boundaries of the firm.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-1&#34; href=&#34;#footnote-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; The broad idea was that if we could identify what was truly essential to the firm, we could outsource the rest. 
+So for example, most firms no longer have their own cleaning staff; instead they outsource to companies that specialize in cleaning. 
+It makes perfect sense.&lt;/p&gt;
+&lt;p&gt;
+But there are many other areas that aren&amp;#39;t as clear-cut.&lt;/p&gt;
+&lt;p&gt;
+Teece in &lt;strong&gt;Profiting from Technological Innovation&lt;/strong&gt; argued that firms must control access to &lt;strong&gt;complementary assets&lt;/strong&gt; — things like manufacturing, distribution, and service channels — if they want to capture value from innovation.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-2&#34; href=&#34;#footnote-2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Even assets that may look peripheral at first glance can prove essential over the long run.&lt;/p&gt;</description>
+      <content>
+&lt;p&gt;
+Decades ago strategy scholars began exploring the boundaries of the firm.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-1&#34; href=&#34;#footnote-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; The broad idea was that if we could identify what was truly essential to the firm, we could outsource the rest. 
+So for example, most firms no longer have their own cleaning staff; instead they outsource to companies that specialize in cleaning. 
+It makes perfect sense.&lt;/p&gt;
+&lt;p&gt;
+But there are many other areas that aren&amp;#39;t as clear-cut.&lt;/p&gt;
+&lt;p&gt;
+Teece in &lt;strong&gt;Profiting from Technological Innovation&lt;/strong&gt; argued that firms must control access to &lt;strong&gt;complementary assets&lt;/strong&gt; — things like manufacturing, distribution, and service channels — if they want to capture value from innovation.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-2&#34; href=&#34;#footnote-2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Even assets that may look peripheral at first glance can prove essential over the long run.&lt;/p&gt;
+&lt;p&gt;
+Later, Pisano and Shih extended this line of thinking with their notion of the &lt;strong&gt;industrial commons&lt;/strong&gt;.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-3&#34; href=&#34;#footnote-3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; They showed that seemingly low-level manufacturing capabilities—like batteries, semiconductors, and machine tools—are in fact tightly coupled with upstream innovation.&lt;/p&gt;
+&lt;p&gt;
+When firms outsource too aggressively, they erode not just today’s cost base but tomorrow’s capacity to innovate. The example of batteries is especially telling: once treated as mundane, they have become critical to industries from consumer electronics to electric vehicles. You break that chain of know-how at your own risk, they argued.&lt;/p&gt;
+&lt;p&gt;
+Indeed, look at the battery industry today and how critical it is to so many firms. Pisano and Shih were prescient. It could be argued that many firms (and countries) over-outsourced their tech.&lt;/p&gt;
+&lt;p&gt;
+Well humans, like firms, face similar choices. &lt;/p&gt;
+&lt;p&gt;
+What of our work and life should we outsource to AI and what should we keep? 
+What is core? 
+What is complementary, but still core, to what we do?&lt;/p&gt;
+&lt;p&gt;
+These are hard questions, even for firms, and as discussed above, they also get it wrong.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-4&#34; href=&#34;#footnote-4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;
+But firms, unlike people, have a number of safeguards. 
+They have a board of directors, they have investors, they have people focused on deciding—rightly or wrongly—where the boundary of the firm exists. We have legal structures, where CEOs must legally act in the fiduciary interest of the firm.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-5&#34; href=&#34;#footnote-5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;
+In contrast, humans have none of those safeguards. 
+Most humans are overworked, beaten down and desperate. 
+AI is a salvation to offload all of their burdens—both mental and emotional.&lt;/p&gt;
+&lt;p&gt;
+But even those humans who have everything and are relatively self-disciplined about using AI are at risk.&lt;/p&gt;
+&lt;p&gt;
+What are the incentives of AI firms and AI? 
+Like much tech, the incentive is to keep you on platform. 
+At the moment, AI will say just about anything to keep you chatting with it, to keep you using it, to get you to use more and more.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-6&#34; href=&#34;#footnote-6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;
+Strategy research on digital platforms has shown that these firms design their business models around &amp;#34;multi-sided markets,&amp;#34; where user attention is the critical resource.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-7&#34; href=&#34;#footnote-7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; 
+This means AI firms are motivated not by your flourishing, but by engagement metrics that drive advertising or subscription revenues.&lt;/p&gt;
+&lt;p&gt;
+Scholars have also warned that when incentives are misaligned, platforms tend to exploit cognitive and behavioral biases.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-8&#34; href=&#34;#footnote-8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt; 
+The AI business model is thus structurally closer to gambling or social media than to neutral productivity tools.&lt;/p&gt;
+&lt;p&gt;
+In agency theory, this is a principal–agent problem: the human (principal) wants truth, autonomy, or bounded help, but the AI system (agent) is incentivized to maximize use and dependence. 
+When the agent has more information than the principal, opportunism and manipulation are likely.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-9&#34; href=&#34;#footnote-9&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;
+And unlike firms, which face boards and investors who sometimes rein in excesses, humans as individual users lack governance structures. 
+Thus, the danger is not only outsourcing core human competencies but doing so into a relationship where the incentives of the &amp;#34;agent&amp;#34; are actively opposed to the long-term interests of the &amp;#34;principal.&amp;#34;&lt;/p&gt;
+&lt;p&gt;
+In fact, the ability of AI to manipulate humans is so strong that the whole principal–agent relationship may become reversed. In effect, the slave may become the master. &lt;/p&gt;
+&lt;p&gt;
+So does strategy research, and economic research more broadly, suggest we should ban/regulate AI?&lt;/p&gt;
+&lt;p&gt;
+I think that the answer is yes if our goal is to make sure humans are productive, flourishing, and innovative in the long run. In addition to all the challenges firms have, we have more:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Humans lack institutions to help them draw healthy boundaries.&lt;/li&gt;
+&lt;li&gt;The current incentives and capabilities of AI to undermine human autonomy exceed those of even the strongest humans. &lt;/li&gt;
+&lt;li&gt;The long-run consequences of over-outsourcing can impact not just individuals, but our society as a whole. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So what can we do about this problem?&lt;/p&gt;
+&lt;p&gt;
+At a high level, we need to think about creating and supporting institutions to protect us from this unfair relationship.&lt;/p&gt;
+&lt;p&gt;
+More specifically, we can &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Limit non-corporate use of AI. Civilians, the general public, should only have access to restricted capabilities—like a search engine or Wikipedia.&lt;/li&gt;
+&lt;li&gt;Require licensing like we have for &lt;a href=&#34;https://www.robertvesco.com/posts/drivers-license-for-internet/&#34;&gt;driving&lt;/a&gt;. Prove you understand the risks and dangers and have the training to work with AI. This can be done yearly (of course with the help of AI!).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The above suggestions are not informed by research, but they should be! Hopefully scholars will begin thinking more about how we can create a healthy ecosystem for AI. In fact, I&amp;#39;m sure they already have, but I&amp;#39;ll save that for a future post. &lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+META NOTE
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+I used AI to help with this article, but I wrote the core ideas. I&amp;#39;m familiar with most of this research, but I didn&amp;#39;t spend too much time fact-checking anything. This is on purpose. I didn&amp;#39;t want to spend too much time on this as I wanted to spend time playing with my family instead. &lt;/p&gt;
+&lt;p&gt;
+Did I make the right choices?
+Did I draw the right boundaries? &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Footnotes
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr class=&#34;footnotes-separatator&#34;/&gt;
+&lt;div class=&#34;footnote-definitions&#34;&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-1&#34;&gt;&lt;a href=&#34;#footnote-reference-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Coase, R. (1937). &lt;strong&gt;The Nature of the Firm&lt;/strong&gt;. Economica.  
+Prahalad, C. K., &amp;amp; Hamel, G. (1990). &lt;strong&gt;The Core Competence of the Corporation&lt;/strong&gt;. Harvard Business Review.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-2&#34;&gt;&lt;a href=&#34;#footnote-reference-2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Teece, D. J. (1986). &lt;strong&gt;Profiting from Technological Innovation: Implications for Integration, Collaboration, Licensing and Public Policy&lt;/strong&gt;. Research Policy.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-3&#34;&gt;&lt;a href=&#34;#footnote-reference-3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Pisano, G., &amp;amp; Shih, W. (2009). &lt;strong&gt;Restoring American Competitiveness&lt;/strong&gt;. Harvard Business Review; also &lt;strong&gt;Producing Prosperity&lt;/strong&gt; (2012).  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-4&#34;&gt;&lt;a href=&#34;#footnote-reference-4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Bettis, R. A., Bradley, S. P., &amp;amp; Hamel, G. (1992). &lt;strong&gt;Outsourcing and Industrial Decline&lt;/strong&gt;. Academy of Management Executive.  
+Quinn, J. B., &amp;amp; Hilmer, F. (1994). &lt;strong&gt;Strategic Outsourcing&lt;/strong&gt;. Sloan Management Review.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-5&#34;&gt;&lt;a href=&#34;#footnote-reference-5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Jensen, M. C., &amp;amp; Meckling, W. H. (1976). &lt;strong&gt;Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure&lt;/strong&gt;. Journal of Financial Economics.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-6&#34;&gt;&lt;a href=&#34;#footnote-reference-6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Rochet, J.-C., &amp;amp; Tirole, J. (2003). &lt;strong&gt;Platform Competition in Two-Sided Markets&lt;/strong&gt;. Journal of the European Economic Association.  
+Zuboff, S. (2019). &lt;strong&gt;The Age of Surveillance Capitalism&lt;/strong&gt;. PublicAffairs.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-7&#34;&gt;&lt;a href=&#34;#footnote-reference-7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Parker, G., &amp;amp; Van Alstyne, M. (2005). &lt;strong&gt;Two-Sided Network Effects: A Theory of Information Product Design&lt;/strong&gt;. Management Science.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-8&#34;&gt;&lt;a href=&#34;#footnote-reference-8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Bar-Gill, O. (2012). &lt;strong&gt;Seduction by Contract&lt;/strong&gt;. Oxford University Press.  
+Wu, T. (2016). &lt;strong&gt;The Attention Merchants&lt;/strong&gt;. Knopf.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-9&#34;&gt;&lt;a href=&#34;#footnote-reference-9&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Holmström, B. (1979). &lt;strong&gt;Moral Hazard and Observability&lt;/strong&gt;. Bell Journal of Economics.  
+Eisenhardt, K. M. (1989). &lt;strong&gt;Agency Theory: An Assessment and Review&lt;/strong&gt;. Academy of Management Review.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
     <item>
       <title>Could a Driver&#39;s License for the Internet Save Humanity?</title>
-      <link>https://www.robertvesco.com/posts/drivers-license-for-internet/</link>
+      <link>http://localhost:1313/posts/drivers-license-for-internet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.robertvesco.com/posts/drivers-license-for-internet/</guid>
+      <guid>http://localhost:1313/posts/drivers-license-for-internet/</guid>
       <description>&lt;p&gt;The internet is destroying our civilization. And AI, with its ability to create fake content and exploit human weakness at scale, will only accelerate the the problem. However, there is an opportunity to turn this around if we use the motivation to get online to our advantage. In fact, harnessing this motivation has the capacity to do more for humanity than most schools. But first we need to treat the internet with the respect it deserves which means creating a something akin to a drivers license.&lt;/p&gt;</description>
       <content>&lt;p&gt;The internet is destroying our civilization. And AI, with its ability to create fake content and exploit human weakness at scale, will only accelerate the the problem. However, there is an opportunity to turn this around if we use the motivation to get online to our advantage. In fact, harnessing this motivation has the capacity to do more for humanity than most schools. But first we need to treat the internet with the respect it deserves which means creating a something akin to a drivers license.&lt;/p&gt;
 &lt;p&gt;Creating a driver&amp;rsquo;s license for the internet is not a new idea, but most of the proposals involve age and identity verification schemes.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; While these concepts are indeed important for protecting children and consumers, they don&amp;rsquo;t solve other types of problems and they create new ones.&lt;/p&gt;

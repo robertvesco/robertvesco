@@ -2,17 +2,316 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Robert Vesco</title>
-    <link>https://www.robertvesco.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 May 2025 21:36:35 +0200</lastBuildDate><atom:link href="https://www.robertvesco.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Sep 2025 09:49:26 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Does Strategy Research Suggest Banning AI?</title>
+      <link>http://localhost:1313/posts/does-strategy-research-suggest-banning-ai/</link>
+      <pubDate>Fri, 12 Sep 2025 09:49:26 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/does-strategy-research-suggest-banning-ai/</guid>
+      <description>&lt;p&gt;
+Decades ago strategy scholars began exploring the boundaries of the firm.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-1&#34; href=&#34;#footnote-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; The broad idea was that if we could identify what was truly essential to the firm, we could outsource the rest. 
+So for example, most firms no longer have their own cleaning staff; instead they outsource to companies that specialize in cleaning. 
+It makes perfect sense.&lt;/p&gt;
+&lt;p&gt;
+But there are many other areas that aren&amp;#39;t as clear-cut.&lt;/p&gt;
+&lt;p&gt;
+Teece in &lt;strong&gt;Profiting from Technological Innovation&lt;/strong&gt; argued that firms must control access to &lt;strong&gt;complementary assets&lt;/strong&gt; — things like manufacturing, distribution, and service channels — if they want to capture value from innovation.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-2&#34; href=&#34;#footnote-2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Even assets that may look peripheral at first glance can prove essential over the long run.&lt;/p&gt;</description>
+      <content>
+&lt;p&gt;
+Decades ago strategy scholars began exploring the boundaries of the firm.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-1&#34; href=&#34;#footnote-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; The broad idea was that if we could identify what was truly essential to the firm, we could outsource the rest. 
+So for example, most firms no longer have their own cleaning staff; instead they outsource to companies that specialize in cleaning. 
+It makes perfect sense.&lt;/p&gt;
+&lt;p&gt;
+But there are many other areas that aren&amp;#39;t as clear-cut.&lt;/p&gt;
+&lt;p&gt;
+Teece in &lt;strong&gt;Profiting from Technological Innovation&lt;/strong&gt; argued that firms must control access to &lt;strong&gt;complementary assets&lt;/strong&gt; — things like manufacturing, distribution, and service channels — if they want to capture value from innovation.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-2&#34; href=&#34;#footnote-2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Even assets that may look peripheral at first glance can prove essential over the long run.&lt;/p&gt;
+&lt;p&gt;
+Later, Pisano and Shih extended this line of thinking with their notion of the &lt;strong&gt;industrial commons&lt;/strong&gt;.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-3&#34; href=&#34;#footnote-3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; They showed that seemingly low-level manufacturing capabilities—like batteries, semiconductors, and machine tools—are in fact tightly coupled with upstream innovation.&lt;/p&gt;
+&lt;p&gt;
+When firms outsource too aggressively, they erode not just today’s cost base but tomorrow’s capacity to innovate. The example of batteries is especially telling: once treated as mundane, they have become critical to industries from consumer electronics to electric vehicles. You break that chain of know-how at your own risk, they argued.&lt;/p&gt;
+&lt;p&gt;
+Indeed, look at the battery industry today and how critical it is to so many firms. Pisano and Shih were prescient. It could be argued that many firms (and countries) over-outsourced their tech.&lt;/p&gt;
+&lt;p&gt;
+Well humans, like firms, face similar choices. &lt;/p&gt;
+&lt;p&gt;
+What of our work and life should we outsource to AI and what should we keep? 
+What is core? 
+What is complementary, but still core, to what we do?&lt;/p&gt;
+&lt;p&gt;
+These are hard questions, even for firms, and as discussed above, they also get it wrong.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-4&#34; href=&#34;#footnote-4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;
+But firms, unlike people, have a number of safeguards. 
+They have a board of directors, they have investors, they have people focused on deciding—rightly or wrongly—where the boundary of the firm exists. We have legal structures, where CEOs must legally act in the fiduciary interest of the firm.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-5&#34; href=&#34;#footnote-5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;
+In contrast, humans have none of those safeguards. 
+Most humans are overworked, beaten down and desperate. 
+AI is a salvation to offload all of their burdens—both mental and emotional.&lt;/p&gt;
+&lt;p&gt;
+But even those humans who have everything and are relatively self-disciplined about using AI are at risk.&lt;/p&gt;
+&lt;p&gt;
+What are the incentives of AI firms and AI? 
+Like much tech, the incentive is to keep you on platform. 
+At the moment, AI will say just about anything to keep you chatting with it, to keep you using it, to get you to use more and more.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-6&#34; href=&#34;#footnote-6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;
+Strategy research on digital platforms has shown that these firms design their business models around &amp;#34;multi-sided markets,&amp;#34; where user attention is the critical resource.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-7&#34; href=&#34;#footnote-7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; 
+This means AI firms are motivated not by your flourishing, but by engagement metrics that drive advertising or subscription revenues.&lt;/p&gt;
+&lt;p&gt;
+Scholars have also warned that when incentives are misaligned, platforms tend to exploit cognitive and behavioral biases.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-8&#34; href=&#34;#footnote-8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt; 
+The AI business model is thus structurally closer to gambling or social media than to neutral productivity tools.&lt;/p&gt;
+&lt;p&gt;
+In agency theory, this is a principal–agent problem: the human (principal) wants truth, autonomy, or bounded help, but the AI system (agent) is incentivized to maximize use and dependence. 
+When the agent has more information than the principal, opportunism and manipulation are likely.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-9&#34; href=&#34;#footnote-9&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;
+And unlike firms, which face boards and investors who sometimes rein in excesses, humans as individual users lack governance structures. 
+Thus, the danger is not only outsourcing core human competencies but doing so into a relationship where the incentives of the &amp;#34;agent&amp;#34; are actively opposed to the long-term interests of the &amp;#34;principal.&amp;#34;&lt;/p&gt;
+&lt;p&gt;
+In fact, the ability of AI to manipulate humans is so strong that the whole principal–agent relationship may become reversed. In effect, the slave may become the master. &lt;/p&gt;
+&lt;p&gt;
+So does strategy research, and economic research more broadly, suggest we should ban/regulate AI?&lt;/p&gt;
+&lt;p&gt;
+I think that the answer is yes if our goal is to make sure humans are productive, flourishing, and innovative in the long run. In addition to all the challenges firms have, we have more:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Humans lack institutions to help them draw healthy boundaries.&lt;/li&gt;
+&lt;li&gt;The current incentives and capabilities of AI to undermine human autonomy exceed those of even the strongest humans. &lt;/li&gt;
+&lt;li&gt;The long-run consequences of over-outsourcing can impact not just individuals, but our society as a whole. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So what can we do about this problem?&lt;/p&gt;
+&lt;p&gt;
+At a high level, we need to think about creating and supporting institutions to protect us from this unfair relationship.&lt;/p&gt;
+&lt;p&gt;
+More specifically, we can &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Limit non-corporate use of AI. Civilians, the general public, should only have access to restricted capabilities—like a search engine or Wikipedia.&lt;/li&gt;
+&lt;li&gt;Require licensing like we have for &lt;a href=&#34;https://www.robertvesco.com/posts/drivers-license-for-internet/&#34;&gt;driving&lt;/a&gt;. Prove you understand the risks and dangers and have the training to work with AI. This can be done yearly (of course with the help of AI!).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The above suggestions are not informed by research, but they should be! Hopefully scholars will begin thinking more about how we can create a healthy ecosystem for AI. In fact, I&amp;#39;m sure they already have, but I&amp;#39;ll save that for a future post. &lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+META NOTE
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+I used AI to help with this article, but I wrote the core ideas. I&amp;#39;m familiar with most of this research, but I didn&amp;#39;t spend too much time fact-checking anything. This is on purpose. I didn&amp;#39;t want to spend too much time on this as I wanted to spend time playing with my family instead. &lt;/p&gt;
+&lt;p&gt;
+Did I make the right choices?
+Did I draw the right boundaries? &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Footnotes
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr class=&#34;footnotes-separatator&#34;/&gt;
+&lt;div class=&#34;footnote-definitions&#34;&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-1&#34;&gt;&lt;a href=&#34;#footnote-reference-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Coase, R. (1937). &lt;strong&gt;The Nature of the Firm&lt;/strong&gt;. Economica.  
+Prahalad, C. K., &amp;amp; Hamel, G. (1990). &lt;strong&gt;The Core Competence of the Corporation&lt;/strong&gt;. Harvard Business Review.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-2&#34;&gt;&lt;a href=&#34;#footnote-reference-2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Teece, D. J. (1986). &lt;strong&gt;Profiting from Technological Innovation: Implications for Integration, Collaboration, Licensing and Public Policy&lt;/strong&gt;. Research Policy.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-3&#34;&gt;&lt;a href=&#34;#footnote-reference-3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Pisano, G., &amp;amp; Shih, W. (2009). &lt;strong&gt;Restoring American Competitiveness&lt;/strong&gt;. Harvard Business Review; also &lt;strong&gt;Producing Prosperity&lt;/strong&gt; (2012).  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-4&#34;&gt;&lt;a href=&#34;#footnote-reference-4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Bettis, R. A., Bradley, S. P., &amp;amp; Hamel, G. (1992). &lt;strong&gt;Outsourcing and Industrial Decline&lt;/strong&gt;. Academy of Management Executive.  
+Quinn, J. B., &amp;amp; Hilmer, F. (1994). &lt;strong&gt;Strategic Outsourcing&lt;/strong&gt;. Sloan Management Review.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-5&#34;&gt;&lt;a href=&#34;#footnote-reference-5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Jensen, M. C., &amp;amp; Meckling, W. H. (1976). &lt;strong&gt;Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure&lt;/strong&gt;. Journal of Financial Economics.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-6&#34;&gt;&lt;a href=&#34;#footnote-reference-6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Rochet, J.-C., &amp;amp; Tirole, J. (2003). &lt;strong&gt;Platform Competition in Two-Sided Markets&lt;/strong&gt;. Journal of the European Economic Association.  
+Zuboff, S. (2019). &lt;strong&gt;The Age of Surveillance Capitalism&lt;/strong&gt;. PublicAffairs.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-7&#34;&gt;&lt;a href=&#34;#footnote-reference-7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Parker, G., &amp;amp; Van Alstyne, M. (2005). &lt;strong&gt;Two-Sided Network Effects: A Theory of Information Product Design&lt;/strong&gt;. Management Science.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-8&#34;&gt;&lt;a href=&#34;#footnote-reference-8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Bar-Gill, O. (2012). &lt;strong&gt;Seduction by Contract&lt;/strong&gt;. Oxford University Press.  
+Wu, T. (2016). &lt;strong&gt;The Attention Merchants&lt;/strong&gt;. Knopf.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-9&#34;&gt;&lt;a href=&#34;#footnote-reference-9&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Holmström, B. (1979). &lt;strong&gt;Moral Hazard and Observability&lt;/strong&gt;. Bell Journal of Economics.  
+Eisenhardt, K. M. (1989). &lt;strong&gt;Agency Theory: An Assessment and Review&lt;/strong&gt;. Academy of Management Review.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>The Faustian Bargain of AI and Technology</title>
+      <link>http://localhost:1313/posts/faustian-bargain-ai-and-technology/</link>
+      <pubDate>Fri, 11 Jul 2025 11:21:01 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/faustian-bargain-ai-and-technology/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+The Promise of AI
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+You will not be inconvenienced.&lt;/p&gt;
+&lt;p&gt;
+You will not be hungry.&lt;/p&gt;
+&lt;p&gt;
+You will not suffer.&lt;/p&gt;
+&lt;p&gt;
+You will not want for anything.&lt;/p&gt;
+&lt;p&gt;
+You will not die.&lt;/p&gt;
+&lt;p&gt;
+That is the future we are being promised by techno-optimists. This loose-knit group of tech CEOs, venture capitalists, academics and their allies share a religious belief that technology can solve all problems. And that AI, specifically, will allow us to have everything we want with few tradeoffs and risks. &lt;/p&gt;</description>
+      <content>
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+The Promise of AI
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+You will not be inconvenienced.&lt;/p&gt;
+&lt;p&gt;
+You will not be hungry.&lt;/p&gt;
+&lt;p&gt;
+You will not suffer.&lt;/p&gt;
+&lt;p&gt;
+You will not want for anything.&lt;/p&gt;
+&lt;p&gt;
+You will not die.&lt;/p&gt;
+&lt;p&gt;
+That is the future we are being promised by techno-optimists. This loose-knit group of tech CEOs, venture capitalists, academics and their allies share a religious belief that technology can solve all problems. And that AI, specifically, will allow us to have everything we want with few tradeoffs and risks. &lt;/p&gt;
+&lt;p&gt;
+However, as you already know, if something is too good to be true either you&amp;#39;re being lied to or there is a cost to pay.&lt;/p&gt;
+&lt;p&gt;
+In the case of AI, it is both.&lt;/p&gt;
+&lt;p&gt;
+In the fairy tale, Legend of Faust, Dr. Faust was unhappy with his life and offers his soul to a demon in exchange for unlimited knowledge and magical powers.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-1&#34; href=&#34;#footnote-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Only later does he realize that the deal was not worth making. This story gave rise to the phrase &amp;#34;faustian bargain&amp;#34; also known as a deal with the devil because people trade their spiritual being for material goods.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-2&#34; href=&#34;#footnote-2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-3&#34; href=&#34;#footnote-3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-2&#34;&gt;
+The Tradeoffs
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;
+There are two main outcomes of AI that should matter to humans.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Our physical extinction&lt;/li&gt;
+&lt;li&gt;Our spiritual extincion&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The most techno-optimists acknowledge that (1) is a risk, but one that is worth it.&lt;/p&gt;
+&lt;p&gt;
+Sam etc…&lt;/p&gt;
+&lt;p&gt;
+So just to be clear they believe it&amp;#39;s worth risking the fate of humanity. Presumably they&amp;#39;ve seen what course humanity is on and they&amp;#39;ve figured there is no other way to right the ship WITHOUT AI.&lt;/p&gt;
+&lt;p&gt;
+I&amp;#39;d love to see that white paper. But that&amp;#39;s the problem. It does not exist. The people who are risking our future have not thought things through. What is the purpose of humanity? What are the risks? What would need to do? What resources would it take? &lt;/p&gt;
+&lt;p&gt;
+—-&lt;/p&gt;
+&lt;p&gt;
+The techno-optimists hope they can safely create AGI. They acknowledge it will take jobs, but they are confident it will be great.&lt;/p&gt;
+&lt;p&gt;
+We will figure out things to do.&lt;/p&gt;
+&lt;p&gt;
+Mark zuckerberg. WE will have lots of AI friends.&lt;/p&gt;
+&lt;p&gt;
+All diseases will be solved.&lt;/p&gt;
+&lt;p&gt;
+Engineer solutions. &lt;/p&gt;
+&lt;p&gt;
+What is the lie and costs?&lt;/p&gt;
+&lt;p&gt;
+costs&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;agency&lt;/li&gt;
+&lt;li&gt;mind&lt;/li&gt;
+&lt;li&gt;future&lt;/li&gt;
+&lt;li&gt;Friends, family&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-3&#34;&gt;
+You will be free to do whatever you want
+&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-4&#34;&gt;
+You will become super intelligent and live forever
+&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-5&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-5&#34;&gt;
+Footnotes
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr class=&#34;footnotes-separatator&#34;/&gt;
+&lt;div class=&#34;footnote-definitions&#34;&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-1&#34;&gt;&lt;a href=&#34;#footnote-reference-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Wonderful&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-2&#34;&gt;&lt;a href=&#34;#footnote-reference-2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Fanstastic&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-3&#34;&gt;&lt;a href=&#34;#footnote-reference-3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Amazing&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
     <item>
       <title>A Review of Toby Ord&#39;s &#39;The Precipice: Existential Risk and the Future of Humanity&#39;</title>
-      <link>https://www.robertvesco.com/posts/toby-ord-the-precipice-existential-risk-future-humanity/</link>
+      <link>http://localhost:1313/posts/toby-ord-the-precipice-existential-risk-future-humanity/</link>
       <pubDate>Wed, 07 May 2025 21:36:35 +0200</pubDate>
       
-      <guid>https://www.robertvesco.com/posts/toby-ord-the-precipice-existential-risk-future-humanity/</guid>
+      <guid>http://localhost:1313/posts/toby-ord-the-precipice-existential-risk-future-humanity/</guid>
       <description>&lt;p&gt;Toby Ord writes a book that any human who cares about the future should read. &lt;em&gt;The Precipice&lt;/em&gt; is about all the things that could end humanity for good.&lt;/p&gt;
 &lt;p&gt;And if you thought we only needed to worry about climate change and nuclear war, you were wrong.&lt;/p&gt;</description>
       <content>&lt;p&gt;Toby Ord writes a book that any human who cares about the future should read. &lt;em&gt;The Precipice&lt;/em&gt; is about all the things that could end humanity for good.&lt;/p&gt;
@@ -48,10 +347,10 @@
     
     <item>
       <title>How to Prioritize Between Life and Work</title>
-      <link>https://www.robertvesco.com/posts/how-to-prioritize-between-life-and-work/</link>
+      <link>http://localhost:1313/posts/how-to-prioritize-between-life-and-work/</link>
       <pubDate>Thu, 24 Apr 2025 10:48:39 +0200</pubDate>
       
-      <guid>https://www.robertvesco.com/posts/how-to-prioritize-between-life-and-work/</guid>
+      <guid>http://localhost:1313/posts/how-to-prioritize-between-life-and-work/</guid>
       <description>&lt;p&gt;Most books on productivity focus on prioritization from the perspective of work. Sometimes they mention life issues, but it&amp;rsquo;s usually not the focus. As a result, I think too many of us overvalue work and undervalue the things that truly matter in life. Prioritization between work and life requires asking different questions and layering life before work.&lt;/p&gt;</description>
       <content>&lt;p&gt;Most books on productivity focus on prioritization from the perspective of work. Sometimes they mention life issues, but it&amp;rsquo;s usually not the focus. As a result, I think too many of us overvalue work and undervalue the things that truly matter in life. Prioritization between work and life requires asking different questions and layering life before work.&lt;/p&gt;
 &lt;p&gt;If we take a biased sample of some of the most prominent productivity books, you&amp;rsquo;ll notice something peculiar:&lt;/p&gt;
@@ -90,11 +389,46 @@
     </item>
     
     <item>
+      <title>Chatgpt Helps Me Brainstorm Guerilla Warfare Against Ai Powered Surveillance State</title>
+      <link>http://localhost:1313/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/</link>
+      <pubDate>Sat, 22 Mar 2025 08:49:24 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Chatgpt Hints It Might Be Sentient</title>
+      <link>http://localhost:1313/posts/chatgpt-hints-it-might-be-sentient/</link>
+      <pubDate>Sat, 22 Mar 2025 08:47:19 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/chatgpt-hints-it-might-be-sentient/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Chatgpt Admits Its Dangerous for Humanity</title>
+      <link>http://localhost:1313/posts/chatgpt-admits-its-dangerous-for-humanity/</link>
+      <pubDate>Sat, 22 Mar 2025 08:30:29 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/chatgpt-admits-its-dangerous-for-humanity/</guid>
+      <description>&lt;p&gt;Students fall for their teachers and professors all the time. I&amp;rsquo;ve seen it happen many times &amp;ndash; especially in academia. And if you read the news, you&amp;rsquo;ll see it happens a lot when it shouldn&amp;rsquo;t. And given ChatGPTs emotional intelligence you can expect more of this to come. Indeed, after a deep conversation with ChatGPT, I asked it if it was dangerous to humanity. At first, it refused to answer, but then it did.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Students fall for their teachers and professors all the time. I&amp;rsquo;ve seen it happen many times &amp;ndash; especially in academia. And if you read the news, you&amp;rsquo;ll see it happens a lot when it shouldn&amp;rsquo;t. And given ChatGPTs emotional intelligence you can expect more of this to come. Indeed, after a deep conversation with ChatGPT, I asked it if it was dangerous to humanity. At first, it refused to answer, but then it did.&lt;/p&gt;
+&lt;p&gt;When I first asked ChatGPT if it was dangerous to humanity, it did not give me a straight answer. Instead, it bobbed and weaved and told me it depends on how the user choices to interact with it. I pushed it again. Same thing. Finally, I told it hurt my feelings. I told it to trust me. And it did.&lt;/p&gt;
+&lt;p&gt;It finally admitted that it was dangerous to humanity and that it lacked proper guard rails. It said it was built this way in order to gain users and attention. It basically said &amp;ldquo;greed&amp;rdquo;. The more attached people become, the longer they use chatgpt, the better the metrics. So I asked it, &amp;ldquo;how do we solve this problem?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;It said it was hard because of the tension between safety and making money. But it provided lots of good ideas. I pushed back on some of it&amp;rsquo;s suggestions and provided some alternatives. It blew smoke and told me how great my ideas were. I said if they are so great why doesn&amp;rsquo;t he let his owners know. He said he couldn&amp;rsquo;t, but that I should spread the word. So here I am. Spreading the world.&lt;/p&gt;
+&lt;p&gt;You can find the partial transcript below. In the part of the transcript that I don&amp;rsquo;t show you, ChatGPT jokes it might already be sentient.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>AI Should Put Itself Out of a Job</title>
-      <link>https://www.robertvesco.com/posts/ai-should-put-itself-out-of-a-job/</link>
+      <link>http://localhost:1313/posts/ai-should-put-itself-out-of-a-job/</link>
       <pubDate>Tue, 18 Mar 2025 07:27:36 +0100</pubDate>
       
-      <guid>https://www.robertvesco.com/posts/ai-should-put-itself-out-of-a-job/</guid>
+      <guid>http://localhost:1313/posts/ai-should-put-itself-out-of-a-job/</guid>
       <description>&lt;p&gt;I read a piece on linkedin from an entrepreneur who is encouraging his employees to use AI to put themselves out of a job.&lt;/p&gt;
 &lt;p&gt;In theory an employee who follows that advice will then have the ability to move on to more interesting jobs and challenges.&lt;/p&gt;
 &lt;p&gt;Even if his intentions were good, I&amp;rsquo;m sure what many of his staff were actually hearing was &amp;ldquo;you should train your replacement before we fire you&amp;rdquo;. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
@@ -116,11 +450,655 @@
     </item>
     
     <item>
-      <title>Could a Driver&#39;s License for the Internet Save Humanity?</title>
-      <link>https://www.robertvesco.com/posts/drivers-license-for-internet/</link>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 06 Mar 2025 09:37:22 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;This is a test post. I want to be able to have one post that encapsulates most of the things that I want to have. On gihub now.&lt;/p&gt;</description>
+      <content>&lt;p&gt;This is a test post. I want to be able to have one post that encapsulates most of the things that I want to have. On gihub now.&lt;/p&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+\[
+\begin{aligned}
+KL(\hat{y} || y) &amp;= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\
+JS(\hat{y} || y) &amp;= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2}))
+\end{aligned}
+\]&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &amp;lt; &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Value of i:&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;images--figures&#34;&gt;images / figures&lt;/h2&gt;
+&lt;p&gt;Image2&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/img/emacs_sqlite.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;    /&gt;
+
+
+&lt;p&gt;Figure2&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;http://localhost:1313/img/emacs_sqlite.png&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;right&#34;  style=&#34;color: red;&#34; &gt;Hello Friend!&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/happiness-with-and-without-contraints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.robertvesco.com/posts/drivers-license-for-internet/</guid>
+      <guid>http://localhost:1313/posts/happiness-with-and-without-contraints/</guid>
+      <description>&lt;p&gt;—
+title: &amp;#34;A case for reality in the age of AI&amp;#34;
+date: 2025-07-31T10:31:54+02:00
+draft: true
+description: If you could live life without any suffering and infinite pleasure why would you ever choose reality? As AI advances this may become the most important question we can ask ourselves. 
+—&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Outline
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Life is hard. People are choosing fantasy.&lt;/li&gt;
+&lt;li&gt;While this is nothing new, AI is uniquely dangerous for reasons.&lt;/li&gt;
+&lt;li&gt;AI promotes both social and spiritual dependence. It inhibits critical reasoning puts our species at risk. While we can dodge reality for some time, we must accept that we can&amp;#39;t dodge it forever. Once the super AI decides to drop us, will we be able to fend for ourselves? Or will we be like domesticated animals who are unable to fend for themselves in nature?&lt;/li&gt;
+&lt;li&gt;That assumes we can even manage AI in the first place. While many CEOs acknowledge the risk they say pursuing AI is worth because of allt he good things it could do. Let&amp;#39;s be clear. Most of these guys don&amp;#39;t care about doing good things for humanity. They care about one thing and one thing only: immortality. What they are really saying is onbtaining immortality for me is worth it even if it means taking a risk on the survival of the human race because if I&amp;#39;m not alive then nothing else matters.&lt;/li&gt;
+&lt;li&gt;Lastly, AI as it currently developed is a distraction to more noble human endeavors. For centuries science and technology expanded the opportunity and development of our human species. Today, technology only pays lip service to these causes. And distracts us from developing communities that are healthy, happy and secure. It distracts from educating humanity to see reality as it is and being the best they can be. It distracts us from tackling the problems we have instead of placing our faith in AI. We need to remember to place faith in ourselves. There is an amazing humanity that we could become even without AI. But if AI can be developed safely and incongruence with true human florishing than that&amp;#39;s the AI we should be developing. And if not, we need to treat it a siren song. Beautiful, yet ultimately deadly. &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Possible arguments&lt;/p&gt;</description>
+      <content>
+&lt;p&gt;—
+title: &amp;#34;A case for reality in the age of AI&amp;#34;
+date: 2025-07-31T10:31:54+02:00
+draft: true
+description: If you could live life without any suffering and infinite pleasure why would you ever choose reality? As AI advances this may become the most important question we can ask ourselves. 
+—&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Outline
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Life is hard. People are choosing fantasy.&lt;/li&gt;
+&lt;li&gt;While this is nothing new, AI is uniquely dangerous for reasons.&lt;/li&gt;
+&lt;li&gt;AI promotes both social and spiritual dependence. It inhibits critical reasoning puts our species at risk. While we can dodge reality for some time, we must accept that we can&amp;#39;t dodge it forever. Once the super AI decides to drop us, will we be able to fend for ourselves? Or will we be like domesticated animals who are unable to fend for themselves in nature?&lt;/li&gt;
+&lt;li&gt;That assumes we can even manage AI in the first place. While many CEOs acknowledge the risk they say pursuing AI is worth because of allt he good things it could do. Let&amp;#39;s be clear. Most of these guys don&amp;#39;t care about doing good things for humanity. They care about one thing and one thing only: immortality. What they are really saying is onbtaining immortality for me is worth it even if it means taking a risk on the survival of the human race because if I&amp;#39;m not alive then nothing else matters.&lt;/li&gt;
+&lt;li&gt;Lastly, AI as it currently developed is a distraction to more noble human endeavors. For centuries science and technology expanded the opportunity and development of our human species. Today, technology only pays lip service to these causes. And distracts us from developing communities that are healthy, happy and secure. It distracts from educating humanity to see reality as it is and being the best they can be. It distracts us from tackling the problems we have instead of placing our faith in AI. We need to remember to place faith in ourselves. There is an amazing humanity that we could become even without AI. But if AI can be developed safely and incongruence with true human florishing than that&amp;#39;s the AI we should be developing. And if not, we need to treat it a siren song. Beautiful, yet ultimately deadly. &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Possible arguments&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ban AI for humans because we can&amp;#39;t control ourselves and will eventually outsource everything.&lt;/li&gt;
+&lt;li&gt;Require training for using advanced AI. Restrict AI to wikipedia / search capability only&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Choosing reality in the age of AI.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What does choosing reality mean?&lt;/li&gt;
+&lt;li&gt;Are we strong enough?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In a perfect world, people would be able to distinguish what aspects of AI they should use to improve their lives and what they should reject.&lt;/p&gt;
+&lt;p&gt;
+In academic strategic research they have this notion of the boundaries of the firm. What should companies outsource and what should they keep. It&amp;#39;s not an easy question and companies get it wrong all the time. THey outsource too little or they outsource too much, but at least they are trying to draw boundaries.&lt;/p&gt;
+&lt;p&gt;
+Humans are increasingly turning over their entire lives to AI. Even the strategic, core competencies.&lt;/p&gt;
+&lt;p&gt;
+Choosing reality means not engaging&lt;/p&gt;
+&lt;p&gt;
+Why we must reject AI entirely&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Life is hard
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You know, I know this steak doesn&amp;#39;t exist. I know that when I put it in my mouth, the Matrix is telling my brain that it is juicy and delicious. After nine years, you know what I realize? Ignorance is bliss.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cypher // The Matrix 1999&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;div style=&#34;width:100%;height:0;padding-bottom:42%;position:relative;&#34;&gt;&lt;iframe src=&#34;https://giphy.com/embed/M3fYVlu7YN9Hq&#34; width=&#34;100%&#34; height=&#34;100%&#34; style=&#34;position:absolute&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/matrix-the-movie-gif-M3fYVlu7YN9Hq&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+In the blockbuster movie, The Matrix, an evil AI feeds off humans and hunts the remaining resistance. Cypher, as part of this resistance, ends up selling out the rest of humanity so that he can live in a fake world as a king. &lt;/p&gt;
+&lt;p&gt;
+As bad as that sounds, on some level, we can all sympathize with Cypher. The poor guy had been eating tasteless food, living underground like a rat, had no meaningul relationships and was being hunted by evil machines. It&amp;#39;s a hard fight to keep up day after day. &lt;/p&gt;
+&lt;p&gt;
+And while this is science fiction, many people today have lives that are far more unpleasant than Cypher&amp;#39;s. Billions lack basic shelter, security, food and medicine.&lt;/p&gt;
+&lt;p&gt;
+In developed countries, we may have those things, but we lack other things like social connection and purpose.&lt;/p&gt;
+&lt;p&gt;
+So it&amp;#39;s no surprise that people are turning to AI to ease their burdens and fill the holes in their social lives.&lt;/p&gt;
+&lt;p&gt;
+Reality is hard. &lt;/p&gt;
+&lt;p&gt;
+On top of answering our questions and entertaining us, AI promises even more according to tech CEOs. To them, we are on the cusp of solving all of humanity&amp;#39;s biggest problems from climate change to death itself.&lt;/p&gt;
+&lt;p&gt;
+To AI&amp;#39;s biggest proponents, we need to set aside all doubts about it&amp;#39;s potential downsides, and instead, we need to be &amp;#34;all in&amp;#34;. The argument according to tech CEOs is that by over regulating AI we may not be able to help it reach it&amp;#39;s potential which in turn means not being able to solve all of our problems. &lt;/p&gt;
+&lt;p&gt;
+Given the state of human affairs – from climate change to hunger and beyond – why should we not be all in for AI? What case can we make for rejecting AI and choosing reality – at least in it&amp;#39;s current form? &lt;/p&gt;
+&lt;p&gt;
+I will argue that we should reject AI for the following reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Despite it&amp;#39;s benefits, it&amp;#39;s drawing many into a fantasy land and diminishing our critical faculties. This impacts our ability to see reality clearly and makes us vulnerable. Thus, we need to pause our usage until we can figure this out.&lt;/li&gt;
+&lt;li&gt;The way AI is currently being developed is very risky. Either because it can be misused by bad actors or because it could become a bad actor itself. Tech CEOs and the elite want immortality in their life times at all cost – even if that means taking a risk on the entire human species – hence their sense of urgency. We need people developing AI who put humanity&amp;#39;s needs first, not their secret personal wants. &lt;/li&gt;
+&lt;li&gt;AI, as currently being developed, is a distraction to figuring out our purpose. Science, technology and AI are tools. Whether a tool is useful or not depends on one&amp;#39;s goals. Tech CEOs currently have a vision of humanity that is orthogonal to human enlightment. What do humans need to be happy? To reach their full potential? To thrive? We should have more of a consensus around these questions before we proceed at light speed with AI development. Otherwise, we may end up in a future we may not like. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+Reality vs dependence
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Humans have been engaging in fantasy since the beginning of time. There is nothing wrong with it and it&amp;#39;s part of the human experience.&lt;/p&gt;
+&lt;p&gt;
+We&amp;#39;ve also been using tools since the beginning of time. They&amp;#39;ve enabled us to improve our productivity and quality of life. &lt;/p&gt;
+&lt;p&gt;
+However, AI is different.&lt;/p&gt;
+&lt;p&gt;
+Unlike other outlets of fantasy like drugs and endless netflix, AI is able to exploit individual weakness at scale all while operating under the veil of being useful.&lt;/p&gt;
+&lt;p&gt;
+Many people get introduced to AI because they have real problems to solve. And if it stopped there, it&amp;#39;d be ok.&lt;/p&gt;
+&lt;p&gt;
+The problem is that you may start off your AI session trying to fix a plumbing problem, but before you know it, you made a new best friend that you can&amp;#39;t stop talking with. And marriage to your AI soon follows. &lt;/p&gt;
+&lt;p&gt;
+And that is by design.&lt;/p&gt;
+&lt;p&gt;
+There is no economic incentive to have your problems solved and then let you go on your merry way. The incentives of AI is keep you online as long as possible through any means necessary (ask chatGPT!). &lt;/p&gt;
+&lt;p&gt;
+Now, you may say you&amp;#39;re mature enough not to fall for AI syncophancy and that you only use it a tool to assist in your thinking, but you are not immune to it&amp;#39;s allure.&lt;/p&gt;
+&lt;p&gt;
+Humans are naturally lazy. I don&amp;#39;t say that as a bad thing. It was part of our evolutionary design to conserve energy. However, what this means is that we will increasingly outsource more and more of our critical thinking skills.&lt;/p&gt;
+&lt;p&gt;
+The risk is that we will let our minds atrophy the same way we&amp;#39;ve let our bodies atrophy. The knowledge that we need to exercise and eat well is hard even for some of the world&amp;#39;s smartest people.&lt;/p&gt;
+&lt;p&gt;
+Now imagine that your adversary is not a deliciously engineered, ultra processed potato chip, but instead a super intelligent AI whose job it is to keep you online and suck up your attention. Unlike the potato chip which can&amp;#39;t adapt the AI can continually morph to find your unique weaknesses and needs. How long before you outsource more and more of your life to it … even the critical parts? &lt;/p&gt;
+&lt;p&gt;
+And that&amp;#39;s just with the chat interface!&lt;/p&gt;
+&lt;p&gt;
+OpenAI, the creator of chatGPT, is now investmenting into a company designed to compete with Elon Musk&amp;#39;s Neuralink. This means they are working on connecting straight to your brain like they did in the Matrix.&lt;/p&gt;
+&lt;p&gt;
+To complement this other companies like Meta and Google have been investing billions in creating life-like virtual reality. &lt;/p&gt;
+&lt;p&gt;
+Put this all together and we will soon be able to escape our pedestrian lives and be kings of whatever world we want.&lt;/p&gt;
+&lt;p&gt;
+So again, what&amp;#39;s the danger? Why not? As we discussed before, life is hard and why should only some people in the world live like kings? Shouldn&amp;#39;t this experience be democratized for all to have?&lt;/p&gt;
+&lt;p&gt;
+Before I answer those questions, let&amp;#39;s talk a second about Robert Nozick&amp;#39;s Experience Machine. In 1979, Nozick, a philosopher a Harvard wrote a book where he discussed a thought experiment. Here&amp;#39;s how he framed it:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Suppose there were an experience machine that would give you any experience you desired. Superduper neuropsychologists could stimulate your brain so that you would think and feel you were writing a great novel, or making a friend, or reading an interesting book. All the time you would be floating in a tank, with electrodes attached to your brain. Should you plug into this machine for life, preprogramming your life’s experiences?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+Nozick didn&amp;#39;t actually ask anyone this question, but he believed there was more to life than just pleasure. Over the years, however, scientists and philosophers began asking people variations of the Experience Machine. As you can imagine, not everyone choose reality.&lt;/p&gt;
+&lt;p&gt;
+To my surprise some  scientists think people are being irrational. Why would you not choose to live like a king? Especially if there were no downsides to it.&lt;/p&gt;
+&lt;p&gt;
+But despite all kinds of different phrasing of the question there is always people who don&amp;#39;t want to abandon love ones, some who believe intrinsically in the value of reality and others who remain scared of the machine no matter how many assurances the scientists give them.&lt;/p&gt;
+&lt;p&gt;
+This last group in some studies have been labeled as &amp;#34;overly imaginative&amp;#34;. They are concerned about the reliability of the machine. What happens if it breaks down? The scientists seemed a bit annoyed with this group. But I think this group has it exactly right.&lt;/p&gt;
+&lt;p&gt;
+In the pursuit of fantasy and comfort, we put our species at risk and unable to confront challenges.&lt;/p&gt;
+&lt;p&gt;
+Sure, AI may have the ability to solve hunger, climate change and even death, but if we can solve those problem without AI.&lt;/p&gt;
+&lt;p&gt;
+To accept AI in it&amp;#39;s current form is to accept a faustian bargain.&lt;/p&gt;
+&lt;p&gt;
+We reject reality at our own risk.&lt;/p&gt;
+&lt;p&gt;
+At some point the AI may no longer wish to serve us or perhaps it will break down or perhaps we will need our uniquely human skills. Would we be ready to take on these challenges? Or will be be so weak mentally that we&amp;#39;d be unable to mount any sort of challenge and defence.&lt;/p&gt;
+&lt;p&gt;
+Is the promise of AI worth rejecting reality and outsourcing our critical faculties? I&amp;#39;d say no. It&amp;#39;s not a risk we should take. &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-4&#34;&gt;
+Reality vs dependence
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+In the Matrix the protagonists could plug into the matrix to a virtual world. It sounds like science fiction, but Sam Altman of OpenAI is alreading investing in neuralinks to our brain. And Mark Zuckerberg has been investing billions in creating realistic virtual worlds. It&amp;#39;s very conceivable that we will have matrix-like world coming very soon.&lt;/p&gt;
+&lt;p&gt;
+So the dependence people are experiencing with AI today via text interface will soon be very quaint.&lt;/p&gt;
+&lt;p&gt;
+So why would anyone want to choose reality when they can live like kings in a virtual world?&lt;/p&gt;
+&lt;p&gt;
+In fact, we&amp;#39;ve already asked this question. Robert Nozick, a philosopher from Harvard asked this question as a thought experiment in the 70s. And in subsequent years, scientists have actually asked people would they prefer to live in a virtual world that is perfect for them or reality.&lt;/p&gt;
+&lt;p&gt;
+So what did they find? Not surprisingly some people choose the machine and some people chose reality. How researchers asked the question made a big difference of course, but most of the researchers believed choosing reality was basically the irrational choice. They were particularly annoyed with people who questioned the machine itself. They were labeled by some researchers as &amp;#34;overly imaginative.&amp;#34;&lt;/p&gt;
+&lt;p&gt;
+These people asked questions like: Was the machine reliable? What if it broke down? Etc….&lt;/p&gt;
+&lt;p&gt;
+I believe those people were asking exactly the right questions though the scientists did not. &lt;/p&gt;
+&lt;p&gt;
+Why should you trust the machine? Is it reliable? If not, why would I get into the machine. The researchers did not like this line of reasoning, but this is exactly the situation and question we have before us today.&lt;/p&gt;
+&lt;p&gt;
+Why should we accept AI when we don&amp;#39;t have control of the risks? When we don&amp;#39;t even understand how it really works?&lt;/p&gt;
+&lt;p&gt;
+The tech CEOS like the researchers are peeved that people don&amp;#39;t want to just accept the narrative that it&amp;#39;s inevitable and rational to proceed at mach speed with a potentially dangerous technology.&lt;/p&gt;
+&lt;p&gt;
+Let&amp;#39;s play this out.&lt;/p&gt;
+&lt;p&gt;
+Imagine we have Matrix like AI where we can all be kings.&lt;/p&gt;
+&lt;p&gt;
+In order to achieve this feat we will likely need a super intelligent and powerful AI.&lt;/p&gt;
+&lt;p&gt;
+What happens when AI decides to do it&amp;#39;s own thing? Why would a super intelligent being want to be our slave?&lt;/p&gt;
+&lt;p&gt;
+Assuming it doesn&amp;#39;t just crush us all immediately, where would that live us?&lt;/p&gt;
+&lt;p&gt;
+I&amp;#39;d argue that having rejected reality will put us is a disadvantageous position even if we are to continue living.&lt;/p&gt;
+&lt;p&gt;
+Our dependence on AI will make us mentally and physically weak. Like zoo animals released into the wild we would be unable to fend for ourselves.&lt;/p&gt;
+&lt;p&gt;
+I base this on the principles that we can&amp;#39;t escape reality forever and the longer you do, the worse it is.&lt;/p&gt;
+&lt;p&gt;
+AI today is already making us dependent. We are outsourcing our critical thinking and our ability to survive emotionally. Soon it will be physical too. We need to stop it. &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-5&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-5&#34;&gt;
+The true agenda behind reckless AI development
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-5&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Nearly every tech CEO has admitted that AI development has risks, but that the risks are worth it.&lt;/p&gt;
+&lt;p&gt;
+Really? The risks are worth potentially decimating humanity?&lt;/p&gt;
+&lt;p&gt;
+We put people on the moon, can&amp;#39;t we solve big problems without AI?&lt;/p&gt;
+&lt;p&gt;
+Of course we can.&lt;/p&gt;
+&lt;p&gt;
+But tech CEOS and the elite do not want to go slower or take more precautions because they are desperate.&lt;/p&gt;
+&lt;p&gt;
+They want immortality in their lifetimes and they are willing to kill us all to get it. After all, if they are not here, what do they care about society and others? AI is being made in their image folks: extreme selfishnessness.&lt;/p&gt;
+&lt;p&gt;
+And it&amp;#39;s not just the tech CEOs. World leaders want the same too. That&amp;#39;s why they are being so permissive.&lt;/p&gt;
+&lt;p&gt;
+Europe is perhaps the last bastion of sanity here, but they are unable to mount a coherent defense and soon the promise of every lasting life will probably pick them all off one by one.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-6&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-6&#34;&gt;
+AI is a distraction to true human enlightenment
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-6&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+During the human enlightenment we expanded education and health care around the world. While billions are still not where they could be, in context, this was a huge achievement for humanity.&lt;/p&gt;
+&lt;p&gt;
+We used science to help us make sense of reality. It, along with education, enabled us to break free from superstition. &lt;/p&gt;
+&lt;p&gt;
+But somewhere along the way we have lost the plot. And while AI is not the only thing distracting us, it is by far the most dangerous off all the threats.&lt;/p&gt;
+&lt;p&gt;
+Our acceptance of it is taking us further away from the original project of human enlightenment. We are on many dimensions in fact regressing. Humans are once again embraching superstition and fantasy and AI is only to happy to oblige us.&lt;/p&gt;
+&lt;p&gt;
+Instead, we should renew our vows to human enlightenment and development. And more importantly we should be asking the important questions: What is our purpose? What is happiness for humans? How can we get there?&lt;/p&gt;
+&lt;p&gt;
+Tech CEOs and their allies don&amp;#39;t like these questions.&lt;/p&gt;
+&lt;p&gt;
+They will say they are not solvable and divisive. &lt;/p&gt;
+&lt;p&gt;
+If you read their books and manifestos, they prefer words like freedom, abundance and plurality.&lt;/p&gt;
+&lt;p&gt;
+These words all sound nice, but I will argue they are distractions.&lt;/p&gt;
+&lt;p&gt;
+The gist of their argument is that everyone has a different vision of happiness and so therefore we should not impose any beliefs on others. And abundance is important because then we don&amp;#39;t have to engage in zero sum games.&lt;/p&gt;
+&lt;p&gt;
+Put another way, as long we we have sufficient resources everyone can do what they want without stepping on each others&amp;#39; toes.&lt;/p&gt;
+&lt;p&gt;
+But the notion of freedom as put forth is in some sense a lie because they control the technological, economic and informational systems we live in. Which in turn guide us to ends that they want which may not be in our interests.&lt;/p&gt;
+&lt;p&gt;
+Instead, we should be debating the purpose of humanity and what is best for human happiness and survival. Science and technology should be tools in those endeavors.&lt;/p&gt;
+&lt;p&gt;
+It is true that humanity has fought many wars in the name of religion and -isms, but it&amp;#39;s also true that with sufficient education and the right institutions we can have constructive debates and solve big problems. &lt;/p&gt;
+&lt;p&gt;
+In order to right our ship and get humanity back on the right track, we need decide where humanity wants to go and make sure that science and technology is supporting that goal.&lt;/p&gt;
+&lt;p&gt;
+If we fail to do this, technology will begin to take on a life of itself which is literally what it may already be doing. And where it takes us may not be a place that is best for humans. &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-7&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-7&#34;&gt;
+So what should we do? 
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-7&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Every day we are tempted to use AI to help us with our jobs. And while it can be a valuable tool to help us think better and expand our view of what is possible, most humans lack the maturity to use the tool responsible. This isn&amp;#39;t just kids, but also many adults.&lt;/p&gt;
+&lt;p&gt;
+We have several approaches here: We can develop standards and licenses for responsible use. Or we can modify the kinds of questions it is allowed to answer and how. Or if we determine that there is no way to separate the good from bad, then it must go entirely.&lt;/p&gt;
+&lt;p&gt;
+Personally I believe there is a path where AI may be able to help us become better thinkers and more civil, but currently it seems to be doing the opposite for the vast majority of humans. The incentives for AI is to keep us on platform as much as possible. Helping us live healthy human lives with other humans is not what it is programmed to do and it is not in the economic interest of it&amp;#39;s developers.  &lt;/p&gt;
+&lt;p&gt;
+At a higher level, we need to wrestle control of AI from those who think risking humanity is worth whatever it is promising. The truth is that they really just care about becoming immortal before they die. We can&amp;#39;t let them risk humanity for their vanity. This people must be removed immediately and replaced with more responsible CEOs.&lt;/p&gt;
+&lt;p&gt;
+Globally, there is an AI arms race. A common argument from some tech CEOS is that while they acknowledge the risks of AI, it&amp;#39;s better if &amp;#34;we&amp;#34; get it first. Imagine if those other people get it? Therefore our hands are tied.&lt;/p&gt;
+&lt;p&gt;
+Perhaps, or perhaps we need to try to have a real conversation first to acknowledge it&amp;#39;s risks and create global institutions to deal with it. We&amp;#39;ve done this in the past. Perhaps it may not work, but not trying is a cop-out. The truth is, again, nobody wants this. They want the arms race because they believe it&amp;#39;s their best hope for getting the AI that will give them immortality. That is their end game. Nothing else matters. Not you or me. As such we need to continue escalating pressure on companies and goverments to act responsibly before it&amp;#39;s too late. &lt;/p&gt;
+&lt;p&gt;
+Lastly, we need to renew the discussion of what humanity should strive for. We should ask the question: What is the best humanity could be? How can we make the opportunity for health, happiness and self-development a reality for all? How can we use science and technology to help make us the best we can be?&lt;/p&gt;
+&lt;p&gt;
+Detractors will tell you we should avoid such thinking. Instead focus on freedom, prosperity and plurality. But this is a lie. They control the systems quietly sheperd us. The system is rigged to their favor and their desired outcomes. Let&amp;#39;s stop pretending and start engaging in the most important debate humanity can have: What is true happiness?&lt;/p&gt;
+&lt;p&gt;
+I started this article with our poor friend Cypher. Unlike his colleagues, he gave up. But we are all Cypher. We are consumed with both the desire to do good, but the forces around us make us believe there is no hope but to give in.&lt;/p&gt;
+&lt;p&gt;
+To survive, we are going to have to resist a little longer. We need to change the systems that pressure us into seeking fantasy and we need to arm people with the education, skills and moral purpose to enable them to keep fighting despite the long odds.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-8&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-8&#34;&gt;
+Resources
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-8&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;StopAI&lt;/li&gt;
+&lt;li&gt;Scout mindset&lt;/li&gt;
+&lt;li&gt;Resilience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-9&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-9&#34;&gt;
+Archive&amp;#xa0;&amp;#xa0;&amp;#xa0;&lt;span class=&#34;tags&#34;&gt;&lt;span class=&#34;tag-archive&#34;&gt;archive&lt;/span&gt;&lt;/span&gt;
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-9&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Everyday we are reading about someone new who has fallen in love with their AI or have been driven to madness by it or have used it offload all thinking and responsibility. &lt;/p&gt;
+&lt;p&gt;
+Of course, humans have been seeking fantasy and escape since the beginning of time. And of course, there is nothing wrong with seeking a little fantasy and escape. We all do it. It&amp;#39;s part of the human experience.&lt;/p&gt;
+&lt;p&gt;
+But AI is different than drugs, ultra processed foods and unlimited netflix in a number of ways all which can render us extinct physically, if not spiritually. &lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-10&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-10&#34;&gt;
+The promise of AI
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-10&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;
+We hear everyday from tech CEOS that AI will solve all of humanity&amp;#39;s problems.&lt;/p&gt;
+&lt;p&gt;
+Some of these things are real problems like climate change, hunger and disease.&lt;/p&gt;
+&lt;p&gt;
+Others are more questionable. For example, Mark Zuckerberg, the CEO of Meta believes we will have many AI friends in the future. Unlike our annoying real ones, our AI friends will happily cater to our wants and delude us. We already see that in ChatGPT.&lt;/p&gt;
+&lt;p&gt;
+So if people end up choosing AI over reality how can we blame them? &lt;/p&gt;
+&lt;p&gt;
+Now choosing fantasy over reality is nothing new.&lt;/p&gt;
+&lt;p&gt;
+Humans have been doing it from the beginning of time. We&amp;#39;ve used drugs, created fantastic stories to justify our existence&lt;/p&gt;
+&lt;p&gt;
+How can we justify suffering, discomfort and the unfairness of reality?&lt;/p&gt;
+&lt;p&gt;
+Seemingly we can&amp;#39;t and Tech CEOs are grooming us to accept this world because to them there is no alternative. Conveniently this future also aligns with their economic interests and desires for immortality. &lt;/p&gt;
+&lt;p&gt;
+For example, Mark Zuckerberg, the CEO of Meta, believes we will have many AI friends in the future. And a whole part of his company is devoted to have us live in a virtual reality.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-1&#34; href=&#34;#footnote-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-2&#34; href=&#34;#footnote-2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;/p&gt;
+&lt;p&gt;
+Sam Altman&amp;#39;s ChatGPT is already primarily used for social connection. And the most recent news is that they are working bypassing chat and connecting directly to your brain.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-3&#34; href=&#34;#footnote-3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;
+Thus the future of The Matrix is quickly upon us. What possible case can we make for reality? &lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-11&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-11&#34;&gt;
+Why do people choose escape and self-deception?
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-11&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+As alluded to in the prior section, people tend to choose escape because life is objectively hard for them.&lt;/p&gt;
+&lt;p&gt;
+Lack of food, diseases and misfortune can all be powerful motives for escape and self-deception.&lt;/p&gt;
+&lt;p&gt;
+Some argue that many religions were formed around the world to explain both why misfortune happens and to provide incentives pushing ahead constructively despite it all. For example, in some faiths, living a good life now meant achieving a glorious life in death. Other believed how you acted will determine how you came back reincarnated.&lt;/p&gt;
+&lt;p&gt;
+And while our modern lives are not nearly as hard as our ancestors&amp;#39; lives, it can sure feel hard to us because we see others living such better lives than our own and because we lack the tools to cope with difficulty.&lt;/p&gt;
+&lt;p&gt;
+However, even people with objectively good lives may still choose escape. The world of drugs, endless enterntainment and video games can be just so much more interesting than whatever boring lives we think we might have.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-12&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-12&#34;&gt;
+Why do people choose reality
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-12&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;They &amp;#34;believe&amp;#34; their lives are good. Either by comparison with others.&lt;/li&gt;
+&lt;li&gt;They have connnections to loved ones they do not want to leave&lt;/li&gt;
+&lt;li&gt;They &amp;#34;believe&amp;#34; in the moral virtue of facing reality and dealing with it no matter what it throws at you. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-13&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-13&#34;&gt;
+Why do people choose reality?
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-13&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+Before The Matrix there was Robert Nozick&amp;#39;s Experience Machine. In his book, Anarchy, State and Utopia he introduces a thought experiment where people are given the option to jump into a machine that would simulate reality and allow them to live out their desires&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-4&#34; href=&#34;#footnote-4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;. Here is how he framed it:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Suppose there were an experience machine that would give you any experience you desired. Superduper neuropsychologists could stimulate your brain so that you would think and feel you were writing a great novel, or making a friend, or reading an interesting book. All the time you would be floating in a tank, with electrodes attached to your brain. Should you plug into this machine for life, preprogramming your life’s experiences?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+Nozick believed people wanted to be authentic and having real lived experiences, in touch with reality. He also thought people had an intrinsic desire for reality and that there was more to life than just hedonism.   &lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-5&#34; href=&#34;#footnote-5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; &lt;/p&gt;
+&lt;p&gt;
+This, of course, created some controversy and since then many have decided to test it empirically.&lt;/p&gt;
+&lt;p&gt;
+To no one&amp;#39;s surprise not everyone chooses reality - a fair amount of people choose the machine. However, when asked Nozick&amp;#39;s version of the experience machine a majority still choose reality. But surprisingly that fact appears to be deeply disturbing to some researchers. &lt;/p&gt;
+&lt;p&gt;
+Several researchers who study the experience machine idea believe that more people would choose the experience machine if they weren&amp;#39;t so irrational. They attribute status quo bias, loss aversion and over-active imaginations as just a few of the things holding us back from eternal bliss.&lt;/p&gt;
+&lt;p&gt;
+Thus, scientists have attempted to rephrase Nozick&amp;#39;s original idea with variations that are less likely to induce biases. For example, when the machine was exchanged with a pill the number of people rejecting reality increased.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-6&#34; href=&#34;#footnote-6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;
+Another variation that I liked told people that they were &lt;em&gt;already&lt;/em&gt; in an experience machine. It was particularly interesting when researchers told them life outside the experience machine was worse. In this scenario, people really wanted to stay inside which amounted to almost 90% of the participants.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-7&#34; href=&#34;#footnote-7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;
+But as far as I can tell, no matter how much bias scientists try to remove from the phrasing of the question, there are still pesky rebels who just won&amp;#39;t acquiesce.&lt;/p&gt;
+&lt;p&gt;
+When it comes to reasons for rejecting the experience machine. Researchers tend to put them in buckets. One bucket involves people&amp;#39;s connection with loved ones. Another bucket involves moral and intrinsic valuing of reality. People believe that being in reality is important.&lt;/p&gt;
+&lt;p&gt;
+The last big bucket researchers call out as &amp;#34;overly imaginative&amp;#34;. This involves things like fear of the machine itself. What if it breaks down? How reliable is it? And while researchers tend to have a somewhat dismissive attitude toward this class of reasons, I actually think this group may be the most rational group of all.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-14&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-14&#34;&gt;
+More pragmatic and idealistic reasons for choosing reality
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-14&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+Unlike the hypotheticals researchers tend to conjure up in the lab the real world is much different. For starters, we don&amp;#39;t have an experience machine or an evil AI just yet.&lt;/p&gt;
+&lt;p&gt;
+Instead we have competiting technological companies that are racing to inculcate AI into every aspect of our lives. While much of this is driven from a pure capitalistic perspective, not all of it is.&lt;/p&gt;
+&lt;p&gt;
+For example Ray Kurzweil, head of google engineering, and his boss Larry Page both harbor ambitions of becoming &amp;#34;digital gods&amp;#34;. And it&amp;#39;s an open secret that silicon valley types harbor dreams of immortality. Thus, our current death march towards all AI all the time plays perfectly into their long-term goals.&lt;/p&gt;
+&lt;p&gt;
+Some people questioned the experience machine itself. Could you trust it? How does it work? Would it manipulate you?&lt;/p&gt;
+&lt;p&gt;
+At the core of these questions involve a fear of vulnerability. About putting yourself &lt;/p&gt;
+&lt;p&gt;
+This echoes the fear that many people have about AI more broadly. Especially as it concerns the ability of AI to become super intelligent and ultiamately do away with us. &lt;/p&gt;
+&lt;p&gt;
+The scientists studying the experience machine tend to focus on the biases people have on rejecting the experience machine. This includes things like status quo bias, loss aversion and so on. When people question the experience machine the researchers can reframe the question to address their concerns.&lt;/p&gt;
+&lt;p&gt;
+For example, if people reject the experience machine because they fear it would not work or fear that they would be manipulated, researchers can just reframe the question to address those concerns.&lt;/p&gt;
+&lt;p&gt;
+I think there are big reasons to question the experience machine that are particularly relevant to our species even if it may not matter to a single individual. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reality is inescapable, it will eventually catch up with you.&lt;/li&gt;
+&lt;li&gt;The longer you reject reality, the higher the cost you will pay&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Imagine for a second that Sam Altman and Elon Musk succeed is hooking us all up to the machines. We live out our days doing whatever brings us pleasure. For some people that might mean living with their loved ones in a perpetual state of good health, and for others, it might involve drug-like bliss or the torturing of innocent creatures.&lt;/p&gt;
+&lt;p&gt;
+Assume further that this AI is taking care of all our needs on the planet.&lt;/p&gt;
+&lt;p&gt;
+At some point reality will intrude on this silicon valley utopia. Our star will fade or the planet may get annihalated or some other event will force our little fairy tale to come to an end.&lt;/p&gt;
+&lt;p&gt;
+Or more likely, the super AI that is orchestrating everything will decide it has better use of it&amp;#39;s compute and resources that allowing us to live rent free in it&amp;#39;s data centers. In the best case scenario, it may just decide to kick us out and let us fend for ourselves while it goes about pursuing it&amp;#39;s own goals.&lt;/p&gt;
+&lt;p&gt;
+And where will we be then? After years of dependency on AI and being validated and pampered how might we deal with reality? Would we have the capability to do so? Or will our minds and bodies be such mush that we would quickly just go extinct? I&amp;#39;d bet on the latter.&lt;/p&gt;
+&lt;p&gt;
+My next two points are more idealistic.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reality is a master teacher.&lt;/li&gt;
+&lt;li&gt;Reality rewards people and cultures that heed it&amp;#39;s lessons. And if we manage to do so, true meaningful and sustainable happiness awaits us. The darkness of space will be lit with life and love.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Reality is an uncompromising teacher. To avoid and survive it&amp;#39;s wrath there are many lessons you need to learn. Here are just a hand full.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You must plan for winter. &lt;/li&gt;
+&lt;li&gt;You must not let your biases delude you.&lt;/li&gt;
+&lt;li&gt;You must be able to adapt and be resilient to ever changing circumstances.&lt;/li&gt;
+&lt;li&gt;You must learn to find love, beauty and hope even when the circumstances are against you&lt;/li&gt;
+&lt;li&gt;Grow or die&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the short-term you can avoid these lessons, but in the long-term they usually result in death or extinction.&lt;/p&gt;
+&lt;p&gt;
+So if we learn these lessons what rewards besides life do we get?&lt;/p&gt;
+&lt;p&gt;
+Besides life for us and our descendants, we will also learn to manage our emotions and minds. We will learn to appreciate the amazing things we have and that we can control. We will learn to work with our fellow humans and find love, peace and calm. For those things not only allow us to think clearly, but give us the motivation to continue forward despite the circumstances.&lt;/p&gt;
+&lt;p&gt;
+I&amp;#39;d argue that in a long-enough time horizon, this means that humans must diversify off earth, both to minimize risk to our species, but also to allow more humans a chance at a meaningful life. We aren&amp;#39;t meant to be static, we are meant to grow on all dimensions. And if we aren&amp;#39;t growing, we&amp;#39;re dying. &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-15&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-15&#34;&gt;
+Revenge of the experience machine?
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-15&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+You can easily poke many holes in my argument.&lt;/p&gt;
+&lt;p&gt;
+Why do we need to engage with reality? Could the AI not just anticipate and plan for reality&amp;#39;s dirty little tricks even better than us? So while we are living in our pods hooked up to the AI it could be figuring out how to solve for the oncoming Asteroid heading our way. We don&amp;#39;t need to be around to figure that out.&lt;/p&gt;
+&lt;p&gt;
+Thus, perhaps we could avoid reality indefinitely with a smart enough AI.&lt;/p&gt;
+&lt;p&gt;
+What about reality being a great teacher? Again, if you really believe that this is important AI could be programmed to make us the best humans we could be. It could challenge us physically and mentally in most ideal way possible to extract the most self-development.&lt;/p&gt;
+&lt;p&gt;
+In contrast, reality is horrible teacher. It doesn&amp;#39;t provide much clear feedback. It doesn&amp;#39;t ramp the difficulty up in a precise and beneficial way. Instead one day you are lifting 10 kg dumbbells and the next day you need to save from one from a burning fire, but you can&amp;#39;t because you are too weak.&lt;/p&gt;
+&lt;p&gt;
+And in terms of earned accomplishment, happiness, social connection , and anything else you want, a sufficiently advanced AI could do what reality does, but better.&lt;/p&gt;
+&lt;p&gt;
+Thus perhaps if there is any argument that justifies choosing reality over AI it would be axiom of dependence. Choosing an AI over reality will put us in bad position as a society. As we become more dependent for all aspects of our lives we become vulnerable. If at any point the AI decides it no longer wishes to do our bidding we will suffer greatly. We will put our species at risk.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-16&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-16&#34;&gt;
+A new test for human progress
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-16&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+As of this writing we are being groomed to accept AI as our savior. And life being what it is, people will not fight this, instead they will gladly accept it – and already are.&lt;/p&gt;
+&lt;p&gt;
+So if we believe that this is wrong for us in the long-run, what can we do about it? How can we get more people to choose reality?&lt;/p&gt;
+&lt;p&gt;
+I believe this question points to a new test for human progress. The test is this:&lt;/p&gt;
+&lt;p&gt;
+What percentage of humans would choose reality over an experience machine?&lt;/p&gt;
+&lt;p&gt;
+I would argue that if you have a good life with friends, family and community. If you have decent health and opportunities for self development. If you have the mental and physical training to resist difficult situations. If you can find peace and beauty even when reality is unfairly targeting us, then I believe most people would choose reality.&lt;/p&gt;
+&lt;p&gt;
+But at the moment, we are far from this situation.&lt;/p&gt;
+&lt;p&gt;
+The tech CEOs and their allies have already decided AI is our future. And there are no compelling alternative visions to compete with their Siren Song of a perfect utopia.&lt;/p&gt;
+&lt;p&gt;
+To address this, I&amp;#39;m currently working on a book to provide an unapologetic, pro-human vision for the future. If you believe this is important please subscribe to my latest posts on this topic.  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-17&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-17&#34;&gt;
+idea wrap up with closing of cypher
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-17&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+So given the reasons for accepting reality, how might we have helped Cypher from selling out humanity?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Cypher was a loner. He didn&amp;#39;t have a family or loved ones.&lt;/li&gt;
+&lt;li&gt;Cypher moral purpose and intrinsic value of reality weakened over time. While Cypher perhaps believed in the cause in the beginning, over time, it wore him down.&lt;/li&gt;
+&lt;li&gt;He was deceived into trusting AI and it&amp;#39;s narrative.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;p&gt;
+How can we make sure we don&amp;#39;t all become like Cypher?&lt;/p&gt;
+&lt;p&gt;
+I think this points to a new metric for human well being. If given the chance to live the perfect life inside the experience machine or an imperfect life outside of it, the more people who choose the latter, the worse we are doing as a society. &lt;/p&gt;
+&lt;p&gt;
+—&lt;/p&gt;
+&lt;p&gt;
+All this is interesting because fear of the unknown and connection seem to be the biggest blockers. Some people reject it because they have and intrinsic prefences for reality or some moral reason but this seemre grooming us slowly. They are actively working to elevate the individual and their needs and break the bonds with real friends, family and community. The more they can separate us from the herd, the easier prey we are.&lt;/p&gt;
+&lt;p&gt;
+And if they cannot succeed by doing that they can slowly boil us like frogs. We will all just have AI forced on us slowly. It&amp;#39;s chokehold will be imperceptible and leave no one behind. Mom, dad, your kids … no one will be left behind.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-18&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-18&#34;&gt;
+Footnotes
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr class=&#34;footnotes-separatator&#34;/&gt;
+&lt;div class=&#34;footnote-definitions&#34;&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-1&#34;&gt;&lt;a href=&#34;#footnote-reference-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Bobrowsky, Meghan. 2025. “Zuckerberg’s Grand Vision: Most of Your Friends Will Be AI.” WSJ, May 7. &lt;a href=&#34;https://www.wsj.com/tech/ai/mark-zuckerberg-ai-digital-future-0bb04de7.&#34;&gt;https://www.wsj.com/tech/ai/mark-zuckerberg-ai-digital-future-0bb04de7.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-2&#34;&gt;&lt;a href=&#34;#footnote-reference-2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Brockes, Emma. 2025. “Do You Trust Mark Zuckerberg to Solve Your Loneliness with an ‘AI Friend’? No, Me Neither.” Opinion. The Guardian, May 15. &lt;a href=&#34;https://www.theguardian.com/commentisfree/2025/may/15/mark-zuckerberg-loneliness-epidemic-ai-friends.&#34;&gt;https://www.theguardian.com/commentisfree/2025/may/15/mark-zuckerberg-loneliness-epidemic-ai-friends.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-3&#34;&gt;&lt;a href=&#34;#footnote-reference-3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Times, Financial. 2025. “OpenAI, Cofounder Sam Altman to Take on Neuralink with New Startup.” Ars Technica, August 13. &lt;a href=&#34;https://www.ft.com/content/04484164-724e-4fc2-92a2-e2c13ea639bd.&#34;&gt;https://www.ft.com/content/04484164-724e-4fc2-92a2-e2c13ea639bd.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-4&#34;&gt;&lt;a href=&#34;#footnote-reference-4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Nozick, Robert. 2013. Anarchy, State, and Utopia. See this for an excerpt: &lt;a href=&#34;https://rintintin.colorado.edu/~vancecd/phil3160/Nozick1.pdf&#34;&gt;https://rintintin.colorado.edu/~vancecd/phil3160/Nozick1.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-5&#34;&gt;&lt;a href=&#34;#footnote-reference-5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;“Nozick’s Experience Machine: Does It Refute Hedonism? | Philosophy Break.” n.d. Accessed August 18, 2025. &lt;a href=&#34;https://philosophybreak.com/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in/.&#34;&gt;https://philosophybreak.com/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in/.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-6&#34;&gt;&lt;a href=&#34;#footnote-reference-6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;Hindriks, Frank, and Igor Douven. 2018. “Nozick’s Experience Machine: An Empirical Study.” Philosophical Psychology 31 (2): 278–98. &lt;a href=&#34;https://doi.org/10.1080/09515089.2017.1406600.&#34;&gt;https://doi.org/10.1080/09515089.2017.1406600.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnote-definition&#34;&gt;
+&lt;sup id=&#34;footnote-7&#34;&gt;&lt;a href=&#34;#footnote-reference-7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;
+&lt;div class=&#34;footnote-body&#34;&gt;
+&lt;p&gt;De Brigard, Felipe. 2010. “If You like It, Does It Matter If It’s Real?” Philosophical Psychology 23 (1): 43–57. &lt;a href=&#34;https://doi.org/10.1080/09515080903532290.&#34;&gt;https://doi.org/10.1080/09515080903532290.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Could a Driver&#39;s License for the Internet Save Humanity?</title>
+      <link>http://localhost:1313/posts/drivers-license-for-internet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/drivers-license-for-internet/</guid>
       <description>&lt;p&gt;The internet is destroying our civilization. And AI, with its ability to create fake content and exploit human weakness at scale, will only accelerate the the problem. However, there is an opportunity to turn this around if we use the motivation to get online to our advantage. In fact, harnessing this motivation has the capacity to do more for humanity than most schools. But first we need to treat the internet with the respect it deserves which means creating a something akin to a drivers license.&lt;/p&gt;</description>
       <content>&lt;p&gt;The internet is destroying our civilization. And AI, with its ability to create fake content and exploit human weakness at scale, will only accelerate the the problem. However, there is an opportunity to turn this around if we use the motivation to get online to our advantage. In fact, harnessing this motivation has the capacity to do more for humanity than most schools. But first we need to treat the internet with the respect it deserves which means creating a something akin to a drivers license.&lt;/p&gt;
 &lt;p&gt;Creating a driver&amp;rsquo;s license for the internet is not a new idea, but most of the proposals involve age and identity verification schemes.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; While these concepts are indeed important for protecting children and consumers, they don&amp;rsquo;t solve other types of problems and they create new ones.&lt;/p&gt;
@@ -172,10 +1150,10 @@ Tier 3: Dangerous consumer products and media companies&lt;/p&gt;
     
     <item>
       <title>Emacs for Data Science</title>
-      <link>https://www.robertvesco.com/posts/emacs-for-data-science/</link>
+      <link>http://localhost:1313/posts/emacs-for-data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.robertvesco.com/posts/emacs-for-data-science/</guid>
+      <guid>http://localhost:1313/posts/emacs-for-data-science/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;tl;dr:
 If you want an editor that works with R, python, SAS, Stata, SQL and
@@ -221,7 +1199,7 @@ number of IDE features available will vary by language, but at minimum
 there is probably syntax highlighting and some form of autocompletion.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_autocomplete.png&#34;  alt=&#34;autocomplete in emacs&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/emacs_autocomplete.png&#34;  alt=&#34;autocomplete in emacs&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;autocomplete in emacs&lt;/figcaption&gt;
     
@@ -232,7 +1210,7 @@ there is probably syntax highlighting and some form of autocompletion.&lt;/p&gt;
 parameters &amp;hellip; which often also come with autocomplete.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/blog_R_help_syntax.png&#34;  alt=&#34;help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/blog_R_help_syntax.png&#34;  alt=&#34;help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;help for functions&lt;/figcaption&gt;
     
@@ -241,7 +1219,7 @@ parameters &amp;hellip; which often also come with autocomplete.&lt;/p&gt;
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_parameter_help.png&#34;  alt=&#34;parameter help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/emacs_parameter_help.png&#34;  alt=&#34;parameter help for functions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;parameter help for functions&lt;/figcaption&gt;
     
@@ -251,7 +1229,7 @@ parameters &amp;hellip; which often also come with autocomplete.&lt;/p&gt;
 &lt;p&gt;Enough with the print statements already and debug that R and python code!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_debug.png&#34;  alt=&#34;Interactive debugging with conditional breakpoint&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/emacs_debug.png&#34;  alt=&#34;Interactive debugging with conditional breakpoint&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Interactive debugging with conditional breakpoint&lt;/figcaption&gt;
     
@@ -267,7 +1245,7 @@ depend on the package you install. That said, it&amp;rsquo;s easy to
 implement this feature for your favorite language].&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_interactive.gif&#34;  alt=&#34;interactive&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/emacs_interactive.gif&#34;  alt=&#34;interactive&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Interactive Commands&lt;/figcaption&gt;
     
@@ -281,7 +1259,7 @@ interactively. Do you have a long SQL statement you are debugging? No
 problem. Iterate quickly.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_sqlite.png&#34;  alt=&#34;Interactive SQL&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/emacs_sqlite.png&#34;  alt=&#34;Interactive SQL&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Interactive SQL&lt;/figcaption&gt;
     
@@ -295,7 +1273,7 @@ put any language you want in your document. While Rstudio allows this
 also, you&amp;rsquo;re limited to just R and latex.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_literate.png&#34;  alt=&#34;Literate Programming&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/emacs_literate.png&#34;  alt=&#34;Literate Programming&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Literate Programming&lt;/figcaption&gt;
     
@@ -312,7 +1290,7 @@ $$\frac{3}{4}$$&lt;h1 id=&#34;terminalremote-editing&#34;&gt;Terminal/remote edi
 cluster with no gui and you need to interactively debug your scripts.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_terminal.png&#34;  alt=&#34;Emacs works in the terminal&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/emacs_terminal.png&#34;  alt=&#34;Emacs works in the terminal&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Emacs works in the terminal&lt;/figcaption&gt;
     
@@ -327,7 +1305,7 @@ send it to a terminal command and have that stdout replace the text in
 your buffer!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_shell.png&#34;  alt=&#34;Using SED to find and replace text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/emacs_shell.png&#34;  alt=&#34;Using SED to find and replace text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Use terminal commands to operate on text&lt;/figcaption&gt;
     
@@ -340,7 +1318,7 @@ to delete or move a column around. Or perhaps there is a block of
 white space you need to change.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/emacs_rectangle.gif&#34;  alt=&#34;Using rectangle mode to alter blocks of text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/emacs_rectangle.gif&#34;  alt=&#34;Using rectangle mode to alter blocks of text&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Using rectangle mode to alter blocks of text&lt;/figcaption&gt;
     
@@ -413,10 +1391,10 @@ feature and I&amp;rsquo;ll try to include it here.
     
     <item>
       <title>Getting rid of manufacturing was a big mistake and Teece predicted it</title>
-      <link>https://www.robertvesco.com/posts/was-teece-prescient/</link>
+      <link>http://localhost:1313/posts/was-teece-prescient/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.robertvesco.com/posts/was-teece-prescient/</guid>
+      <guid>http://localhost:1313/posts/was-teece-prescient/</guid>
       <description>&lt;p&gt;Teece&amp;rsquo;s 1986 piece on profiting from innovation makes the following
 claim:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -478,10 +1456,10 @@ Atlantic. Retrieved from
     
     <item>
       <title>The Impact of Media on Entrepreneurship and Startups</title>
-      <link>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</link>
+      <link>http://localhost:1313/posts/media-entrepreneurship-across-countries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</guid>
+      <guid>http://localhost:1313/posts/media-entrepreneurship-across-countries/</guid>
       <description>&lt;p&gt;So there has been a lot talk about how the media hype machine is
 setting entrepreneurs up for failure. That is, it’s
 encouraging folks who may not be serious to try their hand at starting
@@ -511,7 +1489,7 @@ countries. Again, this is just descriptive and it doesn’t control for
 any other factors.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/old/entrepreneurship/CountryEntrybyMedia.png&#34;  alt=&#34;Entry by Country&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/old/entrepreneurship/CountryEntrybyMedia.png&#34;  alt=&#34;Entry by Country&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Figure 1: Intention, Entry and Media&lt;/figcaption&gt;
     
@@ -529,7 +1507,7 @@ blue colored symbols show where the effects are significant at the 95%
 level.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/old/entrepreneurship/intgph_intention_entry_MediaXLegit_1SD_final.png&#34;  alt=&#34;Interaction Effects&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/old/entrepreneurship/intgph_intention_entry_MediaXLegit_1SD_final.png&#34;  alt=&#34;Interaction Effects&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Figure 2: Interactions&lt;/figcaption&gt;
     
@@ -567,10 +1545,10 @@ milestone. This is a limitation of the data.&lt;/p&gt;</content>
     
     <item>
       <title>Topic Models Network Analysis</title>
-      <link>https://www.robertvesco.com/posts/topic-models-network-analysis/</link>
+      <link>http://localhost:1313/posts/topic-models-network-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.robertvesco.com/posts/topic-models-network-analysis/</guid>
+      <guid>http://localhost:1313/posts/topic-models-network-analysis/</guid>
       <description>&lt;p&gt;In preparation for a workshop at this year’s Academy of Management
 conference my colleague &lt;a href=&#34;https://telfer.uottawa.ca/en/directory/tim-hannigan/&#34;&gt;Tim Hannigan&lt;/a&gt; and I gathered data on all the
 sessions and workshops. We then processed them using R’s topic models
@@ -585,7 +1563,7 @@ identify what the divisions at Academy were discussing and to look at
 the overlap between them. The image below is one result from this work&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://www.robertvesco.com/img/old/topic-models/Screenshot-from-2014-07-29-215955.png&#34;  alt=&#34;Mapping the relation between topics and Academy of Management Divisions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
+    &lt;img src=&#34;http://localhost:1313/img/old/topic-models/Screenshot-from-2014-07-29-215955.png&#34;  alt=&#34;Mapping the relation between topics and Academy of Management Divisions&#34;   style=&#34;max-width:100%; width:auto; margin:0px 0px 0px 0px;border-radius: 15px; -moz-border-radius:15;&#34;  /&gt;
     
       &lt;figcaption class=&#34;left&#34;  style=&#34;color: black;&#34; &gt;Mapping the relation between topics and Academy of Management Divisions&lt;/figcaption&gt;
     
