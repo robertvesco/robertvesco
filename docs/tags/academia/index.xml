@@ -5,12 +5,14 @@
     <link>https://www.robertvesco.com/tags/academia/</link>
     <description>Recent content in Academia on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.robertvesco.com/tags/academia/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+
+    <atom:link href="https://www.robertvesco.com/tags/academia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Topic Models Network Analysis</title>
       <link>https://www.robertvesco.com/posts/topic-models-network-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/posts/topic-models-network-analysis/</guid>
       <description>&lt;p&gt;In preparation for a workshop at this year’s Academy of Management
 conference my colleague &lt;a href=&#34;https://telfer.uottawa.ca/en/directory/tim-hannigan/&#34;&gt;Tim Hannigan&lt;/a&gt; and I gathered data on all the

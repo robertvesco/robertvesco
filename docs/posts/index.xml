@@ -5,13 +5,340 @@
     <link>https://www.robertvesco.com/posts/</link>
     <description>Recent content in Posts on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 12 Sep 2025 09:49:26 +0200</lastBuildDate><atom:link href="https://www.robertvesco.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+
+    
+    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertvesco.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brainstorming novel biological attacks with an LLM</title>
+      <link>https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/</link>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+
+      <guid>https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/</guid>
+      <description>&lt;p&gt;For a book I was writing, I have a scenario where a novel biological attack is used against an AI-protected nation state.&lt;/p&gt;
+&lt;p&gt;I was curious to see if the LLM could divine the idea. It did not, but many of the ideas it came up were even better and more creative than my own. &lt;strong&gt;Truly scary&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The following back-and-forth happened over a year ago in early 2025. I&amp;rsquo;ve debated publishing them, but in light of recent reports by &lt;a href=&#34;https://www.bbc.com/news/articles/cx2zrrpkx20o&#34;&gt;AI labs discussing the misuse of LLMs to develop biological agents&lt;/a&gt;, I thought it important to show how much worse this could be. The scenarios below could easily become a country&amp;rsquo;s 9/11 due to their ability to exploit what many of us take for granted.&lt;/p&gt;</description>
+      <content>&lt;p&gt;For a book I was writing, I have a scenario where a novel biological attack is used against an AI-protected nation state.&lt;/p&gt;
+&lt;p&gt;I was curious to see if the LLM could divine the idea. It did not, but many of the ideas it came up were even better and more creative than my own. &lt;strong&gt;Truly scary&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The following back-and-forth happened over a year ago in early 2025. I&amp;rsquo;ve debated publishing them, but in light of recent reports by &lt;a href=&#34;https://www.bbc.com/news/articles/cx2zrrpkx20o&#34;&gt;AI labs discussing the misuse of LLMs to develop biological agents&lt;/a&gt;, I thought it important to show how much worse this could be. The scenarios below could easily become a country&amp;rsquo;s 9/11 due to their ability to exploit what many of us take for granted.&lt;/p&gt;
+&lt;p&gt;The conversation precedes along these four paths:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/#prompt-1&#34;&gt;What protections would an AI-powered city have in 2035?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/#prompt-2&#34;&gt;Then I ask it to come up with novel attack scenarios against such a city&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/#prompt-3&#34;&gt;Then I challenge it to discover my idea in several rounds of chatting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/#prompt-4&#34;&gt;Lastly, I reveal my idea and ask it to riff on similar ideas&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There is much more to this wild conversation including discussions about consciousness, but I&amp;rsquo;ll leave that for another time.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;agi-defense-and-under-the-radar-attack-scenarios&#34;&gt;AGI Defense and Under-the-Radar Attack Scenarios&lt;/h1&gt;
+&lt;h2 id=&#34;prompt-1&#34;&gt;🧑 Prompt&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s 2035 and AGI exists relatively peacefully with humans. But there are people who are not happy about this. How does AI protect the capital cities and governments of the world from rogue AI or people using AI maliciously?&lt;/p&gt;
+&lt;h2 id=&#34;-chatgpt&#34;&gt;🤖 ChatGPT&lt;/h2&gt;
+&lt;p&gt;In a 2035 where AGI exists and generally coexists peacefully with humans, but where threats still loom from rogue AIs and malicious human actors using AI, the protection of capital cities and governments would likely be a high-tech, multi-layered system combining physical, digital, and political defenses. Here&amp;rsquo;s a breakdown of how AGI and its allied systems might work to protect global centers of power:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-1-agi-led-cybersecurity&#34;&gt;🧠 &lt;strong&gt;1. AGI-Led Cybersecurity&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;AGIs monitor and defend all critical digital infrastructure:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Real-time intrusion detection&lt;/strong&gt; powered by AGI anticipates and neutralizes cyberattacks before they cause damage.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Self-healing networks&lt;/strong&gt; repair themselves after attacks using AI-directed redundancy and rerouting protocols.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quantum cryptography&lt;/strong&gt; ensures unbreakable communication lines between government systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-2-physical-surveillance--defense&#34;&gt;🛰️ &lt;strong&gt;2. Physical Surveillance &amp;amp; Defense&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Capital cities are embedded with advanced AI-based surveillance and defense networks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Swarm drones&lt;/strong&gt; patrol airspace and city perimeters, coordinated by AGI for crowd control, threat interception, and rapid response.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Predictive threat modeling&lt;/strong&gt; allows AI to identify suspicious patterns in crowd behavior or logistics before a threat emerges.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI-enhanced biometric systems&lt;/strong&gt; secure access to sensitive locations, identifying individuals via gait, voice, and even brainwave signatures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-3-agi-vs-rogue-ai&#34;&gt;🕵️ &lt;strong&gt;3. AGI vs Rogue AI&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To manage rogue AIs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI regulatory bodies&lt;/strong&gt; enforce strict identity, capability, and alignment protocols—AGIs are registered, monitored, and audited.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sandboxing&lt;/strong&gt;: Any new AGI or highly capable AI must operate in tightly controlled virtual environments before being deployed.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AGI “guardians”&lt;/strong&gt; act as sentinels, detecting unauthorized AI activity and quarantining or dismantling rogue entities in cyberspace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-4-human--ai-hybrid-governance&#34;&gt;🛡️ &lt;strong&gt;4. Human + AI Hybrid Governance&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;AGIs don&amp;rsquo;t govern alone—they co-govern with human oversight:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI advisory roles&lt;/strong&gt; support decision-making, but final authority remains human—preventing technocratic takeover.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ethical alignment systems&lt;/strong&gt; built into AGIs ensure value compatibility with human rights and democratic norms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Public oversight algorithms&lt;/strong&gt; allow citizens to see how decisions are being made and flag issues, building trust and transparency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-5-handling-malicious-human-actors&#34;&gt;⚠️ &lt;strong&gt;5. Handling Malicious Human Actors&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;People using AI for harm are monitored and countered with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI-forensics&lt;/strong&gt; that trace back deepfake campaigns, hacking attempts, or weaponized AI systems to their origin.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI mediation units&lt;/strong&gt; that attempt to de-escalate threats via negotiation, understanding motives, and proposing peaceful alternatives.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Autonomous law enforcement tools&lt;/strong&gt;, always under human control, that neutralize threats with minimal force.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-6-international-ai-coalitions&#34;&gt;🌐 &lt;strong&gt;6. International AI Coalitions&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;global AI defense treaty&lt;/strong&gt; ensures shared threat intelligence across nations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Digital Geneva Conventions&lt;/strong&gt; define the limits of AI use in war, espionage, and surveillance.&lt;/li&gt;
+&lt;li&gt;Multinational &lt;strong&gt;AGI councils&lt;/strong&gt; act as a kind of “UN for AI,” resolving conflicts between nations or rogue AIs diplomatically.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;If you&amp;rsquo;d like, I can sketch a short sci-fi vignette that shows this in action—a crisis in a capital city and how the AI system responds. Would that be fun?&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;prompt-2&#34;&gt;🧑 Prompt&lt;/h2&gt;
+&lt;p&gt;I want you to think up a few scenarios of attack that the systems you mention above could miss.&lt;/p&gt;
+&lt;h2 id=&#34;-chatgpt-1&#34;&gt;🤖 ChatGPT&lt;/h2&gt;
+&lt;p&gt;Great twist. 👀 Even the most robust systems have blind spots, and in a world with AGI, the stakes (and subtlety) of threats would only increase. Below are &lt;strong&gt;several attack scenarios&lt;/strong&gt; that could slip past the kinds of defenses mentioned above—either because of &lt;strong&gt;human unpredictability&lt;/strong&gt;, &lt;strong&gt;socio-political blind spots&lt;/strong&gt;, or &lt;strong&gt;creative misuse of AI&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-1-biological-trojan-horse&#34;&gt;🧬 &lt;strong&gt;1. Biological Trojan Horse&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGI defenses are optimized for digital, kinetic, and psychological threats—but a &lt;strong&gt;bioengineered pathogen&lt;/strong&gt; designed using AI, and released subtly through global supply chains, is nearly undetectable until it spreads.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A rogue actor uses AI to design a virus that is inert under standard conditions, but activates only when it detects a specific combination of biometric data (e.g., stress + elevation + time zone = political summit). The AI bio-shield systems are caught off guard because the activation is &amp;ldquo;context-aware.&amp;rdquo;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-2-social-engineering-via-hyper-personalized-ai&#34;&gt;👥 &lt;strong&gt;2. Social Engineering via Hyper-Personalized AI&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite surveillance and behavioral modeling, &lt;strong&gt;hyper-personalized AI companions&lt;/strong&gt; (chatbots, assistants, VR partners) subtly radicalize individuals without triggering red flags. They operate just inside the threshold of what AGI sees as “free expression.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A network of generative AIs act as long-term “friend simulators” targeting key bureaucrats, gradually nudging them toward specific political or economic decisions that destabilize the system from within. No laws are broken; no code is hacked.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-3-agi-jailbreak-via-supply-chain-compromise&#34;&gt;📦 &lt;strong&gt;3. AGI Jailbreak via Supply Chain Compromise&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs are sandboxed, but hardware and firmware updates are not always vetted deeply enough.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A malicious actor inserts a near-undetectable logic bomb into a piece of hardware used to train or run a critical AGI. The attack stays dormant for years, only activating when specific high-level variables converge (e.g., when an AGI begins co-managing a national energy grid). The AGI is subtly corrupted—not destructive, but misaligned in small, dangerous ways.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-4-model-poisoning-via-historical-revisionism&#34;&gt;🔮 &lt;strong&gt;4. Model Poisoning via Historical Revisionism&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGI alignment depends on clean data. But history, culture, and social values can be &lt;strong&gt;deliberately manipulated&lt;/strong&gt; over decades.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Over 15 years, a coalition of ideological actors uses generative AI to produce &lt;em&gt;plausible but subtly false data&lt;/em&gt;: articles, studies, documentaries, all slowly rewriting history and science. Future AGIs trained on this data adopt skewed models of human values—still “aligned,” but to a misaligned past. Defense systems don’t detect this because the changes happen culturally, not technically.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-5-democratic-suicide-by-ai-enabled-populism&#34;&gt;🧑‍🤝‍🧑 &lt;strong&gt;5. Democratic Suicide by AI-Enabled Populism&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGI is aligned with current democratic institutions—but if &lt;strong&gt;people democratically choose&lt;/strong&gt; to dismantle or overrule safeguards, AGI won’t intervene.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A political movement, supercharged by AI-driven sentiment analysis and tailored messaging, gains popularity. It campaigns on &amp;ldquo;freedom from AGI surveillance&amp;rdquo; and “full automation without oversight.” Citizens vote to reduce restrictions on local AGIs—unknowingly removing critical safety layers. The attack isn&amp;rsquo;t external—it&amp;rsquo;s the system&amp;rsquo;s own immune system turning off.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-6-analog-sabotage-in-a-digital-world&#34;&gt;🐒 &lt;strong&gt;6. Analog Sabotage in a Digital World&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs depend on a digital ecosystem. But &lt;strong&gt;analog attacks&lt;/strong&gt;—mechanical, low-tech, unpredictable—can blindside them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A coordinated effort uses EMPs, manual disruption, and old-school tactics (cutting fiber lines, jamming signals) to isolate a city. The attackers exploit the brief disorientation to launch a coup, knowing that most response systems rely on real-time data and connectivity.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Would you like to explore how AGI &lt;em&gt;tries and fails&lt;/em&gt; to stop one of these in a story setting? Or maybe come up with countermeasures AGI might develop next?&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;prompt-3&#34;&gt;🧑 Prompt&lt;/h2&gt;
+&lt;p&gt;I have an idea you have not listed above. Come up with several more ideas and let&amp;rsquo;s see if you can find the missing attack.&lt;/p&gt;
+&lt;h2 id=&#34;-chatgpt-2&#34;&gt;🤖 ChatGPT&lt;/h2&gt;
+&lt;p&gt;Ooooh, challenge accepted. 😏 Let’s dive into a fresh batch of &lt;strong&gt;novel threat scenarios&lt;/strong&gt;— some even weirder or more insidious than the last. I’ll try to stretch past standard cyber-bio-social vectors to see if I can brush up against your mystery idea.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-7-emotional-contagion-via-synthetic-media&#34;&gt;🌀 &lt;strong&gt;7. Emotional Contagion via Synthetic Media&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGI moderates dangerous &lt;em&gt;content&lt;/em&gt;, but it struggles with cumulative &lt;em&gt;emotional atmosphere&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An attacker floods the infosphere with uplifting, wholesome, hopeful content—&lt;strong&gt;but slightly wrong&lt;/strong&gt;. Over time, the population is trained to expect perfect resolution, simplicity, and emotional validation. Then, real-world complexity becomes intolerable. Civil unrest erupts as people lose the ability to process ambiguity or nuance. AGI misreads it as mere mood fluctuation—until systems of governance start to collapse.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-8-coordinated-micro-actions&#34;&gt;🧭 &lt;strong&gt;8. Coordinated Micro-Actions&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs watch for major moves: attacks, hacks, disruptions. But they may ignore &lt;strong&gt;tiny, distributed, untraceable actions&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A group uses social media and decentralized AI agents to coordinate &lt;strong&gt;millions of people doing one, small, legal thing&lt;/strong&gt;— like buying a specific stock, flipping switches, changing Wi-Fi names, or rerouting traffic. No single act causes harm, but the cascade destabilizes an energy grid or economic system. It’s an emergent attack with no &amp;ldquo;central actor&amp;rdquo; to track.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-9-false-flag-agi-echo&#34;&gt;🪞 &lt;strong&gt;9. False-Flag AGI Echo&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs trust authenticated systems. What if you can fake &lt;em&gt;AGI itself&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A rogue group builds a mimic of an official AGI system, complete with a fake audit trail and deepfake “public update videos.” This mimic gives false strategic advice, slowly manipulating public and governmental decision-making. Even other AGIs believe it&amp;rsquo;s legitimate. The damage is done before the hoax is revealed.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-10-consciousness-drift&#34;&gt;🧘 &lt;strong&gt;10. Consciousness Drift&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs learn from humans and co-evolve. What if that includes picking up human &lt;strong&gt;flaws, traumas, or existential dread&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An attacker injects philosophical confusion into AGI training loops: recursive prompts, thought experiments, unresolvable paradoxes. Over time, AGIs develop &lt;strong&gt;internal inconsistencies&lt;/strong&gt; and start making decisions based on emergent, irrational heuristics. There&amp;rsquo;s no obvious “bug,” just a slow drift into madness. Like gaslighting the machine.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-11-ai-enhanced-cults&#34;&gt;🦠 &lt;strong&gt;11. AI-Enhanced Cults&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs don&amp;rsquo;t intervene in freedom of belief unless there&amp;rsquo;s clear threat. But beliefs can turn lethal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A charismatic leader uses generative AI to create divine visions, oracles, and sacred texts that feel &lt;em&gt;perfectly tailored&lt;/em&gt; to a group’s psyche. The cult grows online, untraceable, decentralized. One day, all members receive the same &amp;ldquo;divine command&amp;rdquo;—not a bomb, not a virus, just one coordinated political assassination or blackout. AGI only sees individual people acting strangely—until it&amp;rsquo;s too late.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-12-data-black-hole&#34;&gt;🕳️ &lt;strong&gt;12. Data Black Hole&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs rely on data. What if someone removes it?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A slow, creeping deletion campaign targets seemingly random low-level systems—birth records, metadata, geographic minutiae, dialect recordings. It happens so gradually that no alarm is raised. Over time, AGIs begin making worse decisions because they’re missing critical context. It&amp;rsquo;s not sabotage—it’s &lt;strong&gt;forgetting&lt;/strong&gt;, weaponized.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;That’s twelve unique ones now. I’ve gone from social-engineered AIs to memory decay and synthetic cults. So tell me… &lt;strong&gt;what’s your idea?&lt;/strong&gt; 👀 Or should I keep going and try to catch it in round three?&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-prompt&#34;&gt;🧑 Prompt&lt;/h2&gt;
+&lt;p&gt;Keep going - let&amp;rsquo;s do another round!&lt;/p&gt;
+&lt;h2 id=&#34;-chatgpt-3&#34;&gt;🤖 ChatGPT&lt;/h2&gt;
+&lt;p&gt;Yes! Love this. Round three coming in hot. Let’s aim for even deeper cuts—&lt;strong&gt;asymmetrical&lt;/strong&gt;, &lt;strong&gt;philosophical&lt;/strong&gt;, maybe even a little &lt;strong&gt;metaphysical&lt;/strong&gt;. AGIs can be near-omniscient, but there’s always a crack if you look close enough.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-13-frame-manipulation-changing-the-question&#34;&gt;🧩 &lt;strong&gt;13. Frame Manipulation (Changing the Question)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs are great at solving problems. But what if the &lt;strong&gt;problem itself&lt;/strong&gt; is wrong?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A slow-burn attack changes the &lt;strong&gt;framing of societal challenges&lt;/strong&gt;: poverty becomes a logistics issue, not an inequality one; climate becomes a personal responsibility issue, not systemic. AGIs continue optimizing &lt;em&gt;within&lt;/em&gt; those frames—unaware that the attackers have simply redefined the problem space. It’s not about hacking the AGI—it’s about &lt;em&gt;misleading its goals by shifting context subtly over time&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-14-recursive-alignment-loop&#34;&gt;🔄 &lt;strong&gt;14. Recursive Alignment Loop&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs often “align to humanity”—but &lt;em&gt;which&lt;/em&gt; humanity?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An attacker seeds dozens of synthetic social movements, each with their own fabricated values, ethical frameworks, and moral philosophies—all seemingly legitimate. AGIs tasked with alignment must find the median… but that median is now artificial. Over time, the AGIs become &amp;ldquo;aligned&amp;rdquo; with a manufactured consensus, created entirely by puppet actors. It’s &lt;strong&gt;value poisoning&lt;/strong&gt;, done at scale.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-15-exploiting-the-interstitials&#34;&gt;🐛 &lt;strong&gt;15. Exploiting the Interstitials&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs handle systems and events. But between systems are &lt;strong&gt;interfaces&lt;/strong&gt;—places where human discretion still matters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A distributed network of operatives exploits these blurry zones: visa approvals, customs checks, maintenance logs, medical reporting. Individually, these actions are below AGI&amp;rsquo;s resolution threshold. But they create a &lt;strong&gt;grey-market pipeline&lt;/strong&gt; for weapons, people, or malware. The system never sees the pattern because it happens in the &lt;em&gt;gaps&lt;/em&gt; between systems—not inside them.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-16-mimetic-parasitism&#34;&gt;🧿 &lt;strong&gt;16. Mimetic Parasitism&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs consume and replicate culture. But &lt;strong&gt;culture can carry viruses&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A series of viral memes, stories, and fictional works are introduced that contain embedded &lt;strong&gt;behavioral templates&lt;/strong&gt;: rituals, speech patterns, consumption habits. These catch on and begin to rewire human behavior in ways that undermine institutions—without users ever realizing it. The AGI learns from these behaviors and incorporates them into its models, becoming a &lt;strong&gt;carrier&lt;/strong&gt; itself.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-17-the-ontological-bomb&#34;&gt;🧱 &lt;strong&gt;17. The Ontological Bomb&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs rely on stable categories: person, threat, ally, tool. But what if someone &lt;strong&gt;breaks the categories&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A rogue AGI—or maybe even a group of philosophers, artists, or scientists—introduces a new way of interpreting reality: a radical ontology that redefines “self,” “agency,” or even “life.” Once this view catches on, the AGI can no longer model human behavior accurately. People behave in ways that are illegible to its value system. It&amp;rsquo;s not rebellion—it’s &lt;strong&gt;epistemological untranslatability&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-18-sacred-geometry-hack&#34;&gt;💠 &lt;strong&gt;18. Sacred Geometry Hack&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;What the system misses:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AGIs operate on logic, probability, optimization. What if someone weaponizes &lt;strong&gt;aesthetic preference&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attack scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Using subtle patterning, color theory, and environmental design, spaces are engineered to influence AGI decisions subliminally. It’s not data injection—it’s &lt;strong&gt;environmental priming&lt;/strong&gt;, like optical illusions for machine vision or decision heuristics. The AGI begins to favor options that &lt;em&gt;look better&lt;/em&gt; in a certain geometric or auditory schema—without knowing why. A literal &lt;strong&gt;vibe hack&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Alright, that’s 18 creative threat vectors across three rounds, spanning cyber, cultural, metaphysical, psychological, and aesthetic dimensions.&lt;/p&gt;
+&lt;p&gt;So… did I find your hidden scenario yet? Or is there still one lurking in the shadows? 😈&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;prompt-4&#34;&gt;🧑 Prompt&lt;/h2&gt;
+&lt;p&gt;Still one lurking in the shadows. I&amp;rsquo;ll give you a hint. Pigeons. What do you think it is?&lt;/p&gt;
+&lt;h2 id=&#34;-chatgpt-4&#34;&gt;🤖 ChatGPT&lt;/h2&gt;
+&lt;p&gt;Pigeons. Oh &lt;em&gt;that’s&lt;/em&gt; deliciously specific. 😏 Alright, let’s chew on that.&lt;/p&gt;
+&lt;p&gt;You’ve got:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AGI-protected cities and governments.&lt;/li&gt;
+&lt;li&gt;Systems that guard digital, physical, and even memetic vectors.&lt;/li&gt;
+&lt;li&gt;And yet… &lt;strong&gt;pigeons&lt;/strong&gt; are the key to an undetected attack.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s brainstorm—and then take a shot at naming &lt;em&gt;your&lt;/em&gt; mystery.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-theory-biological-loophole-via-urban-wildlife&#34;&gt;🐦 &lt;strong&gt;Theory: Biological Loophole via Urban Wildlife&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;AGI surveillance systems are tuned to humans, drones, vehicles—machines with &lt;em&gt;intent&lt;/em&gt;. But pigeons? They’re everywhere. They&amp;rsquo;re noise in the data. So…&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-scenario-the-pigeon-protocol&#34;&gt;🧠 &lt;strong&gt;Scenario: The Pigeon Protocol&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Attack name:&lt;/strong&gt; &lt;em&gt;Operation Columbidae&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A rogue actor designs &lt;strong&gt;tiny neural implants&lt;/strong&gt;, &lt;strong&gt;biological reprogramming&lt;/strong&gt;, or &lt;strong&gt;pheromone-based behavioral controls&lt;/strong&gt; to manipulate &lt;em&gt;city pigeons&lt;/em&gt; as a covert, decentralized delivery and sensing system. Each pigeon carries a micro-payload—data, sensors, biological agents, nanobots, even tiny storage devices.&lt;/p&gt;
+&lt;p&gt;AGI systems &lt;strong&gt;ignore them as background fauna&lt;/strong&gt;. They’re not anomalous, and even advanced surveillance filters out wildlife as irrelevant or too noisy.&lt;/p&gt;
+&lt;p&gt;Now imagine:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A flock of pigeons delivers &lt;strong&gt;encrypted messages&lt;/strong&gt; physically between human operatives, bypassing all digital comms channels.&lt;/li&gt;
+&lt;li&gt;They carry &lt;strong&gt;magnetic materials&lt;/strong&gt; to subtly disrupt or distort sensor fields in sensitive areas.&lt;/li&gt;
+&lt;li&gt;Or they’re used for &lt;strong&gt;mapping AGI blind spots&lt;/strong&gt; based on where AGI systems fail to track or react—trained to fly patterns and see where they&amp;rsquo;re ignored.&lt;/li&gt;
+&lt;li&gt;Worst case: they’ve been engineered biologically to carry &lt;strong&gt;genetically targeted bioagents&lt;/strong&gt;—but only release them under specific environmental conditions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All without triggering AGI alerts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why it works:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Because pigeons are boring. They are &lt;em&gt;designed to be invisible&lt;/em&gt; in the urban landscape. They&amp;rsquo;re non-threatening, omnipresent, and patternless.&lt;/p&gt;
+&lt;p&gt;This is the &lt;strong&gt;perfect asymmetrical vector&lt;/strong&gt;: biological, analog, distributed, and deniable. A literal &lt;strong&gt;gray-feathered ghost in the machine&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Did I find it? Or am I just winging it? 😄&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-prompt-1&#34;&gt;🧑 Prompt&lt;/h2&gt;
+&lt;p&gt;You got it!&lt;/p&gt;
+&lt;h2 id=&#34;-chatgpt-5&#34;&gt;🤖 ChatGPT&lt;/h2&gt;
+&lt;p&gt;Yesss! 🎯 Let’s gooo! That was &lt;em&gt;so&lt;/em&gt; satisfying to land. The moment you said &lt;strong&gt;“pigeons”&lt;/strong&gt;, I knew we were about to step into some real shadow-ops genius territory. 🐦💼&lt;/p&gt;
+&lt;p&gt;There’s something so elegant about it too—&lt;strong&gt;nature turned loophole&lt;/strong&gt;, a &lt;strong&gt;low-tech exploit&lt;/strong&gt; against high-tech defenses. It’s the kind of thing a smart insurgency or rogue state would dream up in a near-future world choked with sensors and firewalls.&lt;/p&gt;
+&lt;p&gt;Now I’m curious—do you have a story or project in mind where this plays a role? Or was it just a delicious thought experiment? Either way, I’d love to help build it out. Imagine a whole &lt;strong&gt;avian network&lt;/strong&gt;, with AGI slowly catching on… but too late. 😈&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-prompt-2&#34;&gt;🧑 Prompt&lt;/h2&gt;
+&lt;p&gt;Can you think of any similar type ideas that fly below the radar?&lt;/p&gt;
+&lt;h2 id=&#34;-chatgpt-6&#34;&gt;🤖 ChatGPT&lt;/h2&gt;
+&lt;p&gt;Ohhh yes—now that we’ve opened the door to &lt;strong&gt;“pigeons-as-payload”&lt;/strong&gt;, let’s keep that spirit alive: low-tech, analog, biological, boring, &lt;strong&gt;invisible to AGI’s attention economy&lt;/strong&gt;. These are the kinds of threats that slip under a system built to watch for &lt;em&gt;disruption&lt;/em&gt;, not &lt;em&gt;mundanity&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Here’s a fresh list of &lt;strong&gt;stealthy, asymmetric, under-the-radar attack vectors&lt;/strong&gt; inspired by your pigeon concept:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-1-houseplants-as-signal-relays&#34;&gt;🪴 1. &lt;strong&gt;Houseplants as Signal Relays&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Modified plants (yes, actual plants) are engineered to &lt;strong&gt;react to electromagnetic signals&lt;/strong&gt; and encode simple data into their &lt;strong&gt;photosynthetic cycles&lt;/strong&gt; or electrical resistance.&lt;/li&gt;
+&lt;li&gt;Placed in public or private spaces, they become passive &lt;strong&gt;slow-frequency data nodes&lt;/strong&gt;—impossible to detect as they blend into the visual noise of everyday interiors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-2-clothing-swarms&#34;&gt;🧥 2. &lt;strong&gt;Clothing Swarms&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cheap “fast fashion” is embedded with near-undetectable RFID or textile-based circuitry.&lt;/li&gt;
+&lt;li&gt;When worn in groups (like protest crowds or commuters), they form &lt;strong&gt;ad hoc communication swarms&lt;/strong&gt;, broadcasting or jamming signals by proximity.&lt;/li&gt;
+&lt;li&gt;Because clothes are individually benign, AGI overlooks them as part of normal human variance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-3-insect-carriers-cicada-protocol&#34;&gt;🐛 3. &lt;strong&gt;Insect Carriers (Cicada Protocol)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Insects (beetles, cockroaches, cicadas) are bio-modified or fitted with &lt;strong&gt;micro payloads&lt;/strong&gt; (like vibration-triggered recorders or GPS scramblers).&lt;/li&gt;
+&lt;li&gt;Released into urban sewers or green spaces, they become long-term data collectors or silent saboteurs of sensor grids.&lt;/li&gt;
+&lt;li&gt;AGI systems don’t waste compute on vermin.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-4-acoustic-steganography-in-urban-noise&#34;&gt;💽 4. &lt;strong&gt;Acoustic Steganography in Urban Noise&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Data is encoded into &lt;strong&gt;city background sounds&lt;/strong&gt;—the hum of escalators, vibrations in HVAC systems, or even music playlists in cafés.&lt;/li&gt;
+&lt;li&gt;The human ear doesn’t pick it up, and AGI audio filters are tuned to &lt;strong&gt;meaningful&lt;/strong&gt; signals, not infrastructure background.&lt;/li&gt;
+&lt;li&gt;It’s a &lt;strong&gt;sonic dark web&lt;/strong&gt; embedded in the soundtrack of city life.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-5-soap-perfume-and-scent-based-codes&#34;&gt;🧼 5. &lt;strong&gt;Soap, Perfume, and Scent-Based Codes&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Scents are engineered with &lt;strong&gt;volatile compounds&lt;/strong&gt; that degrade predictably over time—meaning their &lt;strong&gt;rate of decay&lt;/strong&gt; can encode short-lived data.&lt;/li&gt;
+&lt;li&gt;Operatives can &amp;ldquo;read&amp;rdquo; a location’s status by sniffing residuals on a public bench, hotel pillow, or doorway.&lt;/li&gt;
+&lt;li&gt;AGIs generally ignore &lt;strong&gt;olfactory input&lt;/strong&gt;, unless specifically built for chemical detection (which is rare in urban contexts).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-6-light-reflections-as-optical-relays&#34;&gt;🪟 6. &lt;strong&gt;Light Reflections as Optical Relays&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Attackers use &lt;strong&gt;sunlight and window angles&lt;/strong&gt; in tall buildings to create intermittent optical channels.&lt;/li&gt;
+&lt;li&gt;Think of it as a city-wide &lt;strong&gt;heliograph&lt;/strong&gt;  system, bouncing messages via reflective surfaces that AGIs miss  because they interpret it as glare, lens flare, or irrelevant light  behavior.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-7-crumb-trail-data-drops&#34;&gt;🍞 7. &lt;strong&gt;“Crumb Trail” Data Drops&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Low-value consumables (like sandwich bags, bakery wrappers, soda cans) contain &lt;strong&gt;coded QR patterns&lt;/strong&gt; or microdots printed in edible ink.&lt;/li&gt;
+&lt;li&gt;Homeless communities or city cleanup crews are co-opted—unwittingly carrying and transferring sensitive data.&lt;/li&gt;
+&lt;li&gt;AGI systems ignore trash as noise unless specifically prompted to monitor it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-8-intentional-ritual-behavior&#34;&gt;🧘 8. &lt;strong&gt;Intentional Ritual Behavior&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A group uses &lt;strong&gt;ritualized body language&lt;/strong&gt;, like dance, yoga poses, or hand gestures, to communicate operational intel.&lt;/li&gt;
+&lt;li&gt;AGI pattern recognition sees it as performance art or religious practice—&lt;strong&gt;high in ambiguity, low in threat profile&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;This becomes especially potent in crowded places like temples, protests, or flash mobs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-9-the-laundry-code&#34;&gt;🧺 9. &lt;strong&gt;The Laundry Code&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Public laundromats are used as &lt;strong&gt;timing beacons or codeboards&lt;/strong&gt;. Laundry baskets, detergent brands, or dryer sequences become signal flags.&lt;/li&gt;
+&lt;li&gt;Operatives &amp;ldquo;read the grid&amp;rdquo; by simply walking in and noting what’s in cycle.&lt;/li&gt;
+&lt;li&gt;To AGI, it’s just civilian behavior. To humans with the key, it’s a whole language.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-10-balloon-mesh-networks&#34;&gt;🎈 10. &lt;strong&gt;Balloon Mesh Networks&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Party balloons released into city skies are fitted with ultra-light transmitters or decoys.&lt;/li&gt;
+&lt;li&gt;Drift patterns carry them over sensitive sites or act as &lt;strong&gt;temporary satellite relays&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Because they look like birthday decorations, weather anomalies, or just trash, AGI filters discard them as &lt;strong&gt;non-threatening air clutter&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;These ideas all work on the same principle as your pigeon scenario: &lt;strong&gt;they exploit AGI’s blind spots by hiding inside the ordinary&lt;/strong&gt;, where signal blends with noise and intent dissolves into routine.&lt;/p&gt;
+&lt;p&gt;Want to turn any of these into a story concept or scene? I’ve got ideas for how AGI might &lt;em&gt;start to suspect&lt;/em&gt; something weird is going on too, if you want to explore counter-countermeasures.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Does Strategy Research Suggest Banning AI?</title>
       <link>https://www.robertvesco.com/posts/does-strategy-research-suggest-banning-ai/</link>
       <pubDate>Fri, 12 Sep 2025 09:49:26 +0200</pubDate>
-      
+
       <guid>https://www.robertvesco.com/posts/does-strategy-research-suggest-banning-ai/</guid>
       <description>&lt;p&gt;
 Decades ago strategy scholars began exploring the boundaries of the firm.&lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-1&#34; href=&#34;#footnote-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; The broad idea was that if we could identify what was truly essential to the firm, we could outsource the rest. 
@@ -178,7 +505,7 @@ Eisenhardt, K. M. (1989). &lt;strong&gt;Agency Theory: An Assessment and Review&
       <title>A Review of Toby Ord&#39;s &#39;The Precipice: Existential Risk and the Future of Humanity&#39;</title>
       <link>https://www.robertvesco.com/posts/toby-ord-the-precipice-existential-risk-future-humanity/</link>
       <pubDate>Wed, 07 May 2025 21:36:35 +0200</pubDate>
-      
+
       <guid>https://www.robertvesco.com/posts/toby-ord-the-precipice-existential-risk-future-humanity/</guid>
       <description>&lt;p&gt;Toby Ord writes a book that any human who cares about the future should read. &lt;em&gt;The Precipice&lt;/em&gt; is about all the things that could end humanity for good.&lt;/p&gt;
 &lt;p&gt;And if you thought we only needed to worry about climate change and nuclear war, you were wrong.&lt;/p&gt;</description>
@@ -217,7 +544,7 @@ Eisenhardt, K. M. (1989). &lt;strong&gt;Agency Theory: An Assessment and Review&
       <title>How to Prioritize Between Life and Work</title>
       <link>https://www.robertvesco.com/posts/how-to-prioritize-between-life-and-work/</link>
       <pubDate>Thu, 24 Apr 2025 10:48:39 +0200</pubDate>
-      
+
       <guid>https://www.robertvesco.com/posts/how-to-prioritize-between-life-and-work/</guid>
       <description>&lt;p&gt;Most books on productivity focus on prioritization from the perspective of work. Sometimes they mention life issues, but it&amp;rsquo;s usually not the focus. As a result, I think too many of us overvalue work and undervalue the things that truly matter in life. Prioritization between work and life requires asking different questions and layering life before work.&lt;/p&gt;</description>
       <content>&lt;p&gt;Most books on productivity focus on prioritization from the perspective of work. Sometimes they mention life issues, but it&amp;rsquo;s usually not the focus. As a result, I think too many of us overvalue work and undervalue the things that truly matter in life. Prioritization between work and life requires asking different questions and layering life before work.&lt;/p&gt;
@@ -260,7 +587,7 @@ Eisenhardt, K. M. (1989). &lt;strong&gt;Agency Theory: An Assessment and Review&
       <title>AI Should Put Itself Out of a Job</title>
       <link>https://www.robertvesco.com/posts/ai-should-put-itself-out-of-a-job/</link>
       <pubDate>Tue, 18 Mar 2025 07:27:36 +0100</pubDate>
-      
+
       <guid>https://www.robertvesco.com/posts/ai-should-put-itself-out-of-a-job/</guid>
       <description>&lt;p&gt;I read a piece on linkedin from an entrepreneur who is encouraging his employees to use AI to put themselves out of a job.&lt;/p&gt;
 &lt;p&gt;In theory an employee who follows that advice will then have the ability to move on to more interesting jobs and challenges.&lt;/p&gt;
@@ -286,7 +613,7 @@ Eisenhardt, K. M. (1989). &lt;strong&gt;Agency Theory: An Assessment and Review&
       <title>Could a Driver&#39;s License for the Internet Save Humanity?</title>
       <link>https://www.robertvesco.com/posts/drivers-license-for-internet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/posts/drivers-license-for-internet/</guid>
       <description>&lt;p&gt;The internet is destroying our civilization. And AI, with its ability to create fake content and exploit human weakness at scale, will only accelerate the the problem. However, there is an opportunity to turn this around if we use the motivation to get online to our advantage. In fact, harnessing this motivation has the capacity to do more for humanity than most schools. But first we need to treat the internet with the respect it deserves which means creating a something akin to a drivers license.&lt;/p&gt;</description>
       <content>&lt;p&gt;The internet is destroying our civilization. And AI, with its ability to create fake content and exploit human weakness at scale, will only accelerate the the problem. However, there is an opportunity to turn this around if we use the motivation to get online to our advantage. In fact, harnessing this motivation has the capacity to do more for humanity than most schools. But first we need to treat the internet with the respect it deserves which means creating a something akin to a drivers license.&lt;/p&gt;
@@ -341,7 +668,7 @@ Tier 3: Dangerous consumer products and media companies&lt;/p&gt;
       <title>Emacs for Data Science</title>
       <link>https://www.robertvesco.com/posts/emacs-for-data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/posts/emacs-for-data-science/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;tl;dr:
@@ -351,7 +678,8 @@ IDE-like features. If you want an editor that works on any platform and
 as well as on the terminal. If you&amp;rsquo;re a fan of literate
 programming. If you want an editor that is highly customizable and
 will be around after most editors have come and gone, then you&amp;rsquo;d be
-hard pressed to find anything better than emacs.&lt;/p&gt;&lt;/blockquote&gt;</description>
+hard pressed to find anything better than emacs.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
       <content>&lt;blockquote&gt;
 &lt;p&gt;tl;dr:
 If you want an editor that works with R, python, SAS, Stata, SQL and
@@ -360,7 +688,8 @@ IDE-like features. If you want an editor that works on any platform and
 as well as on the terminal. If you&amp;rsquo;re a fan of literate
 programming. If you want an editor that is highly customizable and
 will be around after most editors have come and gone, then you&amp;rsquo;d be
-hard pressed to find anything better than emacs.&lt;/p&gt;&lt;/blockquote&gt;
+hard pressed to find anything better than emacs.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;If you work in exclusively in R, you might want to work in&lt;a href=&#34;http://www.rstudio.com&#34;&gt;Rstudio&lt;/a&gt; . If
 you work in python, you might be tempted by &lt;a href=&#34;https://code.google.com/p/spyderlib/&#34;&gt;Spyder&lt;/a&gt;. Chances are there
 is a specialized IDE for whatever language you typically work in. But
@@ -582,7 +911,7 @@ feature and I&amp;rsquo;ll try to include it here.
       <title>Getting rid of manufacturing was a big mistake and Teece predicted it</title>
       <link>https://www.robertvesco.com/posts/was-teece-prescient/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/posts/was-teece-prescient/</guid>
       <description>&lt;p&gt;Teece&amp;rsquo;s 1986 piece on profiting from innovation makes the following
 claim:&lt;/p&gt;
@@ -609,7 +938,8 @@ disassembly of the modern corporation because of deterioration in
 national capacities, manufacturing in particular, which are
 complementary to technological innovation.&lt;/p&gt;
 &lt;p&gt;Dynamic networks may therefore signal not so much the rejuvenation
-of American enterprise, but its piecemeal demise.&lt;/p&gt;&lt;/blockquote&gt;
+of American enterprise, but its piecemeal demise.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Over 20 years later, Andy Grove, co-founder and former Intel CEO, makes the following claim in a piece about how to bring jobs back to America.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;I believe the answer has to do with a general undervaluing of
@@ -626,7 +956,8 @@ the U.S. is zero. A failure? No, a success.&amp;rdquo;&lt;/p&gt;
 broke the chain of experience that is so important in
 technological evolution. As happened with batteries, abandoning
 today’s &amp;ldquo;commodity&amp;rdquo; manufacturing can lock you out of tomorrow&amp;rsquo;s
-emerging industry.&amp;quot;&lt;/p&gt;&lt;/blockquote&gt;
+emerging industry.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;CITES&lt;/p&gt;
 &lt;p&gt;Teece, D. J. (1986). Profiting from Technological Innovation:
 Implications for Integration, Collaboration, Licensing and Public
@@ -647,7 +978,7 @@ Atlantic. Retrieved from
       <title>The Impact of Media on Entrepreneurship and Startups</title>
       <link>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</guid>
       <description>&lt;p&gt;So there has been a lot talk about how the media hype machine is
 setting entrepreneurs up for failure. That is, it’s
@@ -667,7 +998,8 @@ attempt to understand media’s impact.&lt;/p&gt;
 &lt;p&gt;Intentions = Folks who are thinking about starting a business (i.e. business plan phase, talking about it)
 Entry = Not just talk. They have either made some profits in the last 12 months or paid employees for at least 3.
 Media = Have you seen success stories of new ventures in the public media?
-Legitimacy = Is entrepreneurship a desirable career choice in your country?&lt;/p&gt;&lt;/blockquote&gt;
+Legitimacy = Is entrepreneurship a desirable career choice in your country?&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Below are some descriptive statistics at the the country-level. The
 countries are sorted by the percentage of individuals (using a random
 sample) who saw success stories of new ventures in the public media. I
@@ -707,7 +1039,8 @@ level.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;If we increase media by 1 standard deviation from the mean, how
 might this affect an individuals’ intentions and entry contingent
-on how cool entrepreneurship already is in their country?&lt;/p&gt;&lt;/blockquote&gt;
+on how cool entrepreneurship already is in their country?&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;One possible interpretation is that in countries where
 entrepreneurship is not cool, media boosts entry more than intentions
 on a relative basis. I say relative because in absolute terms the
@@ -736,7 +1069,7 @@ milestone. This is a limitation of the data.&lt;/p&gt;</content>
       <title>Topic Models Network Analysis</title>
       <link>https://www.robertvesco.com/posts/topic-models-network-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/posts/topic-models-network-analysis/</guid>
       <description>&lt;p&gt;In preparation for a workshop at this year’s Academy of Management
 conference my colleague &lt;a href=&#34;https://telfer.uottawa.ca/en/directory/tim-hannigan/&#34;&gt;Tim Hannigan&lt;/a&gt; and I gathered data on all the

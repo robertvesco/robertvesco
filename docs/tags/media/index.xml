@@ -5,12 +5,14 @@
     <link>https://www.robertvesco.com/tags/media/</link>
     <description>Recent content in Media on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.robertvesco.com/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+
+    <atom:link href="https://www.robertvesco.com/tags/media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Impact of Media on Entrepreneurship and Startups</title>
       <link>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/posts/media-entrepreneurship-across-countries/</guid>
       <description>&lt;p&gt;So there has been a lot talk about how the media hype machine is
 setting entrepreneurs up for failure. That is, it’s
@@ -30,7 +32,8 @@ attempt to understand media’s impact.&lt;/p&gt;
 &lt;p&gt;Intentions = Folks who are thinking about starting a business (i.e. business plan phase, talking about it)
 Entry = Not just talk. They have either made some profits in the last 12 months or paid employees for at least 3.
 Media = Have you seen success stories of new ventures in the public media?
-Legitimacy = Is entrepreneurship a desirable career choice in your country?&lt;/p&gt;&lt;/blockquote&gt;
+Legitimacy = Is entrepreneurship a desirable career choice in your country?&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Below are some descriptive statistics at the the country-level. The
 countries are sorted by the percentage of individuals (using a random
 sample) who saw success stories of new ventures in the public media. I
@@ -70,7 +73,8 @@ level.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;If we increase media by 1 standard deviation from the mean, how
 might this affect an individuals’ intentions and entry contingent
-on how cool entrepreneurship already is in their country?&lt;/p&gt;&lt;/blockquote&gt;
+on how cool entrepreneurship already is in their country?&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;One possible interpretation is that in countries where
 entrepreneurship is not cool, media boosts entry more than intentions
 on a relative basis. I say relative because in absolute terms the

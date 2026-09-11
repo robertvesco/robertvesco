@@ -5,14 +5,26 @@
     <link>https://www.robertvesco.com/tags/</link>
     <description>Recent content in Tags on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 12 Sep 2025 09:49:26 +0200</lastBuildDate><atom:link href="https://www.robertvesco.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+
+    
+    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertvesco.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://www.robertvesco.com/tags/ai/</link>
-      <pubDate>Fri, 12 Sep 2025 09:49:26 +0200</pubDate>
-      
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+
       <guid>https://www.robertvesco.com/tags/ai/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Existential Risks</title>
+      <link>https://www.robertvesco.com/tags/existential-risks/</link>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+
+      <guid>https://www.robertvesco.com/tags/existential-risks/</guid>
       <description></description>
       <content></content>
     </item>
@@ -21,7 +33,7 @@
       <title>Policy</title>
       <link>https://www.robertvesco.com/tags/policy/</link>
       <pubDate>Fri, 12 Sep 2025 09:49:26 +0200</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/policy/</guid>
       <description></description>
       <content></content>
@@ -31,7 +43,7 @@
       <title>Regulation</title>
       <link>https://www.robertvesco.com/tags/regulation/</link>
       <pubDate>Fri, 12 Sep 2025 09:49:26 +0200</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/regulation/</guid>
       <description></description>
       <content></content>
@@ -41,7 +53,7 @@
       <title>Strategy</title>
       <link>https://www.robertvesco.com/tags/strategy/</link>
       <pubDate>Fri, 12 Sep 2025 09:49:26 +0200</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/strategy/</guid>
       <description></description>
       <content></content>
@@ -51,7 +63,7 @@
       <title>Book Reviews</title>
       <link>https://www.robertvesco.com/tags/book-reviews/</link>
       <pubDate>Wed, 07 May 2025 21:36:35 +0200</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/book-reviews/</guid>
       <description></description>
       <content></content>
@@ -61,18 +73,8 @@
       <title>Effective Altruism</title>
       <link>https://www.robertvesco.com/tags/effective-altruism/</link>
       <pubDate>Wed, 07 May 2025 21:36:35 +0200</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/effective-altruism/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Existential Risks</title>
-      <link>https://www.robertvesco.com/tags/existential-risks/</link>
-      <pubDate>Wed, 07 May 2025 21:36:35 +0200</pubDate>
-      
-      <guid>https://www.robertvesco.com/tags/existential-risks/</guid>
       <description></description>
       <content></content>
     </item>
@@ -81,7 +83,7 @@
       <title>Toby Ord</title>
       <link>https://www.robertvesco.com/tags/toby-ord/</link>
       <pubDate>Wed, 07 May 2025 21:36:35 +0200</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/toby-ord/</guid>
       <description></description>
       <content></content>
@@ -91,7 +93,7 @@
       <title>Productivity</title>
       <link>https://www.robertvesco.com/tags/productivity/</link>
       <pubDate>Thu, 24 Apr 2025 10:48:39 +0200</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/productivity/</guid>
       <description></description>
       <content></content>
@@ -101,7 +103,7 @@
       <title>Rant</title>
       <link>https://www.robertvesco.com/tags/rant/</link>
       <pubDate>Tue, 18 Mar 2025 07:27:36 +0100</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/rant/</guid>
       <description></description>
       <content></content>
@@ -111,7 +113,7 @@
       <title>Academia</title>
       <link>https://www.robertvesco.com/tags/academia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/academia/</guid>
       <description></description>
       <content></content>
@@ -121,7 +123,7 @@
       <title>Data Science</title>
       <link>https://www.robertvesco.com/tags/data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/data-science/</guid>
       <description></description>
       <content></content>
@@ -131,7 +133,7 @@
       <title>Development Policy</title>
       <link>https://www.robertvesco.com/tags/development-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/development-policy/</guid>
       <description></description>
       <content></content>
@@ -141,7 +143,7 @@
       <title>Emacs</title>
       <link>https://www.robertvesco.com/tags/emacs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/emacs/</guid>
       <description></description>
       <content></content>
@@ -151,7 +153,7 @@
       <title>Entrepreneurship</title>
       <link>https://www.robertvesco.com/tags/entrepreneurship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/entrepreneurship/</guid>
       <description></description>
       <content></content>
@@ -161,7 +163,7 @@
       <title>Innovation</title>
       <link>https://www.robertvesco.com/tags/innovation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/innovation/</guid>
       <description></description>
       <content></content>
@@ -171,7 +173,7 @@
       <title>Internet</title>
       <link>https://www.robertvesco.com/tags/internet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/internet/</guid>
       <description></description>
       <content></content>
@@ -181,7 +183,7 @@
       <title>Media</title>
       <link>https://www.robertvesco.com/tags/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/media/</guid>
       <description></description>
       <content></content>
@@ -191,7 +193,7 @@
       <title>Network Analysis</title>
       <link>https://www.robertvesco.com/tags/network-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/network-analysis/</guid>
       <description></description>
       <content></content>
@@ -201,7 +203,7 @@
       <title>Privacy</title>
       <link>https://www.robertvesco.com/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/privacy/</guid>
       <description></description>
       <content></content>
@@ -211,7 +213,7 @@
       <title>Technology</title>
       <link>https://www.robertvesco.com/tags/technology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/technology/</guid>
       <description></description>
       <content></content>
@@ -221,7 +223,7 @@
       <title>Topic Models</title>
       <link>https://www.robertvesco.com/tags/topic-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/tags/topic-models/</guid>
       <description></description>
       <content></content>

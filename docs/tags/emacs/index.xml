@@ -5,12 +5,14 @@
     <link>https://www.robertvesco.com/tags/emacs/</link>
     <description>Recent content in Emacs on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.robertvesco.com/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+
+    <atom:link href="https://www.robertvesco.com/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emacs for Data Science</title>
       <link>https://www.robertvesco.com/posts/emacs-for-data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.robertvesco.com/posts/emacs-for-data-science/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;tl;dr:
@@ -20,7 +22,8 @@ IDE-like features. If you want an editor that works on any platform and
 as well as on the terminal. If you&amp;rsquo;re a fan of literate
 programming. If you want an editor that is highly customizable and
 will be around after most editors have come and gone, then you&amp;rsquo;d be
-hard pressed to find anything better than emacs.&lt;/p&gt;&lt;/blockquote&gt;</description>
+hard pressed to find anything better than emacs.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
       <content>&lt;blockquote&gt;
 &lt;p&gt;tl;dr:
 If you want an editor that works with R, python, SAS, Stata, SQL and
@@ -29,7 +32,8 @@ IDE-like features. If you want an editor that works on any platform and
 as well as on the terminal. If you&amp;rsquo;re a fan of literate
 programming. If you want an editor that is highly customizable and
 will be around after most editors have come and gone, then you&amp;rsquo;d be
-hard pressed to find anything better than emacs.&lt;/p&gt;&lt;/blockquote&gt;
+hard pressed to find anything better than emacs.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;If you work in exclusively in R, you might want to work in&lt;a href=&#34;http://www.rstudio.com&#34;&gt;Rstudio&lt;/a&gt; . If
 you work in python, you might be tempted by &lt;a href=&#34;https://code.google.com/p/spyderlib/&#34;&gt;Spyder&lt;/a&gt;. Chances are there
 is a specialized IDE for whatever language you typically work in. But
