@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Existential Risks on Robert Vesco</title>
-    <link>https://www.robertvesco.com/tags/existential-risks/</link>
+    <link>http://localhost:1313/tags/existential-risks/</link>
     <description>Recent content in Existential Risks on Robert Vesco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
 
     
-    <lastBuildDate>Wed, 23 Sep 2026 18:09:37 +0200</lastBuildDate><atom:link href="https://www.robertvesco.com/tags/existential-risks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Sep 2026 18:09:37 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/existential-risks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jobs of the Future May Resemble Those From the Past</title>
-      <link>https://www.robertvesco.com/posts/jobs-of-the-future-may-resemble-those-from-the-past/</link>
+      <link>http://localhost:1313/posts/jobs-of-the-future-may-resemble-those-from-the-past/</link>
       <pubDate>Wed, 23 Sep 2026 18:09:37 +0200</pubDate>
 
-      <guid>https://www.robertvesco.com/posts/jobs-of-the-future-may-resemble-those-from-the-past/</guid>
+      <guid>http://localhost:1313/posts/jobs-of-the-future-may-resemble-those-from-the-past/</guid>
       <description>&lt;p&gt;
 &amp;gt; TL;DR The jobs of the far future may not be ones we can’t conceive of yet, but instead ones from the past that keep us capable of operating independently of AI. As recent geopolitical events can attest to, there is a risk in trusting partners with critical capabilities and resources. To do so invites vulnerability.&lt;/p&gt;
 &lt;hr&gt;
@@ -119,10 +119,10 @@ Footnotes
     
     <item>
       <title>Brainstorming novel biological attacks with an LLM</title>
-      <link>https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/</link>
+      <link>http://localhost:1313/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/</link>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 
-      <guid>https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/</guid>
+      <guid>http://localhost:1313/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/</guid>
       <description>&lt;p&gt;For a book I was writing, I have a scenario where a novel biological attack is used against an AI-protected nation state.&lt;/p&gt;
 &lt;p&gt;I was curious to see if the LLM could divine the idea. It did not, but many of the ideas it came up were even better and more creative than my own. &lt;strong&gt;Truly scary&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;The following back-and-forth happened over a year ago in early 2025. I&amp;rsquo;ve debated publishing them, but in light of recent reports by &lt;a href=&#34;https://www.bbc.com/news/articles/cx2zrrpkx20o&#34;&gt;AI labs discussing the misuse of LLMs to develop biological agents&lt;/a&gt;, I thought it important to show how much worse this could be. The scenarios below could easily become a country&amp;rsquo;s 9/11 due to their ability to exploit what many of us take for granted.&lt;/p&gt;</description>
@@ -131,10 +131,10 @@ Footnotes
 &lt;p&gt;The following back-and-forth happened over a year ago in early 2025. I&amp;rsquo;ve debated publishing them, but in light of recent reports by &lt;a href=&#34;https://www.bbc.com/news/articles/cx2zrrpkx20o&#34;&gt;AI labs discussing the misuse of LLMs to develop biological agents&lt;/a&gt;, I thought it important to show how much worse this could be. The scenarios below could easily become a country&amp;rsquo;s 9/11 due to their ability to exploit what many of us take for granted.&lt;/p&gt;
 &lt;p&gt;The conversation precedes along these four paths:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/#prompt-1&#34;&gt;What protections would an AI-powered city have in 2035?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/#prompt-2&#34;&gt;Then I ask it to come up with novel attack scenarios against such a city&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/#prompt-3&#34;&gt;Then I challenge it to discover my idea in several rounds of chatting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/#prompt-4&#34;&gt;Lastly, I reveal my idea and ask it to riff on similar ideas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/#prompt-1&#34;&gt;What protections would an AI-powered city have in 2035?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/#prompt-2&#34;&gt;Then I ask it to come up with novel attack scenarios against such a city&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/#prompt-3&#34;&gt;Then I challenge it to discover my idea in several rounds of chatting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/#prompt-4&#34;&gt;Lastly, I reveal my idea and ask it to riff on similar ideas&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;There is much more to this wild conversation including discussions about consciousness, but I&amp;rsquo;ll leave that for another time.&lt;/p&gt;
 &lt;hr&gt;
@@ -444,10 +444,10 @@ Footnotes
     
     <item>
       <title>A Review of Toby Ord&#39;s &#39;The Precipice: Existential Risk and the Future of Humanity&#39;</title>
-      <link>https://www.robertvesco.com/posts/toby-ord-the-precipice-existential-risk-future-humanity/</link>
+      <link>http://localhost:1313/posts/toby-ord-the-precipice-existential-risk-future-humanity/</link>
       <pubDate>Wed, 07 May 2025 21:36:35 +0200</pubDate>
 
-      <guid>https://www.robertvesco.com/posts/toby-ord-the-precipice-existential-risk-future-humanity/</guid>
+      <guid>http://localhost:1313/posts/toby-ord-the-precipice-existential-risk-future-humanity/</guid>
       <description>&lt;p&gt;Toby Ord writes a book that any human who cares about the future should read. &lt;em&gt;The Precipice&lt;/em&gt; is about all the things that could end humanity for good.&lt;/p&gt;
 &lt;p&gt;And if you thought we only needed to worry about climate change and nuclear war, you were wrong.&lt;/p&gt;</description>
       <content>&lt;p&gt;Toby Ord writes a book that any human who cares about the future should read. &lt;em&gt;The Precipice&lt;/em&gt; is about all the things that could end humanity for good.&lt;/p&gt;
